@@ -1,0 +1,15 @@
+### Problem 3 – Matrix Multiplication
+- We are comparing the sequential program against 3 variants of parallelised matrix multiplication algorithms.
+- A `mythreads.h` library has been included, which is basically a wrapper to some standard `pthread.h` library functions. The wrappers check for exception safety.
+- **Variant 1** -
+	- We create $n^2$ threads, each one computing one of the output element of the final product matrix.
+- **Variant 2** -
+	- We create $n$ threads, each one computing one row final product matrix.
+- **Variant 3** -
+	- We create 4 threads and use locks for computing the final product matrix.
+	- Divide the first matrix into 4 quadrants. perform the sequential method with each quadrant with the 2nd matrix while holding a lock on the result of a partuicular element of the product matrix. 
+	- The lock is needed as the other thread is also performing an addition on a shared variable result.
+- Plots
+	- *insert the plot of all the 4 variants (single graph)*
+- Observations
+	- To be added
