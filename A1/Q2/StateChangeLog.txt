@@ -1,0 +1,10409 @@
+
+
+S1 (0): Eating
+S2 (0): Waiting for Spoons
+S3 (0): Waiting for Spoons
+S4 (0): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (0): Eating
+S2 (0): Waiting for Spoons
+S3 (0): Eating
+S4 (0): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (0): Thinking
+S2 (0): Waiting for Spoons
+S3 (0): Eating
+S4 (0): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (0): Thinking
+S2 (0): Waiting for Spoons
+S3 (0): Thinking
+S4 (0): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (0): Thinking
+S2 (0): Eating
+S3 (0): Thinking
+S4 (0): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (0): Thinking
+S2 (0): Eating
+S3 (0): Thinking
+S4 (0): Eating
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (0): Thinking
+S2 (0): Eating
+S3 (1): Waiting for Spoons
+S4 (0): Eating
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Waiting for Spoons
+S2 (0): Eating
+S3 (1): Waiting for Spoons
+S4 (0): Eating
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Waiting for Spoons
+S2 (0): Thinking
+S3 (1): Waiting for Spoons
+S4 (0): Eating
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Waiting for Spoons
+S2 (0): Thinking
+S3 (1): Waiting for Spoons
+S4 (0): Thinking
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Waiting for Spoons
+S2 (0): Thinking
+S3 (1): Eating
+S4 (0): Thinking
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Waiting for Spoons
+S2 (1): Waiting for Spoons
+S3 (1): Eating
+S4 (0): Thinking
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Waiting for Spoons
+S2 (1): Waiting for Spoons
+S3 (1): Eating
+S4 (1): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Waiting for Spoons
+S2 (1): Waiting for Spoons
+S3 (1): Thinking
+S4 (1): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Eating
+S2 (1): Waiting for Spoons
+S3 (1): Thinking
+S4 (1): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Eating
+S2 (1): Waiting for Spoons
+S3 (2): Waiting for Spoons
+S4 (1): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Eating
+S2 (1): Waiting for Spoons
+S3 (2): Eating
+S4 (1): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Thinking
+S2 (1): Waiting for Spoons
+S3 (2): Eating
+S4 (1): Waiting for Spoons
+S5 (0): Waiting for Spoons
+
+-----------------
+
+S1 (1): Thinking
+S2 (1): Waiting for Spoons
+S3 (2): Eating
+S4 (1): Waiting for Spoons
+S5 (0): Eating
+
+-----------------
+
+S1 (2): Waiting for Spoons
+S2 (1): Waiting for Spoons
+S3 (2): Eating
+S4 (1): Waiting for Spoons
+S5 (0): Eating
+
+-----------------
+
+S1 (2): Waiting for Spoons
+S2 (1): Waiting for Spoons
+S3 (2): Thinking
+S4 (1): Waiting for Spoons
+S5 (0): Eating
+
+-----------------
+
+S1 (2): Waiting for Spoons
+S2 (1): Eating
+S3 (2): Thinking
+S4 (1): Waiting for Spoons
+S5 (0): Eating
+
+-----------------
+
+S1 (2): Waiting for Spoons
+S2 (1): Eating
+S3 (3): Waiting for Spoons
+S4 (1): Waiting for Spoons
+S5 (0): Eating
+
+-----------------
+
+S1 (2): Waiting for Spoons
+S2 (1): Eating
+S3 (3): Waiting for Spoons
+S4 (1): Waiting for Spoons
+S5 (0): Thinking
+
+-----------------
+
+S1 (2): Waiting for Spoons
+S2 (1): Eating
+S3 (3): Waiting for Spoons
+S4 (1): Eating
+S5 (0): Thinking
+
+-----------------
+
+S1 (2): Waiting for Spoons
+S2 (1): Eating
+S3 (3): Waiting for Spoons
+S4 (1): Eating
+S5 (1): Waiting for Spoons
+
+-----------------
+
+S1 (2): Waiting for Spoons
+S2 (1): Thinking
+S3 (3): Waiting for Spoons
+S4 (1): Eating
+S5 (1): Waiting for Spoons
+
+-----------------
+
+S1 (2): Eating
+S2 (1): Thinking
+S3 (3): Waiting for Spoons
+S4 (1): Eating
+S5 (1): Waiting for Spoons
+
+-----------------
+
+S1 (2): Eating
+S2 (2): Waiting for Spoons
+S3 (3): Waiting for Spoons
+S4 (1): Eating
+S5 (1): Waiting for Spoons
+
+-----------------
+
+S1 (2): Eating
+S2 (2): Waiting for Spoons
+S3 (3): Waiting for Spoons
+S4 (1): Thinking
+S5 (1): Waiting for Spoons
+
+-----------------
+
+S1 (2): Eating
+S2 (2): Waiting for Spoons
+S3 (3): Eating
+S4 (1): Thinking
+S5 (1): Waiting for Spoons
+
+-----------------
+
+S1 (2): Eating
+S2 (2): Waiting for Spoons
+S3 (3): Eating
+S4 (2): Waiting for Spoons
+S5 (1): Waiting for Spoons
+
+-----------------
+
+S1 (2): Thinking
+S2 (2): Waiting for Spoons
+S3 (3): Eating
+S4 (2): Waiting for Spoons
+S5 (1): Waiting for Spoons
+
+-----------------
+
+S1 (2): Thinking
+S2 (2): Waiting for Spoons
+S3 (3): Eating
+S4 (2): Waiting for Spoons
+S5 (1): Eating
+
+-----------------
+
+S1 (3): Waiting for Spoons
+S2 (2): Waiting for Spoons
+S3 (3): Eating
+S4 (2): Waiting for Spoons
+S5 (1): Eating
+
+-----------------
+
+S1 (3): Waiting for Spoons
+S2 (2): Waiting for Spoons
+S3 (3): Thinking
+S4 (2): Waiting for Spoons
+S5 (1): Eating
+
+-----------------
+
+S1 (3): Waiting for Spoons
+S2 (2): Eating
+S3 (3): Thinking
+S4 (2): Waiting for Spoons
+S5 (1): Eating
+
+-----------------
+
+S1 (3): Waiting for Spoons
+S2 (2): Eating
+S3 (4): Waiting for Spoons
+S4 (2): Waiting for Spoons
+S5 (1): Eating
+
+-----------------
+
+S1 (3): Waiting for Spoons
+S2 (2): Eating
+S3 (4): Waiting for Spoons
+S4 (2): Waiting for Spoons
+S5 (1): Thinking
+
+-----------------
+
+S1 (3): Waiting for Spoons
+S2 (2): Eating
+S3 (4): Waiting for Spoons
+S4 (2): Eating
+S5 (1): Thinking
+
+-----------------
+
+S1 (3): Waiting for Spoons
+S2 (2): Eating
+S3 (4): Waiting for Spoons
+S4 (2): Eating
+S5 (2): Waiting for Spoons
+
+-----------------
+
+S1 (3): Waiting for Spoons
+S2 (2): Thinking
+S3 (4): Waiting for Spoons
+S4 (2): Eating
+S5 (2): Waiting for Spoons
+
+-----------------
+
+S1 (3): Eating
+S2 (2): Thinking
+S3 (4): Waiting for Spoons
+S4 (2): Eating
+S5 (2): Waiting for Spoons
+
+-----------------
+
+S1 (3): Eating
+S2 (3): Waiting for Spoons
+S3 (4): Waiting for Spoons
+S4 (2): Eating
+S5 (2): Waiting for Spoons
+
+-----------------
+
+S1 (3): Eating
+S2 (3): Waiting for Spoons
+S3 (4): Waiting for Spoons
+S4 (2): Thinking
+S5 (2): Waiting for Spoons
+
+-----------------
+
+S1 (3): Eating
+S2 (3): Waiting for Spoons
+S3 (4): Eating
+S4 (2): Thinking
+S5 (2): Waiting for Spoons
+
+-----------------
+
+S1 (3): Eating
+S2 (3): Waiting for Spoons
+S3 (4): Eating
+S4 (3): Waiting for Spoons
+S5 (2): Waiting for Spoons
+
+-----------------
+
+S1 (3): Thinking
+S2 (3): Waiting for Spoons
+S3 (4): Eating
+S4 (3): Waiting for Spoons
+S5 (2): Waiting for Spoons
+
+-----------------
+
+S1 (3): Thinking
+S2 (3): Waiting for Spoons
+S3 (4): Eating
+S4 (3): Waiting for Spoons
+S5 (2): Eating
+
+-----------------
+
+S1 (3): Thinking
+S2 (3): Waiting for Spoons
+S3 (4): Thinking
+S4 (3): Waiting for Spoons
+S5 (2): Eating
+
+-----------------
+
+S1 (3): Thinking
+S2 (3): Eating
+S3 (4): Thinking
+S4 (3): Waiting for Spoons
+S5 (2): Eating
+
+-----------------
+
+S1 (4): Waiting for Spoons
+S2 (3): Eating
+S3 (4): Thinking
+S4 (3): Waiting for Spoons
+S5 (2): Eating
+
+-----------------
+
+S1 (4): Waiting for Spoons
+S2 (3): Eating
+S3 (5): Waiting for Spoons
+S4 (3): Waiting for Spoons
+S5 (2): Eating
+
+-----------------
+
+S1 (4): Waiting for Spoons
+S2 (3): Eating
+S3 (5): Waiting for Spoons
+S4 (3): Waiting for Spoons
+S5 (2): Thinking
+
+-----------------
+
+S1 (4): Waiting for Spoons
+S2 (3): Eating
+S3 (5): Waiting for Spoons
+S4 (3): Eating
+S5 (2): Thinking
+
+-----------------
+
+S1 (4): Waiting for Spoons
+S2 (3): Eating
+S3 (5): Waiting for Spoons
+S4 (3): Eating
+S5 (3): Waiting for Spoons
+
+-----------------
+
+S1 (4): Waiting for Spoons
+S2 (3): Thinking
+S3 (5): Waiting for Spoons
+S4 (3): Eating
+S5 (3): Waiting for Spoons
+
+-----------------
+
+S1 (4): Eating
+S2 (3): Thinking
+S3 (5): Waiting for Spoons
+S4 (3): Eating
+S5 (3): Waiting for Spoons
+
+-----------------
+
+S1 (4): Eating
+S2 (4): Waiting for Spoons
+S3 (5): Waiting for Spoons
+S4 (3): Eating
+S5 (3): Waiting for Spoons
+
+-----------------
+
+S1 (4): Eating
+S2 (4): Waiting for Spoons
+S3 (5): Waiting for Spoons
+S4 (3): Thinking
+S5 (3): Waiting for Spoons
+
+-----------------
+
+S1 (4): Eating
+S2 (4): Waiting for Spoons
+S3 (5): Eating
+S4 (3): Thinking
+S5 (3): Waiting for Spoons
+
+-----------------
+
+S1 (4): Eating
+S2 (4): Waiting for Spoons
+S3 (5): Eating
+S4 (4): Waiting for Spoons
+S5 (3): Waiting for Spoons
+
+-----------------
+
+S1 (4): Thinking
+S2 (4): Waiting for Spoons
+S3 (5): Eating
+S4 (4): Waiting for Spoons
+S5 (3): Waiting for Spoons
+
+-----------------
+
+S1 (4): Thinking
+S2 (4): Waiting for Spoons
+S3 (5): Eating
+S4 (4): Waiting for Spoons
+S5 (3): Eating
+
+-----------------
+
+S1 (5): Waiting for Spoons
+S2 (4): Waiting for Spoons
+S3 (5): Eating
+S4 (4): Waiting for Spoons
+S5 (3): Eating
+
+-----------------
+
+S1 (5): Waiting for Spoons
+S2 (4): Waiting for Spoons
+S3 (5): Thinking
+S4 (4): Waiting for Spoons
+S5 (3): Eating
+
+-----------------
+
+S1 (5): Waiting for Spoons
+S2 (4): Eating
+S3 (5): Thinking
+S4 (4): Waiting for Spoons
+S5 (3): Eating
+
+-----------------
+
+S1 (5): Waiting for Spoons
+S2 (4): Eating
+S3 (6): Waiting for Spoons
+S4 (4): Waiting for Spoons
+S5 (3): Eating
+
+-----------------
+
+S1 (5): Waiting for Spoons
+S2 (4): Eating
+S3 (6): Waiting for Spoons
+S4 (4): Waiting for Spoons
+S5 (3): Thinking
+
+-----------------
+
+S1 (5): Waiting for Spoons
+S2 (4): Eating
+S3 (6): Waiting for Spoons
+S4 (4): Eating
+S5 (3): Thinking
+
+-----------------
+
+S1 (5): Waiting for Spoons
+S2 (4): Eating
+S3 (6): Waiting for Spoons
+S4 (4): Eating
+S5 (4): Waiting for Spoons
+
+-----------------
+
+S1 (5): Waiting for Spoons
+S2 (4): Thinking
+S3 (6): Waiting for Spoons
+S4 (4): Eating
+S5 (4): Waiting for Spoons
+
+-----------------
+
+S1 (5): Eating
+S2 (4): Thinking
+S3 (6): Waiting for Spoons
+S4 (4): Eating
+S5 (4): Waiting for Spoons
+
+-----------------
+
+S1 (5): Eating
+S2 (5): Waiting for Spoons
+S3 (6): Waiting for Spoons
+S4 (4): Eating
+S5 (4): Waiting for Spoons
+
+-----------------
+
+S1 (5): Eating
+S2 (5): Waiting for Spoons
+S3 (6): Waiting for Spoons
+S4 (4): Thinking
+S5 (4): Waiting for Spoons
+
+-----------------
+
+S1 (5): Eating
+S2 (5): Waiting for Spoons
+S3 (6): Eating
+S4 (4): Thinking
+S5 (4): Waiting for Spoons
+
+-----------------
+
+S1 (5): Eating
+S2 (5): Waiting for Spoons
+S3 (6): Eating
+S4 (5): Waiting for Spoons
+S5 (4): Waiting for Spoons
+
+-----------------
+
+S1 (5): Thinking
+S2 (5): Waiting for Spoons
+S3 (6): Eating
+S4 (5): Waiting for Spoons
+S5 (4): Waiting for Spoons
+
+-----------------
+
+S1 (5): Thinking
+S2 (5): Waiting for Spoons
+S3 (6): Eating
+S4 (5): Waiting for Spoons
+S5 (4): Eating
+
+-----------------
+
+S1 (6): Waiting for Spoons
+S2 (5): Waiting for Spoons
+S3 (6): Eating
+S4 (5): Waiting for Spoons
+S5 (4): Eating
+
+-----------------
+
+S1 (6): Waiting for Spoons
+S2 (5): Waiting for Spoons
+S3 (6): Thinking
+S4 (5): Waiting for Spoons
+S5 (4): Eating
+
+-----------------
+
+S1 (6): Waiting for Spoons
+S2 (5): Eating
+S3 (6): Thinking
+S4 (5): Waiting for Spoons
+S5 (4): Eating
+
+-----------------
+
+S1 (6): Waiting for Spoons
+S2 (5): Eating
+S3 (7): Waiting for Spoons
+S4 (5): Waiting for Spoons
+S5 (4): Eating
+
+-----------------
+
+S1 (6): Waiting for Spoons
+S2 (5): Eating
+S3 (7): Waiting for Spoons
+S4 (5): Waiting for Spoons
+S5 (4): Thinking
+
+-----------------
+
+S1 (6): Waiting for Spoons
+S2 (5): Eating
+S3 (7): Waiting for Spoons
+S4 (5): Eating
+S5 (4): Thinking
+
+-----------------
+
+S1 (6): Waiting for Spoons
+S2 (5): Eating
+S3 (7): Waiting for Spoons
+S4 (5): Eating
+S5 (5): Waiting for Spoons
+
+-----------------
+
+S1 (6): Waiting for Spoons
+S2 (5): Thinking
+S3 (7): Waiting for Spoons
+S4 (5): Eating
+S5 (5): Waiting for Spoons
+
+-----------------
+
+S1 (6): Eating
+S2 (5): Thinking
+S3 (7): Waiting for Spoons
+S4 (5): Eating
+S5 (5): Waiting for Spoons
+
+-----------------
+
+S1 (6): Eating
+S2 (6): Waiting for Spoons
+S3 (7): Waiting for Spoons
+S4 (5): Eating
+S5 (5): Waiting for Spoons
+
+-----------------
+
+S1 (6): Eating
+S2 (6): Waiting for Spoons
+S3 (7): Waiting for Spoons
+S4 (5): Thinking
+S5 (5): Waiting for Spoons
+
+-----------------
+
+S1 (6): Eating
+S2 (6): Waiting for Spoons
+S3 (7): Eating
+S4 (5): Thinking
+S5 (5): Waiting for Spoons
+
+-----------------
+
+S1 (6): Eating
+S2 (6): Waiting for Spoons
+S3 (7): Eating
+S4 (6): Waiting for Spoons
+S5 (5): Waiting for Spoons
+
+-----------------
+
+S1 (6): Thinking
+S2 (6): Waiting for Spoons
+S3 (7): Eating
+S4 (6): Waiting for Spoons
+S5 (5): Waiting for Spoons
+
+-----------------
+
+S1 (6): Thinking
+S2 (6): Waiting for Spoons
+S3 (7): Eating
+S4 (6): Waiting for Spoons
+S5 (5): Eating
+
+-----------------
+
+S1 (7): Waiting for Spoons
+S2 (6): Waiting for Spoons
+S3 (7): Eating
+S4 (6): Waiting for Spoons
+S5 (5): Eating
+
+-----------------
+
+S1 (7): Waiting for Spoons
+S2 (6): Waiting for Spoons
+S3 (7): Thinking
+S4 (6): Waiting for Spoons
+S5 (5): Eating
+
+-----------------
+
+S1 (7): Waiting for Spoons
+S2 (6): Eating
+S3 (7): Thinking
+S4 (6): Waiting for Spoons
+S5 (5): Eating
+
+-----------------
+
+S1 (7): Waiting for Spoons
+S2 (6): Eating
+S3 (8): Waiting for Spoons
+S4 (6): Waiting for Spoons
+S5 (5): Eating
+
+-----------------
+
+S1 (7): Waiting for Spoons
+S2 (6): Eating
+S3 (8): Waiting for Spoons
+S4 (6): Waiting for Spoons
+S5 (5): Thinking
+
+-----------------
+
+S1 (7): Waiting for Spoons
+S2 (6): Eating
+S3 (8): Waiting for Spoons
+S4 (6): Eating
+S5 (5): Thinking
+
+-----------------
+
+S1 (7): Waiting for Spoons
+S2 (6): Eating
+S3 (8): Waiting for Spoons
+S4 (6): Eating
+S5 (6): Waiting for Spoons
+
+-----------------
+
+S1 (7): Waiting for Spoons
+S2 (6): Thinking
+S3 (8): Waiting for Spoons
+S4 (6): Eating
+S5 (6): Waiting for Spoons
+
+-----------------
+
+S1 (7): Eating
+S2 (6): Thinking
+S3 (8): Waiting for Spoons
+S4 (6): Eating
+S5 (6): Waiting for Spoons
+
+-----------------
+
+S1 (7): Eating
+S2 (7): Waiting for Spoons
+S3 (8): Waiting for Spoons
+S4 (6): Eating
+S5 (6): Waiting for Spoons
+
+-----------------
+
+S1 (7): Eating
+S2 (7): Waiting for Spoons
+S3 (8): Waiting for Spoons
+S4 (6): Thinking
+S5 (6): Waiting for Spoons
+
+-----------------
+
+S1 (7): Eating
+S2 (7): Waiting for Spoons
+S3 (8): Eating
+S4 (6): Thinking
+S5 (6): Waiting for Spoons
+
+-----------------
+
+S1 (7): Eating
+S2 (7): Waiting for Spoons
+S3 (8): Eating
+S4 (7): Waiting for Spoons
+S5 (6): Waiting for Spoons
+
+-----------------
+
+S1 (7): Thinking
+S2 (7): Waiting for Spoons
+S3 (8): Eating
+S4 (7): Waiting for Spoons
+S5 (6): Waiting for Spoons
+
+-----------------
+
+S1 (7): Thinking
+S2 (7): Waiting for Spoons
+S3 (8): Eating
+S4 (7): Waiting for Spoons
+S5 (6): Eating
+
+-----------------
+
+S1 (8): Waiting for Spoons
+S2 (7): Waiting for Spoons
+S3 (8): Eating
+S4 (7): Waiting for Spoons
+S5 (6): Eating
+
+-----------------
+
+S1 (8): Waiting for Spoons
+S2 (7): Waiting for Spoons
+S3 (8): Thinking
+S4 (7): Waiting for Spoons
+S5 (6): Eating
+
+-----------------
+
+S1 (8): Waiting for Spoons
+S2 (7): Eating
+S3 (8): Thinking
+S4 (7): Waiting for Spoons
+S5 (6): Eating
+
+-----------------
+
+S1 (8): Waiting for Spoons
+S2 (7): Eating
+S3 (9): Waiting for Spoons
+S4 (7): Waiting for Spoons
+S5 (6): Eating
+
+-----------------
+
+S1 (8): Waiting for Spoons
+S2 (7): Eating
+S3 (9): Waiting for Spoons
+S4 (7): Waiting for Spoons
+S5 (6): Thinking
+
+-----------------
+
+S1 (8): Waiting for Spoons
+S2 (7): Eating
+S3 (9): Waiting for Spoons
+S4 (7): Eating
+S5 (6): Thinking
+
+-----------------
+
+S1 (8): Waiting for Spoons
+S2 (7): Eating
+S3 (9): Waiting for Spoons
+S4 (7): Eating
+S5 (7): Waiting for Spoons
+
+-----------------
+
+S1 (8): Waiting for Spoons
+S2 (7): Thinking
+S3 (9): Waiting for Spoons
+S4 (7): Eating
+S5 (7): Waiting for Spoons
+
+-----------------
+
+S1 (8): Eating
+S2 (7): Thinking
+S3 (9): Waiting for Spoons
+S4 (7): Eating
+S5 (7): Waiting for Spoons
+
+-----------------
+
+S1 (8): Eating
+S2 (8): Waiting for Spoons
+S3 (9): Waiting for Spoons
+S4 (7): Eating
+S5 (7): Waiting for Spoons
+
+-----------------
+
+S1 (8): Eating
+S2 (8): Waiting for Spoons
+S3 (9): Waiting for Spoons
+S4 (7): Thinking
+S5 (7): Waiting for Spoons
+
+-----------------
+
+S1 (8): Eating
+S2 (8): Waiting for Spoons
+S3 (9): Eating
+S4 (7): Thinking
+S5 (7): Waiting for Spoons
+
+-----------------
+
+S1 (8): Eating
+S2 (8): Waiting for Spoons
+S3 (9): Eating
+S4 (8): Waiting for Spoons
+S5 (7): Waiting for Spoons
+
+-----------------
+
+S1 (8): Thinking
+S2 (8): Waiting for Spoons
+S3 (9): Eating
+S4 (8): Waiting for Spoons
+S5 (7): Waiting for Spoons
+
+-----------------
+
+S1 (8): Thinking
+S2 (8): Waiting for Spoons
+S3 (9): Eating
+S4 (8): Waiting for Spoons
+S5 (7): Eating
+
+-----------------
+
+S1 (9): Waiting for Spoons
+S2 (8): Waiting for Spoons
+S3 (9): Eating
+S4 (8): Waiting for Spoons
+S5 (7): Eating
+
+-----------------
+
+S1 (9): Waiting for Spoons
+S2 (8): Waiting for Spoons
+S3 (9): Thinking
+S4 (8): Waiting for Spoons
+S5 (7): Eating
+
+-----------------
+
+S1 (9): Waiting for Spoons
+S2 (8): Eating
+S3 (9): Thinking
+S4 (8): Waiting for Spoons
+S5 (7): Eating
+
+-----------------
+
+S1 (9): Waiting for Spoons
+S2 (8): Eating
+S3 (10): Waiting for Spoons
+S4 (8): Waiting for Spoons
+S5 (7): Eating
+
+-----------------
+
+S1 (9): Waiting for Spoons
+S2 (8): Eating
+S3 (10): Waiting for Spoons
+S4 (8): Waiting for Spoons
+S5 (7): Thinking
+
+-----------------
+
+S1 (9): Waiting for Spoons
+S2 (8): Eating
+S3 (10): Waiting for Spoons
+S4 (8): Eating
+S5 (7): Thinking
+
+-----------------
+
+S1 (9): Waiting for Spoons
+S2 (8): Eating
+S3 (10): Waiting for Spoons
+S4 (8): Eating
+S5 (8): Waiting for Spoons
+
+-----------------
+
+S1 (9): Waiting for Spoons
+S2 (8): Thinking
+S3 (10): Waiting for Spoons
+S4 (8): Eating
+S5 (8): Waiting for Spoons
+
+-----------------
+
+S1 (9): Eating
+S2 (8): Thinking
+S3 (10): Waiting for Spoons
+S4 (8): Eating
+S5 (8): Waiting for Spoons
+
+-----------------
+
+S1 (9): Eating
+S2 (9): Waiting for Spoons
+S3 (10): Waiting for Spoons
+S4 (8): Eating
+S5 (8): Waiting for Spoons
+
+-----------------
+
+S1 (9): Eating
+S2 (9): Waiting for Spoons
+S3 (10): Waiting for Spoons
+S4 (8): Thinking
+S5 (8): Waiting for Spoons
+
+-----------------
+
+S1 (9): Eating
+S2 (9): Waiting for Spoons
+S3 (10): Eating
+S4 (8): Thinking
+S5 (8): Waiting for Spoons
+
+-----------------
+
+S1 (9): Eating
+S2 (9): Waiting for Spoons
+S3 (10): Eating
+S4 (9): Waiting for Spoons
+S5 (8): Waiting for Spoons
+
+-----------------
+
+S1 (9): Thinking
+S2 (9): Waiting for Spoons
+S3 (10): Eating
+S4 (9): Waiting for Spoons
+S5 (8): Waiting for Spoons
+
+-----------------
+
+S1 (9): Thinking
+S2 (9): Waiting for Spoons
+S3 (10): Eating
+S4 (9): Waiting for Spoons
+S5 (8): Eating
+
+-----------------
+
+S1 (10): Waiting for Spoons
+S2 (9): Waiting for Spoons
+S3 (10): Eating
+S4 (9): Waiting for Spoons
+S5 (8): Eating
+
+-----------------
+
+S1 (10): Waiting for Spoons
+S2 (9): Waiting for Spoons
+S3 (10): Thinking
+S4 (9): Waiting for Spoons
+S5 (8): Eating
+
+-----------------
+
+S1 (10): Waiting for Spoons
+S2 (9): Eating
+S3 (10): Thinking
+S4 (9): Waiting for Spoons
+S5 (8): Eating
+
+-----------------
+
+S1 (10): Waiting for Spoons
+S2 (9): Eating
+S3 (11): Waiting for Spoons
+S4 (9): Waiting for Spoons
+S5 (8): Eating
+
+-----------------
+
+S1 (10): Waiting for Spoons
+S2 (9): Eating
+S3 (11): Waiting for Spoons
+S4 (9): Waiting for Spoons
+S5 (8): Thinking
+
+-----------------
+
+S1 (10): Waiting for Spoons
+S2 (9): Eating
+S3 (11): Waiting for Spoons
+S4 (9): Eating
+S5 (8): Thinking
+
+-----------------
+
+S1 (10): Waiting for Spoons
+S2 (9): Eating
+S3 (11): Waiting for Spoons
+S4 (9): Eating
+S5 (9): Waiting for Spoons
+
+-----------------
+
+S1 (10): Waiting for Spoons
+S2 (9): Thinking
+S3 (11): Waiting for Spoons
+S4 (9): Eating
+S5 (9): Waiting for Spoons
+
+-----------------
+
+S1 (10): Eating
+S2 (9): Thinking
+S3 (11): Waiting for Spoons
+S4 (9): Eating
+S5 (9): Waiting for Spoons
+
+-----------------
+
+S1 (10): Eating
+S2 (10): Waiting for Spoons
+S3 (11): Waiting for Spoons
+S4 (9): Eating
+S5 (9): Waiting for Spoons
+
+-----------------
+
+S1 (10): Eating
+S2 (10): Waiting for Spoons
+S3 (11): Waiting for Spoons
+S4 (9): Thinking
+S5 (9): Waiting for Spoons
+
+-----------------
+
+S1 (10): Eating
+S2 (10): Waiting for Spoons
+S3 (11): Eating
+S4 (9): Thinking
+S5 (9): Waiting for Spoons
+
+-----------------
+
+S1 (10): Eating
+S2 (10): Waiting for Spoons
+S3 (11): Eating
+S4 (10): Waiting for Spoons
+S5 (9): Waiting for Spoons
+
+-----------------
+
+S1 (10): Thinking
+S2 (10): Waiting for Spoons
+S3 (11): Eating
+S4 (10): Waiting for Spoons
+S5 (9): Waiting for Spoons
+
+-----------------
+
+S1 (10): Thinking
+S2 (10): Waiting for Spoons
+S3 (11): Eating
+S4 (10): Waiting for Spoons
+S5 (9): Eating
+
+-----------------
+
+S1 (11): Waiting for Spoons
+S2 (10): Waiting for Spoons
+S3 (11): Eating
+S4 (10): Waiting for Spoons
+S5 (9): Eating
+
+-----------------
+
+S1 (11): Waiting for Spoons
+S2 (10): Waiting for Spoons
+S3 (11): Thinking
+S4 (10): Waiting for Spoons
+S5 (9): Eating
+
+-----------------
+
+S1 (11): Waiting for Spoons
+S2 (10): Eating
+S3 (11): Thinking
+S4 (10): Waiting for Spoons
+S5 (9): Eating
+
+-----------------
+
+S1 (11): Waiting for Spoons
+S2 (10): Eating
+S3 (12): Waiting for Spoons
+S4 (10): Waiting for Spoons
+S5 (9): Eating
+
+-----------------
+
+S1 (11): Waiting for Spoons
+S2 (10): Eating
+S3 (12): Waiting for Spoons
+S4 (10): Waiting for Spoons
+S5 (9): Thinking
+
+-----------------
+
+S1 (11): Waiting for Spoons
+S2 (10): Eating
+S3 (12): Waiting for Spoons
+S4 (10): Eating
+S5 (9): Thinking
+
+-----------------
+
+S1 (11): Waiting for Spoons
+S2 (10): Eating
+S3 (12): Waiting for Spoons
+S4 (10): Eating
+S5 (10): Waiting for Spoons
+
+-----------------
+
+S1 (11): Waiting for Spoons
+S2 (10): Thinking
+S3 (12): Waiting for Spoons
+S4 (10): Eating
+S5 (10): Waiting for Spoons
+
+-----------------
+
+S1 (11): Eating
+S2 (10): Thinking
+S3 (12): Waiting for Spoons
+S4 (10): Eating
+S5 (10): Waiting for Spoons
+
+-----------------
+
+S1 (11): Eating
+S2 (11): Waiting for Spoons
+S3 (12): Waiting for Spoons
+S4 (10): Eating
+S5 (10): Waiting for Spoons
+
+-----------------
+
+S1 (11): Eating
+S2 (11): Waiting for Spoons
+S3 (12): Waiting for Spoons
+S4 (10): Thinking
+S5 (10): Waiting for Spoons
+
+-----------------
+
+S1 (11): Eating
+S2 (11): Waiting for Spoons
+S3 (12): Eating
+S4 (10): Thinking
+S5 (10): Waiting for Spoons
+
+-----------------
+
+S1 (11): Eating
+S2 (11): Waiting for Spoons
+S3 (12): Eating
+S4 (11): Waiting for Spoons
+S5 (10): Waiting for Spoons
+
+-----------------
+
+S1 (11): Thinking
+S2 (11): Waiting for Spoons
+S3 (12): Eating
+S4 (11): Waiting for Spoons
+S5 (10): Waiting for Spoons
+
+-----------------
+
+S1 (11): Thinking
+S2 (11): Waiting for Spoons
+S3 (12): Eating
+S4 (11): Waiting for Spoons
+S5 (10): Eating
+
+-----------------
+
+S1 (11): Thinking
+S2 (11): Waiting for Spoons
+S3 (12): Thinking
+S4 (11): Waiting for Spoons
+S5 (10): Eating
+
+-----------------
+
+S1 (11): Thinking
+S2 (11): Eating
+S3 (12): Thinking
+S4 (11): Waiting for Spoons
+S5 (10): Eating
+
+-----------------
+
+S1 (12): Waiting for Spoons
+S2 (11): Eating
+S3 (12): Thinking
+S4 (11): Waiting for Spoons
+S5 (10): Eating
+
+-----------------
+
+S1 (12): Waiting for Spoons
+S2 (11): Eating
+S3 (13): Waiting for Spoons
+S4 (11): Waiting for Spoons
+S5 (10): Eating
+
+-----------------
+
+S1 (12): Waiting for Spoons
+S2 (11): Eating
+S3 (13): Waiting for Spoons
+S4 (11): Waiting for Spoons
+S5 (10): Thinking
+
+-----------------
+
+S1 (12): Waiting for Spoons
+S2 (11): Eating
+S3 (13): Waiting for Spoons
+S4 (11): Eating
+S5 (10): Thinking
+
+-----------------
+
+S1 (12): Waiting for Spoons
+S2 (11): Eating
+S3 (13): Waiting for Spoons
+S4 (11): Eating
+S5 (11): Waiting for Spoons
+
+-----------------
+
+S1 (12): Waiting for Spoons
+S2 (11): Thinking
+S3 (13): Waiting for Spoons
+S4 (11): Eating
+S5 (11): Waiting for Spoons
+
+-----------------
+
+S1 (12): Eating
+S2 (11): Thinking
+S3 (13): Waiting for Spoons
+S4 (11): Eating
+S5 (11): Waiting for Spoons
+
+-----------------
+
+S1 (12): Eating
+S2 (12): Waiting for Spoons
+S3 (13): Waiting for Spoons
+S4 (11): Eating
+S5 (11): Waiting for Spoons
+
+-----------------
+
+S1 (12): Eating
+S2 (12): Waiting for Spoons
+S3 (13): Waiting for Spoons
+S4 (11): Thinking
+S5 (11): Waiting for Spoons
+
+-----------------
+
+S1 (12): Eating
+S2 (12): Waiting for Spoons
+S3 (13): Eating
+S4 (11): Thinking
+S5 (11): Waiting for Spoons
+
+-----------------
+
+S1 (12): Eating
+S2 (12): Waiting for Spoons
+S3 (13): Eating
+S4 (12): Waiting for Spoons
+S5 (11): Waiting for Spoons
+
+-----------------
+
+S1 (12): Thinking
+S2 (12): Waiting for Spoons
+S3 (13): Eating
+S4 (12): Waiting for Spoons
+S5 (11): Waiting for Spoons
+
+-----------------
+
+S1 (12): Thinking
+S2 (12): Waiting for Spoons
+S3 (13): Eating
+S4 (12): Waiting for Spoons
+S5 (11): Eating
+
+-----------------
+
+S1 (13): Waiting for Spoons
+S2 (12): Waiting for Spoons
+S3 (13): Eating
+S4 (12): Waiting for Spoons
+S5 (11): Eating
+
+-----------------
+
+S1 (13): Waiting for Spoons
+S2 (12): Waiting for Spoons
+S3 (13): Thinking
+S4 (12): Waiting for Spoons
+S5 (11): Eating
+
+-----------------
+
+S1 (13): Waiting for Spoons
+S2 (12): Eating
+S3 (13): Thinking
+S4 (12): Waiting for Spoons
+S5 (11): Eating
+
+-----------------
+
+S1 (13): Waiting for Spoons
+S2 (12): Eating
+S3 (14): Waiting for Spoons
+S4 (12): Waiting for Spoons
+S5 (11): Eating
+
+-----------------
+
+S1 (13): Waiting for Spoons
+S2 (12): Eating
+S3 (14): Waiting for Spoons
+S4 (12): Waiting for Spoons
+S5 (11): Thinking
+
+-----------------
+
+S1 (13): Waiting for Spoons
+S2 (12): Eating
+S3 (14): Waiting for Spoons
+S4 (12): Eating
+S5 (11): Thinking
+
+-----------------
+
+S1 (13): Waiting for Spoons
+S2 (12): Eating
+S3 (14): Waiting for Spoons
+S4 (12): Eating
+S5 (12): Waiting for Spoons
+
+-----------------
+
+S1 (13): Waiting for Spoons
+S2 (12): Thinking
+S3 (14): Waiting for Spoons
+S4 (12): Eating
+S5 (12): Waiting for Spoons
+
+-----------------
+
+S1 (13): Eating
+S2 (12): Thinking
+S3 (14): Waiting for Spoons
+S4 (12): Eating
+S5 (12): Waiting for Spoons
+
+-----------------
+
+S1 (13): Eating
+S2 (13): Waiting for Spoons
+S3 (14): Waiting for Spoons
+S4 (12): Eating
+S5 (12): Waiting for Spoons
+
+-----------------
+
+S1 (13): Eating
+S2 (13): Waiting for Spoons
+S3 (14): Waiting for Spoons
+S4 (12): Thinking
+S5 (12): Waiting for Spoons
+
+-----------------
+
+S1 (13): Eating
+S2 (13): Waiting for Spoons
+S3 (14): Eating
+S4 (12): Thinking
+S5 (12): Waiting for Spoons
+
+-----------------
+
+S1 (13): Eating
+S2 (13): Waiting for Spoons
+S3 (14): Eating
+S4 (13): Waiting for Spoons
+S5 (12): Waiting for Spoons
+
+-----------------
+
+S1 (13): Thinking
+S2 (13): Waiting for Spoons
+S3 (14): Eating
+S4 (13): Waiting for Spoons
+S5 (12): Waiting for Spoons
+
+-----------------
+
+S1 (13): Thinking
+S2 (13): Waiting for Spoons
+S3 (14): Eating
+S4 (13): Waiting for Spoons
+S5 (12): Eating
+
+-----------------
+
+S1 (14): Waiting for Spoons
+S2 (13): Waiting for Spoons
+S3 (14): Eating
+S4 (13): Waiting for Spoons
+S5 (12): Eating
+
+-----------------
+
+S1 (14): Waiting for Spoons
+S2 (13): Waiting for Spoons
+S3 (14): Thinking
+S4 (13): Waiting for Spoons
+S5 (12): Eating
+
+-----------------
+
+S1 (14): Waiting for Spoons
+S2 (13): Eating
+S3 (14): Thinking
+S4 (13): Waiting for Spoons
+S5 (12): Eating
+
+-----------------
+
+S1 (14): Waiting for Spoons
+S2 (13): Eating
+S3 (15): Waiting for Spoons
+S4 (13): Waiting for Spoons
+S5 (12): Eating
+
+-----------------
+
+S1 (14): Waiting for Spoons
+S2 (13): Eating
+S3 (15): Waiting for Spoons
+S4 (13): Waiting for Spoons
+S5 (12): Thinking
+
+-----------------
+
+S1 (14): Waiting for Spoons
+S2 (13): Eating
+S3 (15): Waiting for Spoons
+S4 (13): Eating
+S5 (12): Thinking
+
+-----------------
+
+S1 (14): Waiting for Spoons
+S2 (13): Eating
+S3 (15): Waiting for Spoons
+S4 (13): Eating
+S5 (13): Waiting for Spoons
+
+-----------------
+
+S1 (14): Waiting for Spoons
+S2 (13): Thinking
+S3 (15): Waiting for Spoons
+S4 (13): Eating
+S5 (13): Waiting for Spoons
+
+-----------------
+
+S1 (14): Eating
+S2 (13): Thinking
+S3 (15): Waiting for Spoons
+S4 (13): Eating
+S5 (13): Waiting for Spoons
+
+-----------------
+
+S1 (14): Eating
+S2 (14): Waiting for Spoons
+S3 (15): Waiting for Spoons
+S4 (13): Eating
+S5 (13): Waiting for Spoons
+
+-----------------
+
+S1 (14): Eating
+S2 (14): Waiting for Spoons
+S3 (15): Waiting for Spoons
+S4 (13): Thinking
+S5 (13): Waiting for Spoons
+
+-----------------
+
+S1 (14): Eating
+S2 (14): Waiting for Spoons
+S3 (15): Eating
+S4 (13): Thinking
+S5 (13): Waiting for Spoons
+
+-----------------
+
+S1 (14): Thinking
+S2 (14): Waiting for Spoons
+S3 (15): Eating
+S4 (13): Thinking
+S5 (13): Waiting for Spoons
+
+-----------------
+
+S1 (14): Thinking
+S2 (14): Waiting for Spoons
+S3 (15): Eating
+S4 (13): Thinking
+S5 (13): Eating
+
+-----------------
+
+S1 (14): Thinking
+S2 (14): Waiting for Spoons
+S3 (15): Eating
+S4 (14): Waiting for Spoons
+S5 (13): Eating
+
+-----------------
+
+S1 (15): Waiting for Spoons
+S2 (14): Waiting for Spoons
+S3 (15): Eating
+S4 (14): Waiting for Spoons
+S5 (13): Eating
+
+-----------------
+
+S1 (15): Waiting for Spoons
+S2 (14): Waiting for Spoons
+S3 (15): Thinking
+S4 (14): Waiting for Spoons
+S5 (13): Eating
+
+-----------------
+
+S1 (15): Waiting for Spoons
+S2 (14): Eating
+S3 (15): Thinking
+S4 (14): Waiting for Spoons
+S5 (13): Eating
+
+-----------------
+
+S1 (15): Waiting for Spoons
+S2 (14): Eating
+S3 (15): Thinking
+S4 (14): Waiting for Spoons
+S5 (13): Thinking
+
+-----------------
+
+S1 (15): Waiting for Spoons
+S2 (14): Eating
+S3 (15): Thinking
+S4 (14): Eating
+S5 (13): Thinking
+
+-----------------
+
+S1 (15): Waiting for Spoons
+S2 (14): Eating
+S3 (16): Waiting for Spoons
+S4 (14): Eating
+S5 (13): Thinking
+
+-----------------
+
+S1 (15): Waiting for Spoons
+S2 (14): Eating
+S3 (16): Waiting for Spoons
+S4 (14): Eating
+S5 (14): Waiting for Spoons
+
+-----------------
+
+S1 (15): Waiting for Spoons
+S2 (14): Thinking
+S3 (16): Waiting for Spoons
+S4 (14): Eating
+S5 (14): Waiting for Spoons
+
+-----------------
+
+S1 (15): Eating
+S2 (14): Thinking
+S3 (16): Waiting for Spoons
+S4 (14): Eating
+S5 (14): Waiting for Spoons
+
+-----------------
+
+S1 (15): Eating
+S2 (15): Waiting for Spoons
+S3 (16): Waiting for Spoons
+S4 (14): Eating
+S5 (14): Waiting for Spoons
+
+-----------------
+
+S1 (15): Eating
+S2 (15): Waiting for Spoons
+S3 (16): Waiting for Spoons
+S4 (14): Thinking
+S5 (14): Waiting for Spoons
+
+-----------------
+
+S1 (15): Eating
+S2 (15): Waiting for Spoons
+S3 (16): Eating
+S4 (14): Thinking
+S5 (14): Waiting for Spoons
+
+-----------------
+
+S1 (15): Eating
+S2 (15): Waiting for Spoons
+S3 (16): Eating
+S4 (15): Waiting for Spoons
+S5 (14): Waiting for Spoons
+
+-----------------
+
+S1 (15): Thinking
+S2 (15): Waiting for Spoons
+S3 (16): Eating
+S4 (15): Waiting for Spoons
+S5 (14): Waiting for Spoons
+
+-----------------
+
+S1 (15): Thinking
+S2 (15): Waiting for Spoons
+S3 (16): Eating
+S4 (15): Waiting for Spoons
+S5 (14): Eating
+
+-----------------
+
+S1 (16): Waiting for Spoons
+S2 (15): Waiting for Spoons
+S3 (16): Eating
+S4 (15): Waiting for Spoons
+S5 (14): Eating
+
+-----------------
+
+S1 (16): Waiting for Spoons
+S2 (15): Waiting for Spoons
+S3 (16): Thinking
+S4 (15): Waiting for Spoons
+S5 (14): Eating
+
+-----------------
+
+S1 (16): Waiting for Spoons
+S2 (15): Eating
+S3 (16): Thinking
+S4 (15): Waiting for Spoons
+S5 (14): Eating
+
+-----------------
+
+S1 (16): Waiting for Spoons
+S2 (15): Eating
+S3 (17): Waiting for Spoons
+S4 (15): Waiting for Spoons
+S5 (14): Eating
+
+-----------------
+
+S1 (16): Waiting for Spoons
+S2 (15): Eating
+S3 (17): Waiting for Spoons
+S4 (15): Waiting for Spoons
+S5 (14): Thinking
+
+-----------------
+
+S1 (16): Waiting for Spoons
+S2 (15): Eating
+S3 (17): Waiting for Spoons
+S4 (15): Eating
+S5 (14): Thinking
+
+-----------------
+
+S1 (16): Waiting for Spoons
+S2 (15): Eating
+S3 (17): Waiting for Spoons
+S4 (15): Eating
+S5 (15): Waiting for Spoons
+
+-----------------
+
+S1 (16): Waiting for Spoons
+S2 (15): Thinking
+S3 (17): Waiting for Spoons
+S4 (15): Eating
+S5 (15): Waiting for Spoons
+
+-----------------
+
+S1 (16): Eating
+S2 (15): Thinking
+S3 (17): Waiting for Spoons
+S4 (15): Eating
+S5 (15): Waiting for Spoons
+
+-----------------
+
+S1 (16): Eating
+S2 (16): Waiting for Spoons
+S3 (17): Waiting for Spoons
+S4 (15): Eating
+S5 (15): Waiting for Spoons
+
+-----------------
+
+S1 (16): Eating
+S2 (16): Waiting for Spoons
+S3 (17): Waiting for Spoons
+S4 (15): Thinking
+S5 (15): Waiting for Spoons
+
+-----------------
+
+S1 (16): Eating
+S2 (16): Waiting for Spoons
+S3 (17): Eating
+S4 (15): Thinking
+S5 (15): Waiting for Spoons
+
+-----------------
+
+S1 (16): Eating
+S2 (16): Waiting for Spoons
+S3 (17): Eating
+S4 (16): Waiting for Spoons
+S5 (15): Waiting for Spoons
+
+-----------------
+
+S1 (16): Thinking
+S2 (16): Waiting for Spoons
+S3 (17): Eating
+S4 (16): Waiting for Spoons
+S5 (15): Waiting for Spoons
+
+-----------------
+
+S1 (16): Thinking
+S2 (16): Waiting for Spoons
+S3 (17): Eating
+S4 (16): Waiting for Spoons
+S5 (15): Eating
+
+-----------------
+
+S1 (17): Waiting for Spoons
+S2 (16): Waiting for Spoons
+S3 (17): Eating
+S4 (16): Waiting for Spoons
+S5 (15): Eating
+
+-----------------
+
+S1 (17): Waiting for Spoons
+S2 (16): Waiting for Spoons
+S3 (17): Thinking
+S4 (16): Waiting for Spoons
+S5 (15): Eating
+
+-----------------
+
+S1 (17): Waiting for Spoons
+S2 (16): Eating
+S3 (17): Thinking
+S4 (16): Waiting for Spoons
+S5 (15): Eating
+
+-----------------
+
+S1 (17): Waiting for Spoons
+S2 (16): Eating
+S3 (18): Waiting for Spoons
+S4 (16): Waiting for Spoons
+S5 (15): Eating
+
+-----------------
+
+S1 (17): Waiting for Spoons
+S2 (16): Eating
+S3 (18): Waiting for Spoons
+S4 (16): Waiting for Spoons
+S5 (15): Thinking
+
+-----------------
+
+S1 (17): Waiting for Spoons
+S2 (16): Eating
+S3 (18): Waiting for Spoons
+S4 (16): Eating
+S5 (15): Thinking
+
+-----------------
+
+S1 (17): Waiting for Spoons
+S2 (16): Eating
+S3 (18): Waiting for Spoons
+S4 (16): Eating
+S5 (16): Waiting for Spoons
+
+-----------------
+
+S1 (17): Waiting for Spoons
+S2 (16): Thinking
+S3 (18): Waiting for Spoons
+S4 (16): Eating
+S5 (16): Waiting for Spoons
+
+-----------------
+
+S1 (17): Eating
+S2 (16): Thinking
+S3 (18): Waiting for Spoons
+S4 (16): Eating
+S5 (16): Waiting for Spoons
+
+-----------------
+
+S1 (17): Eating
+S2 (17): Waiting for Spoons
+S3 (18): Waiting for Spoons
+S4 (16): Eating
+S5 (16): Waiting for Spoons
+
+-----------------
+
+S1 (17): Eating
+S2 (17): Waiting for Spoons
+S3 (18): Waiting for Spoons
+S4 (16): Thinking
+S5 (16): Waiting for Spoons
+
+-----------------
+
+S1 (17): Eating
+S2 (17): Waiting for Spoons
+S3 (18): Eating
+S4 (16): Thinking
+S5 (16): Waiting for Spoons
+
+-----------------
+
+S1 (17): Eating
+S2 (17): Waiting for Spoons
+S3 (18): Eating
+S4 (17): Waiting for Spoons
+S5 (16): Waiting for Spoons
+
+-----------------
+
+S1 (17): Thinking
+S2 (17): Waiting for Spoons
+S3 (18): Eating
+S4 (17): Waiting for Spoons
+S5 (16): Waiting for Spoons
+
+-----------------
+
+S1 (17): Thinking
+S2 (17): Waiting for Spoons
+S3 (18): Eating
+S4 (17): Waiting for Spoons
+S5 (16): Eating
+
+-----------------
+
+S1 (18): Waiting for Spoons
+S2 (17): Waiting for Spoons
+S3 (18): Eating
+S4 (17): Waiting for Spoons
+S5 (16): Eating
+
+-----------------
+
+S1 (18): Waiting for Spoons
+S2 (17): Waiting for Spoons
+S3 (18): Thinking
+S4 (17): Waiting for Spoons
+S5 (16): Eating
+
+-----------------
+
+S1 (18): Waiting for Spoons
+S2 (17): Eating
+S3 (18): Thinking
+S4 (17): Waiting for Spoons
+S5 (16): Eating
+
+-----------------
+
+S1 (18): Waiting for Spoons
+S2 (17): Eating
+S3 (19): Waiting for Spoons
+S4 (17): Waiting for Spoons
+S5 (16): Eating
+
+-----------------
+
+S1 (18): Waiting for Spoons
+S2 (17): Eating
+S3 (19): Waiting for Spoons
+S4 (17): Waiting for Spoons
+S5 (16): Thinking
+
+-----------------
+
+S1 (18): Waiting for Spoons
+S2 (17): Eating
+S3 (19): Waiting for Spoons
+S4 (17): Eating
+S5 (16): Thinking
+
+-----------------
+
+S1 (18): Waiting for Spoons
+S2 (17): Eating
+S3 (19): Waiting for Spoons
+S4 (17): Eating
+S5 (17): Waiting for Spoons
+
+-----------------
+
+S1 (18): Waiting for Spoons
+S2 (17): Thinking
+S3 (19): Waiting for Spoons
+S4 (17): Eating
+S5 (17): Waiting for Spoons
+
+-----------------
+
+S1 (18): Eating
+S2 (17): Thinking
+S3 (19): Waiting for Spoons
+S4 (17): Eating
+S5 (17): Waiting for Spoons
+
+-----------------
+
+S1 (18): Eating
+S2 (18): Waiting for Spoons
+S3 (19): Waiting for Spoons
+S4 (17): Eating
+S5 (17): Waiting for Spoons
+
+-----------------
+
+S1 (18): Eating
+S2 (18): Waiting for Spoons
+S3 (19): Waiting for Spoons
+S4 (17): Thinking
+S5 (17): Waiting for Spoons
+
+-----------------
+
+S1 (18): Eating
+S2 (18): Waiting for Spoons
+S3 (19): Eating
+S4 (17): Thinking
+S5 (17): Waiting for Spoons
+
+-----------------
+
+S1 (18): Eating
+S2 (18): Waiting for Spoons
+S3 (19): Eating
+S4 (18): Waiting for Spoons
+S5 (17): Waiting for Spoons
+
+-----------------
+
+S1 (18): Thinking
+S2 (18): Waiting for Spoons
+S3 (19): Eating
+S4 (18): Waiting for Spoons
+S5 (17): Waiting for Spoons
+
+-----------------
+
+S1 (18): Thinking
+S2 (18): Waiting for Spoons
+S3 (19): Eating
+S4 (18): Waiting for Spoons
+S5 (17): Eating
+
+-----------------
+
+S1 (19): Waiting for Spoons
+S2 (18): Waiting for Spoons
+S3 (19): Eating
+S4 (18): Waiting for Spoons
+S5 (17): Eating
+
+-----------------
+
+S1 (19): Waiting for Spoons
+S2 (18): Waiting for Spoons
+S3 (19): Thinking
+S4 (18): Waiting for Spoons
+S5 (17): Eating
+
+-----------------
+
+S1 (19): Waiting for Spoons
+S2 (18): Eating
+S3 (19): Thinking
+S4 (18): Waiting for Spoons
+S5 (17): Eating
+
+-----------------
+
+S1 (19): Waiting for Spoons
+S2 (18): Eating
+S3 (20): Waiting for Spoons
+S4 (18): Waiting for Spoons
+S5 (17): Eating
+
+-----------------
+
+S1 (19): Waiting for Spoons
+S2 (18): Eating
+S3 (20): Waiting for Spoons
+S4 (18): Waiting for Spoons
+S5 (17): Thinking
+
+-----------------
+
+S1 (19): Waiting for Spoons
+S2 (18): Eating
+S3 (20): Waiting for Spoons
+S4 (18): Eating
+S5 (17): Thinking
+
+-----------------
+
+S1 (19): Waiting for Spoons
+S2 (18): Eating
+S3 (20): Waiting for Spoons
+S4 (18): Eating
+S5 (18): Waiting for Spoons
+
+-----------------
+
+S1 (19): Waiting for Spoons
+S2 (18): Thinking
+S3 (20): Waiting for Spoons
+S4 (18): Eating
+S5 (18): Waiting for Spoons
+
+-----------------
+
+S1 (19): Eating
+S2 (18): Thinking
+S3 (20): Waiting for Spoons
+S4 (18): Eating
+S5 (18): Waiting for Spoons
+
+-----------------
+
+S1 (19): Eating
+S2 (19): Waiting for Spoons
+S3 (20): Waiting for Spoons
+S4 (18): Eating
+S5 (18): Waiting for Spoons
+
+-----------------
+
+S1 (19): Eating
+S2 (19): Waiting for Spoons
+S3 (20): Waiting for Spoons
+S4 (18): Thinking
+S5 (18): Waiting for Spoons
+
+-----------------
+
+S1 (19): Eating
+S2 (19): Waiting for Spoons
+S3 (20): Eating
+S4 (18): Thinking
+S5 (18): Waiting for Spoons
+
+-----------------
+
+S1 (19): Eating
+S2 (19): Waiting for Spoons
+S3 (20): Eating
+S4 (19): Waiting for Spoons
+S5 (18): Waiting for Spoons
+
+-----------------
+
+S1 (19): Thinking
+S2 (19): Waiting for Spoons
+S3 (20): Eating
+S4 (19): Waiting for Spoons
+S5 (18): Waiting for Spoons
+
+-----------------
+
+S1 (19): Thinking
+S2 (19): Waiting for Spoons
+S3 (20): Eating
+S4 (19): Waiting for Spoons
+S5 (18): Eating
+
+-----------------
+
+S1 (20): Waiting for Spoons
+S2 (19): Waiting for Spoons
+S3 (20): Eating
+S4 (19): Waiting for Spoons
+S5 (18): Eating
+
+-----------------
+
+S1 (20): Waiting for Spoons
+S2 (19): Waiting for Spoons
+S3 (20): Thinking
+S4 (19): Waiting for Spoons
+S5 (18): Eating
+
+-----------------
+
+S1 (20): Waiting for Spoons
+S2 (19): Eating
+S3 (20): Thinking
+S4 (19): Waiting for Spoons
+S5 (18): Eating
+
+-----------------
+
+S1 (20): Waiting for Spoons
+S2 (19): Eating
+S3 (21): Waiting for Spoons
+S4 (19): Waiting for Spoons
+S5 (18): Eating
+
+-----------------
+
+S1 (20): Waiting for Spoons
+S2 (19): Eating
+S3 (21): Waiting for Spoons
+S4 (19): Waiting for Spoons
+S5 (18): Thinking
+
+-----------------
+
+S1 (20): Waiting for Spoons
+S2 (19): Eating
+S3 (21): Waiting for Spoons
+S4 (19): Eating
+S5 (18): Thinking
+
+-----------------
+
+S1 (20): Waiting for Spoons
+S2 (19): Eating
+S3 (21): Waiting for Spoons
+S4 (19): Eating
+S5 (19): Waiting for Spoons
+
+-----------------
+
+S1 (20): Waiting for Spoons
+S2 (19): Thinking
+S3 (21): Waiting for Spoons
+S4 (19): Eating
+S5 (19): Waiting for Spoons
+
+-----------------
+
+S1 (20): Eating
+S2 (19): Thinking
+S3 (21): Waiting for Spoons
+S4 (19): Eating
+S5 (19): Waiting for Spoons
+
+-----------------
+
+S1 (20): Eating
+S2 (20): Waiting for Spoons
+S3 (21): Waiting for Spoons
+S4 (19): Eating
+S5 (19): Waiting for Spoons
+
+-----------------
+
+S1 (20): Eating
+S2 (20): Waiting for Spoons
+S3 (21): Waiting for Spoons
+S4 (19): Thinking
+S5 (19): Waiting for Spoons
+
+-----------------
+
+S1 (20): Eating
+S2 (20): Waiting for Spoons
+S3 (21): Eating
+S4 (19): Thinking
+S5 (19): Waiting for Spoons
+
+-----------------
+
+S1 (20): Eating
+S2 (20): Waiting for Spoons
+S3 (21): Eating
+S4 (20): Waiting for Spoons
+S5 (19): Waiting for Spoons
+
+-----------------
+
+S1 (20): Thinking
+S2 (20): Waiting for Spoons
+S3 (21): Eating
+S4 (20): Waiting for Spoons
+S5 (19): Waiting for Spoons
+
+-----------------
+
+S1 (20): Thinking
+S2 (20): Waiting for Spoons
+S3 (21): Eating
+S4 (20): Waiting for Spoons
+S5 (19): Eating
+
+-----------------
+
+S1 (21): Waiting for Spoons
+S2 (20): Waiting for Spoons
+S3 (21): Eating
+S4 (20): Waiting for Spoons
+S5 (19): Eating
+
+-----------------
+
+S1 (21): Waiting for Spoons
+S2 (20): Waiting for Spoons
+S3 (21): Thinking
+S4 (20): Waiting for Spoons
+S5 (19): Eating
+
+-----------------
+
+S1 (21): Waiting for Spoons
+S2 (20): Eating
+S3 (21): Thinking
+S4 (20): Waiting for Spoons
+S5 (19): Eating
+
+-----------------
+
+S1 (21): Waiting for Spoons
+S2 (20): Eating
+S3 (22): Waiting for Spoons
+S4 (20): Waiting for Spoons
+S5 (19): Eating
+
+-----------------
+
+S1 (21): Waiting for Spoons
+S2 (20): Eating
+S3 (22): Waiting for Spoons
+S4 (20): Waiting for Spoons
+S5 (19): Thinking
+
+-----------------
+
+S1 (21): Waiting for Spoons
+S2 (20): Eating
+S3 (22): Waiting for Spoons
+S4 (20): Eating
+S5 (19): Thinking
+
+-----------------
+
+S1 (21): Waiting for Spoons
+S2 (20): Eating
+S3 (22): Waiting for Spoons
+S4 (20): Eating
+S5 (20): Waiting for Spoons
+
+-----------------
+
+S1 (21): Waiting for Spoons
+S2 (20): Thinking
+S3 (22): Waiting for Spoons
+S4 (20): Eating
+S5 (20): Waiting for Spoons
+
+-----------------
+
+S1 (21): Eating
+S2 (20): Thinking
+S3 (22): Waiting for Spoons
+S4 (20): Eating
+S5 (20): Waiting for Spoons
+
+-----------------
+
+S1 (21): Eating
+S2 (21): Waiting for Spoons
+S3 (22): Waiting for Spoons
+S4 (20): Eating
+S5 (20): Waiting for Spoons
+
+-----------------
+
+S1 (21): Eating
+S2 (21): Waiting for Spoons
+S3 (22): Waiting for Spoons
+S4 (20): Thinking
+S5 (20): Waiting for Spoons
+
+-----------------
+
+S1 (21): Eating
+S2 (21): Waiting for Spoons
+S3 (22): Eating
+S4 (20): Thinking
+S5 (20): Waiting for Spoons
+
+-----------------
+
+S1 (21): Eating
+S2 (21): Waiting for Spoons
+S3 (22): Eating
+S4 (21): Waiting for Spoons
+S5 (20): Waiting for Spoons
+
+-----------------
+
+S1 (21): Thinking
+S2 (21): Waiting for Spoons
+S3 (22): Eating
+S4 (21): Waiting for Spoons
+S5 (20): Waiting for Spoons
+
+-----------------
+
+S1 (21): Thinking
+S2 (21): Waiting for Spoons
+S3 (22): Eating
+S4 (21): Waiting for Spoons
+S5 (20): Eating
+
+-----------------
+
+S1 (22): Waiting for Spoons
+S2 (21): Waiting for Spoons
+S3 (22): Eating
+S4 (21): Waiting for Spoons
+S5 (20): Eating
+
+-----------------
+
+S1 (22): Waiting for Spoons
+S2 (21): Waiting for Spoons
+S3 (22): Thinking
+S4 (21): Waiting for Spoons
+S5 (20): Eating
+
+-----------------
+
+S1 (22): Waiting for Spoons
+S2 (21): Eating
+S3 (22): Thinking
+S4 (21): Waiting for Spoons
+S5 (20): Eating
+
+-----------------
+
+S1 (22): Waiting for Spoons
+S2 (21): Eating
+S3 (23): Waiting for Spoons
+S4 (21): Waiting for Spoons
+S5 (20): Eating
+
+-----------------
+
+S1 (22): Waiting for Spoons
+S2 (21): Eating
+S3 (23): Waiting for Spoons
+S4 (21): Waiting for Spoons
+S5 (20): Thinking
+
+-----------------
+
+S1 (22): Waiting for Spoons
+S2 (21): Eating
+S3 (23): Waiting for Spoons
+S4 (21): Eating
+S5 (20): Thinking
+
+-----------------
+
+S1 (22): Waiting for Spoons
+S2 (21): Eating
+S3 (23): Waiting for Spoons
+S4 (21): Eating
+S5 (21): Waiting for Spoons
+
+-----------------
+
+S1 (22): Waiting for Spoons
+S2 (21): Thinking
+S3 (23): Waiting for Spoons
+S4 (21): Eating
+S5 (21): Waiting for Spoons
+
+-----------------
+
+S1 (22): Eating
+S2 (21): Thinking
+S3 (23): Waiting for Spoons
+S4 (21): Eating
+S5 (21): Waiting for Spoons
+
+-----------------
+
+S1 (22): Eating
+S2 (22): Waiting for Spoons
+S3 (23): Waiting for Spoons
+S4 (21): Eating
+S5 (21): Waiting for Spoons
+
+-----------------
+
+S1 (22): Eating
+S2 (22): Waiting for Spoons
+S3 (23): Waiting for Spoons
+S4 (21): Thinking
+S5 (21): Waiting for Spoons
+
+-----------------
+
+S1 (22): Eating
+S2 (22): Waiting for Spoons
+S3 (23): Eating
+S4 (21): Thinking
+S5 (21): Waiting for Spoons
+
+-----------------
+
+S1 (22): Eating
+S2 (22): Waiting for Spoons
+S3 (23): Eating
+S4 (22): Waiting for Spoons
+S5 (21): Waiting for Spoons
+
+-----------------
+
+S1 (22): Thinking
+S2 (22): Waiting for Spoons
+S3 (23): Eating
+S4 (22): Waiting for Spoons
+S5 (21): Waiting for Spoons
+
+-----------------
+
+S1 (22): Thinking
+S2 (22): Waiting for Spoons
+S3 (23): Eating
+S4 (22): Waiting for Spoons
+S5 (21): Eating
+
+-----------------
+
+S1 (23): Waiting for Spoons
+S2 (22): Waiting for Spoons
+S3 (23): Eating
+S4 (22): Waiting for Spoons
+S5 (21): Eating
+
+-----------------
+
+S1 (23): Waiting for Spoons
+S2 (22): Waiting for Spoons
+S3 (23): Thinking
+S4 (22): Waiting for Spoons
+S5 (21): Eating
+
+-----------------
+
+S1 (23): Waiting for Spoons
+S2 (22): Eating
+S3 (23): Thinking
+S4 (22): Waiting for Spoons
+S5 (21): Eating
+
+-----------------
+
+S1 (23): Waiting for Spoons
+S2 (22): Eating
+S3 (24): Waiting for Spoons
+S4 (22): Waiting for Spoons
+S5 (21): Eating
+
+-----------------
+
+S1 (23): Waiting for Spoons
+S2 (22): Eating
+S3 (24): Waiting for Spoons
+S4 (22): Waiting for Spoons
+S5 (21): Thinking
+
+-----------------
+
+S1 (23): Waiting for Spoons
+S2 (22): Eating
+S3 (24): Waiting for Spoons
+S4 (22): Eating
+S5 (21): Thinking
+
+-----------------
+
+S1 (23): Waiting for Spoons
+S2 (22): Eating
+S3 (24): Waiting for Spoons
+S4 (22): Eating
+S5 (22): Waiting for Spoons
+
+-----------------
+
+S1 (23): Waiting for Spoons
+S2 (22): Thinking
+S3 (24): Waiting for Spoons
+S4 (22): Eating
+S5 (22): Waiting for Spoons
+
+-----------------
+
+S1 (23): Eating
+S2 (22): Thinking
+S3 (24): Waiting for Spoons
+S4 (22): Eating
+S5 (22): Waiting for Spoons
+
+-----------------
+
+S1 (23): Eating
+S2 (23): Waiting for Spoons
+S3 (24): Waiting for Spoons
+S4 (22): Eating
+S5 (22): Waiting for Spoons
+
+-----------------
+
+S1 (23): Eating
+S2 (23): Waiting for Spoons
+S3 (24): Waiting for Spoons
+S4 (22): Thinking
+S5 (22): Waiting for Spoons
+
+-----------------
+
+S1 (23): Eating
+S2 (23): Waiting for Spoons
+S3 (24): Eating
+S4 (22): Thinking
+S5 (22): Waiting for Spoons
+
+-----------------
+
+S1 (23): Eating
+S2 (23): Waiting for Spoons
+S3 (24): Eating
+S4 (23): Waiting for Spoons
+S5 (22): Waiting for Spoons
+
+-----------------
+
+S1 (23): Thinking
+S2 (23): Waiting for Spoons
+S3 (24): Eating
+S4 (23): Waiting for Spoons
+S5 (22): Waiting for Spoons
+
+-----------------
+
+S1 (23): Thinking
+S2 (23): Waiting for Spoons
+S3 (24): Eating
+S4 (23): Waiting for Spoons
+S5 (22): Eating
+
+-----------------
+
+S1 (24): Waiting for Spoons
+S2 (23): Waiting for Spoons
+S3 (24): Eating
+S4 (23): Waiting for Spoons
+S5 (22): Eating
+
+-----------------
+
+S1 (24): Waiting for Spoons
+S2 (23): Waiting for Spoons
+S3 (24): Thinking
+S4 (23): Waiting for Spoons
+S5 (22): Eating
+
+-----------------
+
+S1 (24): Waiting for Spoons
+S2 (23): Eating
+S3 (24): Thinking
+S4 (23): Waiting for Spoons
+S5 (22): Eating
+
+-----------------
+
+S1 (24): Waiting for Spoons
+S2 (23): Eating
+S3 (25): Waiting for Spoons
+S4 (23): Waiting for Spoons
+S5 (22): Eating
+
+-----------------
+
+S1 (24): Waiting for Spoons
+S2 (23): Eating
+S3 (25): Waiting for Spoons
+S4 (23): Waiting for Spoons
+S5 (22): Thinking
+
+-----------------
+
+S1 (24): Waiting for Spoons
+S2 (23): Eating
+S3 (25): Waiting for Spoons
+S4 (23): Eating
+S5 (22): Thinking
+
+-----------------
+
+S1 (24): Waiting for Spoons
+S2 (23): Eating
+S3 (25): Waiting for Spoons
+S4 (23): Eating
+S5 (23): Waiting for Spoons
+
+-----------------
+
+S1 (24): Waiting for Spoons
+S2 (23): Thinking
+S3 (25): Waiting for Spoons
+S4 (23): Eating
+S5 (23): Waiting for Spoons
+
+-----------------
+
+S1 (24): Eating
+S2 (23): Thinking
+S3 (25): Waiting for Spoons
+S4 (23): Eating
+S5 (23): Waiting for Spoons
+
+-----------------
+
+S1 (24): Eating
+S2 (24): Waiting for Spoons
+S3 (25): Waiting for Spoons
+S4 (23): Eating
+S5 (23): Waiting for Spoons
+
+-----------------
+
+S1 (24): Eating
+S2 (24): Waiting for Spoons
+S3 (25): Waiting for Spoons
+S4 (23): Thinking
+S5 (23): Waiting for Spoons
+
+-----------------
+
+S1 (24): Eating
+S2 (24): Waiting for Spoons
+S3 (25): Eating
+S4 (23): Thinking
+S5 (23): Waiting for Spoons
+
+-----------------
+
+S1 (24): Eating
+S2 (24): Waiting for Spoons
+S3 (25): Eating
+S4 (24): Waiting for Spoons
+S5 (23): Waiting for Spoons
+
+-----------------
+
+S1 (24): Thinking
+S2 (24): Waiting for Spoons
+S3 (25): Eating
+S4 (24): Waiting for Spoons
+S5 (23): Waiting for Spoons
+
+-----------------
+
+S1 (24): Thinking
+S2 (24): Waiting for Spoons
+S3 (25): Eating
+S4 (24): Waiting for Spoons
+S5 (23): Eating
+
+-----------------
+
+S1 (25): Waiting for Spoons
+S2 (24): Waiting for Spoons
+S3 (25): Eating
+S4 (24): Waiting for Spoons
+S5 (23): Eating
+
+-----------------
+
+S1 (25): Waiting for Spoons
+S2 (24): Waiting for Spoons
+S3 (25): Thinking
+S4 (24): Waiting for Spoons
+S5 (23): Eating
+
+-----------------
+
+S1 (25): Waiting for Spoons
+S2 (24): Eating
+S3 (25): Thinking
+S4 (24): Waiting for Spoons
+S5 (23): Eating
+
+-----------------
+
+S1 (25): Waiting for Spoons
+S2 (24): Eating
+S3 (26): Waiting for Spoons
+S4 (24): Waiting for Spoons
+S5 (23): Eating
+
+-----------------
+
+S1 (25): Waiting for Spoons
+S2 (24): Eating
+S3 (26): Waiting for Spoons
+S4 (24): Waiting for Spoons
+S5 (23): Thinking
+
+-----------------
+
+S1 (25): Waiting for Spoons
+S2 (24): Eating
+S3 (26): Waiting for Spoons
+S4 (24): Eating
+S5 (23): Thinking
+
+-----------------
+
+S1 (25): Waiting for Spoons
+S2 (24): Eating
+S3 (26): Waiting for Spoons
+S4 (24): Eating
+S5 (24): Waiting for Spoons
+
+-----------------
+
+S1 (25): Waiting for Spoons
+S2 (24): Thinking
+S3 (26): Waiting for Spoons
+S4 (24): Eating
+S5 (24): Waiting for Spoons
+
+-----------------
+
+S1 (25): Eating
+S2 (24): Thinking
+S3 (26): Waiting for Spoons
+S4 (24): Eating
+S5 (24): Waiting for Spoons
+
+-----------------
+
+S1 (25): Eating
+S2 (25): Waiting for Spoons
+S3 (26): Waiting for Spoons
+S4 (24): Eating
+S5 (24): Waiting for Spoons
+
+-----------------
+
+S1 (25): Eating
+S2 (25): Waiting for Spoons
+S3 (26): Waiting for Spoons
+S4 (24): Thinking
+S5 (24): Waiting for Spoons
+
+-----------------
+
+S1 (25): Eating
+S2 (25): Waiting for Spoons
+S3 (26): Eating
+S4 (24): Thinking
+S5 (24): Waiting for Spoons
+
+-----------------
+
+S1 (25): Eating
+S2 (25): Waiting for Spoons
+S3 (26): Eating
+S4 (25): Waiting for Spoons
+S5 (24): Waiting for Spoons
+
+-----------------
+
+S1 (25): Thinking
+S2 (25): Waiting for Spoons
+S3 (26): Eating
+S4 (25): Waiting for Spoons
+S5 (24): Waiting for Spoons
+
+-----------------
+
+S1 (25): Thinking
+S2 (25): Waiting for Spoons
+S3 (26): Eating
+S4 (25): Waiting for Spoons
+S5 (24): Eating
+
+-----------------
+
+S1 (26): Waiting for Spoons
+S2 (25): Waiting for Spoons
+S3 (26): Eating
+S4 (25): Waiting for Spoons
+S5 (24): Eating
+
+-----------------
+
+S1 (26): Waiting for Spoons
+S2 (25): Waiting for Spoons
+S3 (26): Thinking
+S4 (25): Waiting for Spoons
+S5 (24): Eating
+
+-----------------
+
+S1 (26): Waiting for Spoons
+S2 (25): Eating
+S3 (26): Thinking
+S4 (25): Waiting for Spoons
+S5 (24): Eating
+
+-----------------
+
+S1 (26): Waiting for Spoons
+S2 (25): Eating
+S3 (27): Waiting for Spoons
+S4 (25): Waiting for Spoons
+S5 (24): Eating
+
+-----------------
+
+S1 (26): Waiting for Spoons
+S2 (25): Eating
+S3 (27): Waiting for Spoons
+S4 (25): Waiting for Spoons
+S5 (24): Thinking
+
+-----------------
+
+S1 (26): Waiting for Spoons
+S2 (25): Eating
+S3 (27): Waiting for Spoons
+S4 (25): Eating
+S5 (24): Thinking
+
+-----------------
+
+S1 (26): Waiting for Spoons
+S2 (25): Eating
+S3 (27): Waiting for Spoons
+S4 (25): Eating
+S5 (25): Waiting for Spoons
+
+-----------------
+
+S1 (26): Waiting for Spoons
+S2 (25): Thinking
+S3 (27): Waiting for Spoons
+S4 (25): Eating
+S5 (25): Waiting for Spoons
+
+-----------------
+
+S1 (26): Eating
+S2 (25): Thinking
+S3 (27): Waiting for Spoons
+S4 (25): Eating
+S5 (25): Waiting for Spoons
+
+-----------------
+
+S1 (26): Eating
+S2 (26): Waiting for Spoons
+S3 (27): Waiting for Spoons
+S4 (25): Eating
+S5 (25): Waiting for Spoons
+
+-----------------
+
+S1 (26): Eating
+S2 (26): Waiting for Spoons
+S3 (27): Waiting for Spoons
+S4 (25): Thinking
+S5 (25): Waiting for Spoons
+
+-----------------
+
+S1 (26): Eating
+S2 (26): Waiting for Spoons
+S3 (27): Eating
+S4 (25): Thinking
+S5 (25): Waiting for Spoons
+
+-----------------
+
+S1 (26): Eating
+S2 (26): Waiting for Spoons
+S3 (27): Eating
+S4 (26): Waiting for Spoons
+S5 (25): Waiting for Spoons
+
+-----------------
+
+S1 (26): Thinking
+S2 (26): Waiting for Spoons
+S3 (27): Eating
+S4 (26): Waiting for Spoons
+S5 (25): Waiting for Spoons
+
+-----------------
+
+S1 (26): Thinking
+S2 (26): Waiting for Spoons
+S3 (27): Eating
+S4 (26): Waiting for Spoons
+S5 (25): Eating
+
+-----------------
+
+S1 (27): Waiting for Spoons
+S2 (26): Waiting for Spoons
+S3 (27): Eating
+S4 (26): Waiting for Spoons
+S5 (25): Eating
+
+-----------------
+
+S1 (27): Waiting for Spoons
+S2 (26): Waiting for Spoons
+S3 (27): Thinking
+S4 (26): Waiting for Spoons
+S5 (25): Eating
+
+-----------------
+
+S1 (27): Waiting for Spoons
+S2 (26): Eating
+S3 (27): Thinking
+S4 (26): Waiting for Spoons
+S5 (25): Eating
+
+-----------------
+
+S1 (27): Waiting for Spoons
+S2 (26): Eating
+S3 (27): Thinking
+S4 (26): Waiting for Spoons
+S5 (25): Thinking
+
+-----------------
+
+S1 (27): Waiting for Spoons
+S2 (26): Eating
+S3 (27): Thinking
+S4 (26): Eating
+S5 (25): Thinking
+
+-----------------
+
+S1 (27): Waiting for Spoons
+S2 (26): Eating
+S3 (28): Waiting for Spoons
+S4 (26): Eating
+S5 (25): Thinking
+
+-----------------
+
+S1 (27): Waiting for Spoons
+S2 (26): Eating
+S3 (28): Waiting for Spoons
+S4 (26): Eating
+S5 (26): Waiting for Spoons
+
+-----------------
+
+S1 (27): Waiting for Spoons
+S2 (26): Thinking
+S3 (28): Waiting for Spoons
+S4 (26): Eating
+S5 (26): Waiting for Spoons
+
+-----------------
+
+S1 (27): Eating
+S2 (26): Thinking
+S3 (28): Waiting for Spoons
+S4 (26): Eating
+S5 (26): Waiting for Spoons
+
+-----------------
+
+S1 (27): Eating
+S2 (27): Waiting for Spoons
+S3 (28): Waiting for Spoons
+S4 (26): Eating
+S5 (26): Waiting for Spoons
+
+-----------------
+
+S1 (27): Eating
+S2 (27): Waiting for Spoons
+S3 (28): Waiting for Spoons
+S4 (26): Thinking
+S5 (26): Waiting for Spoons
+
+-----------------
+
+S1 (27): Eating
+S2 (27): Waiting for Spoons
+S3 (28): Eating
+S4 (26): Thinking
+S5 (26): Waiting for Spoons
+
+-----------------
+
+S1 (27): Eating
+S2 (27): Waiting for Spoons
+S3 (28): Eating
+S4 (27): Waiting for Spoons
+S5 (26): Waiting for Spoons
+
+-----------------
+
+S1 (27): Thinking
+S2 (27): Waiting for Spoons
+S3 (28): Eating
+S4 (27): Waiting for Spoons
+S5 (26): Waiting for Spoons
+
+-----------------
+
+S1 (27): Thinking
+S2 (27): Waiting for Spoons
+S3 (28): Eating
+S4 (27): Waiting for Spoons
+S5 (26): Eating
+
+-----------------
+
+S1 (28): Waiting for Spoons
+S2 (27): Waiting for Spoons
+S3 (28): Eating
+S4 (27): Waiting for Spoons
+S5 (26): Eating
+
+-----------------
+
+S1 (28): Waiting for Spoons
+S2 (27): Waiting for Spoons
+S3 (28): Thinking
+S4 (27): Waiting for Spoons
+S5 (26): Eating
+
+-----------------
+
+S1 (28): Waiting for Spoons
+S2 (27): Eating
+S3 (28): Thinking
+S4 (27): Waiting for Spoons
+S5 (26): Eating
+
+-----------------
+
+S1 (28): Waiting for Spoons
+S2 (27): Eating
+S3 (29): Waiting for Spoons
+S4 (27): Waiting for Spoons
+S5 (26): Eating
+
+-----------------
+
+S1 (28): Waiting for Spoons
+S2 (27): Eating
+S3 (29): Waiting for Spoons
+S4 (27): Waiting for Spoons
+S5 (26): Thinking
+
+-----------------
+
+S1 (28): Waiting for Spoons
+S2 (27): Eating
+S3 (29): Waiting for Spoons
+S4 (27): Eating
+S5 (26): Thinking
+
+-----------------
+
+S1 (28): Waiting for Spoons
+S2 (27): Eating
+S3 (29): Waiting for Spoons
+S4 (27): Eating
+S5 (27): Waiting for Spoons
+
+-----------------
+
+S1 (28): Waiting for Spoons
+S2 (27): Thinking
+S3 (29): Waiting for Spoons
+S4 (27): Eating
+S5 (27): Waiting for Spoons
+
+-----------------
+
+S1 (28): Eating
+S2 (27): Thinking
+S3 (29): Waiting for Spoons
+S4 (27): Eating
+S5 (27): Waiting for Spoons
+
+-----------------
+
+S1 (28): Eating
+S2 (28): Waiting for Spoons
+S3 (29): Waiting for Spoons
+S4 (27): Eating
+S5 (27): Waiting for Spoons
+
+-----------------
+
+S1 (28): Eating
+S2 (28): Waiting for Spoons
+S3 (29): Waiting for Spoons
+S4 (27): Thinking
+S5 (27): Waiting for Spoons
+
+-----------------
+
+S1 (28): Eating
+S2 (28): Waiting for Spoons
+S3 (29): Eating
+S4 (27): Thinking
+S5 (27): Waiting for Spoons
+
+-----------------
+
+S1 (28): Eating
+S2 (28): Waiting for Spoons
+S3 (29): Eating
+S4 (28): Waiting for Spoons
+S5 (27): Waiting for Spoons
+
+-----------------
+
+S1 (28): Thinking
+S2 (28): Waiting for Spoons
+S3 (29): Eating
+S4 (28): Waiting for Spoons
+S5 (27): Waiting for Spoons
+
+-----------------
+
+S1 (28): Thinking
+S2 (28): Waiting for Spoons
+S3 (29): Eating
+S4 (28): Waiting for Spoons
+S5 (27): Eating
+
+-----------------
+
+S1 (29): Waiting for Spoons
+S2 (28): Waiting for Spoons
+S3 (29): Eating
+S4 (28): Waiting for Spoons
+S5 (27): Eating
+
+-----------------
+
+S1 (29): Waiting for Spoons
+S2 (28): Waiting for Spoons
+S3 (29): Thinking
+S4 (28): Waiting for Spoons
+S5 (27): Eating
+
+-----------------
+
+S1 (29): Waiting for Spoons
+S2 (28): Eating
+S3 (29): Thinking
+S4 (28): Waiting for Spoons
+S5 (27): Eating
+
+-----------------
+
+S1 (29): Waiting for Spoons
+S2 (28): Eating
+S3 (30): Waiting for Spoons
+S4 (28): Waiting for Spoons
+S5 (27): Eating
+
+-----------------
+
+S1 (29): Waiting for Spoons
+S2 (28): Eating
+S3 (30): Waiting for Spoons
+S4 (28): Waiting for Spoons
+S5 (27): Thinking
+
+-----------------
+
+S1 (29): Waiting for Spoons
+S2 (28): Eating
+S3 (30): Waiting for Spoons
+S4 (28): Eating
+S5 (27): Thinking
+
+-----------------
+
+S1 (29): Waiting for Spoons
+S2 (28): Eating
+S3 (30): Waiting for Spoons
+S4 (28): Eating
+S5 (28): Waiting for Spoons
+
+-----------------
+
+S1 (29): Waiting for Spoons
+S2 (28): Thinking
+S3 (30): Waiting for Spoons
+S4 (28): Eating
+S5 (28): Waiting for Spoons
+
+-----------------
+
+S1 (29): Eating
+S2 (28): Thinking
+S3 (30): Waiting for Spoons
+S4 (28): Eating
+S5 (28): Waiting for Spoons
+
+-----------------
+
+S1 (29): Eating
+S2 (29): Waiting for Spoons
+S3 (30): Waiting for Spoons
+S4 (28): Eating
+S5 (28): Waiting for Spoons
+
+-----------------
+
+S1 (29): Eating
+S2 (29): Waiting for Spoons
+S3 (30): Waiting for Spoons
+S4 (28): Thinking
+S5 (28): Waiting for Spoons
+
+-----------------
+
+S1 (29): Eating
+S2 (29): Waiting for Spoons
+S3 (30): Eating
+S4 (28): Thinking
+S5 (28): Waiting for Spoons
+
+-----------------
+
+S1 (29): Eating
+S2 (29): Waiting for Spoons
+S3 (30): Eating
+S4 (29): Waiting for Spoons
+S5 (28): Waiting for Spoons
+
+-----------------
+
+S1 (29): Thinking
+S2 (29): Waiting for Spoons
+S3 (30): Eating
+S4 (29): Waiting for Spoons
+S5 (28): Waiting for Spoons
+
+-----------------
+
+S1 (29): Thinking
+S2 (29): Waiting for Spoons
+S3 (30): Eating
+S4 (29): Waiting for Spoons
+S5 (28): Eating
+
+-----------------
+
+S1 (30): Waiting for Spoons
+S2 (29): Waiting for Spoons
+S3 (30): Eating
+S4 (29): Waiting for Spoons
+S5 (28): Eating
+
+-----------------
+
+S1 (30): Waiting for Spoons
+S2 (29): Waiting for Spoons
+S3 (30): Thinking
+S4 (29): Waiting for Spoons
+S5 (28): Eating
+
+-----------------
+
+S1 (30): Waiting for Spoons
+S2 (29): Eating
+S3 (30): Thinking
+S4 (29): Waiting for Spoons
+S5 (28): Eating
+
+-----------------
+
+S1 (30): Waiting for Spoons
+S2 (29): Eating
+S3 (31): Waiting for Spoons
+S4 (29): Waiting for Spoons
+S5 (28): Eating
+
+-----------------
+
+S1 (30): Waiting for Spoons
+S2 (29): Eating
+S3 (31): Waiting for Spoons
+S4 (29): Waiting for Spoons
+S5 (28): Thinking
+
+-----------------
+
+S1 (30): Waiting for Spoons
+S2 (29): Eating
+S3 (31): Waiting for Spoons
+S4 (29): Eating
+S5 (28): Thinking
+
+-----------------
+
+S1 (30): Waiting for Spoons
+S2 (29): Eating
+S3 (31): Waiting for Spoons
+S4 (29): Eating
+S5 (29): Waiting for Spoons
+
+-----------------
+
+S1 (30): Waiting for Spoons
+S2 (29): Thinking
+S3 (31): Waiting for Spoons
+S4 (29): Eating
+S5 (29): Waiting for Spoons
+
+-----------------
+
+S1 (30): Eating
+S2 (29): Thinking
+S3 (31): Waiting for Spoons
+S4 (29): Eating
+S5 (29): Waiting for Spoons
+
+-----------------
+
+S1 (30): Eating
+S2 (30): Waiting for Spoons
+S3 (31): Waiting for Spoons
+S4 (29): Eating
+S5 (29): Waiting for Spoons
+
+-----------------
+
+S1 (30): Eating
+S2 (30): Waiting for Spoons
+S3 (31): Waiting for Spoons
+S4 (29): Thinking
+S5 (29): Waiting for Spoons
+
+-----------------
+
+S1 (30): Eating
+S2 (30): Waiting for Spoons
+S3 (31): Eating
+S4 (29): Thinking
+S5 (29): Waiting for Spoons
+
+-----------------
+
+S1 (30): Eating
+S2 (30): Waiting for Spoons
+S3 (31): Eating
+S4 (30): Waiting for Spoons
+S5 (29): Waiting for Spoons
+
+-----------------
+
+S1 (30): Thinking
+S2 (30): Waiting for Spoons
+S3 (31): Eating
+S4 (30): Waiting for Spoons
+S5 (29): Waiting for Spoons
+
+-----------------
+
+S1 (30): Thinking
+S2 (30): Waiting for Spoons
+S3 (31): Eating
+S4 (30): Waiting for Spoons
+S5 (29): Eating
+
+-----------------
+
+S1 (31): Waiting for Spoons
+S2 (30): Waiting for Spoons
+S3 (31): Eating
+S4 (30): Waiting for Spoons
+S5 (29): Eating
+
+-----------------
+
+S1 (31): Waiting for Spoons
+S2 (30): Waiting for Spoons
+S3 (31): Thinking
+S4 (30): Waiting for Spoons
+S5 (29): Eating
+
+-----------------
+
+S1 (31): Waiting for Spoons
+S2 (30): Eating
+S3 (31): Thinking
+S4 (30): Waiting for Spoons
+S5 (29): Eating
+
+-----------------
+
+S1 (31): Waiting for Spoons
+S2 (30): Eating
+S3 (32): Waiting for Spoons
+S4 (30): Waiting for Spoons
+S5 (29): Eating
+
+-----------------
+
+S1 (31): Waiting for Spoons
+S2 (30): Eating
+S3 (32): Waiting for Spoons
+S4 (30): Waiting for Spoons
+S5 (29): Thinking
+
+-----------------
+
+S1 (31): Waiting for Spoons
+S2 (30): Eating
+S3 (32): Waiting for Spoons
+S4 (30): Eating
+S5 (29): Thinking
+
+-----------------
+
+S1 (31): Waiting for Spoons
+S2 (30): Eating
+S3 (32): Waiting for Spoons
+S4 (30): Eating
+S5 (30): Waiting for Spoons
+
+-----------------
+
+S1 (31): Waiting for Spoons
+S2 (30): Thinking
+S3 (32): Waiting for Spoons
+S4 (30): Eating
+S5 (30): Waiting for Spoons
+
+-----------------
+
+S1 (31): Eating
+S2 (30): Thinking
+S3 (32): Waiting for Spoons
+S4 (30): Eating
+S5 (30): Waiting for Spoons
+
+-----------------
+
+S1 (31): Eating
+S2 (31): Waiting for Spoons
+S3 (32): Waiting for Spoons
+S4 (30): Eating
+S5 (30): Waiting for Spoons
+
+-----------------
+
+S1 (31): Eating
+S2 (31): Waiting for Spoons
+S3 (32): Waiting for Spoons
+S4 (30): Thinking
+S5 (30): Waiting for Spoons
+
+-----------------
+
+S1 (31): Eating
+S2 (31): Waiting for Spoons
+S3 (32): Eating
+S4 (30): Thinking
+S5 (30): Waiting for Spoons
+
+-----------------
+
+S1 (31): Eating
+S2 (31): Waiting for Spoons
+S3 (32): Eating
+S4 (31): Waiting for Spoons
+S5 (30): Waiting for Spoons
+
+-----------------
+
+S1 (31): Thinking
+S2 (31): Waiting for Spoons
+S3 (32): Eating
+S4 (31): Waiting for Spoons
+S5 (30): Waiting for Spoons
+
+-----------------
+
+S1 (31): Thinking
+S2 (31): Waiting for Spoons
+S3 (32): Eating
+S4 (31): Waiting for Spoons
+S5 (30): Eating
+
+-----------------
+
+S1 (32): Waiting for Spoons
+S2 (31): Waiting for Spoons
+S3 (32): Eating
+S4 (31): Waiting for Spoons
+S5 (30): Eating
+
+-----------------
+
+S1 (32): Waiting for Spoons
+S2 (31): Waiting for Spoons
+S3 (32): Thinking
+S4 (31): Waiting for Spoons
+S5 (30): Eating
+
+-----------------
+
+S1 (32): Waiting for Spoons
+S2 (31): Eating
+S3 (32): Thinking
+S4 (31): Waiting for Spoons
+S5 (30): Eating
+
+-----------------
+
+S1 (32): Waiting for Spoons
+S2 (31): Eating
+S3 (33): Waiting for Spoons
+S4 (31): Waiting for Spoons
+S5 (30): Eating
+
+-----------------
+
+S1 (32): Waiting for Spoons
+S2 (31): Eating
+S3 (33): Waiting for Spoons
+S4 (31): Waiting for Spoons
+S5 (30): Thinking
+
+-----------------
+
+S1 (32): Waiting for Spoons
+S2 (31): Eating
+S3 (33): Waiting for Spoons
+S4 (31): Eating
+S5 (30): Thinking
+
+-----------------
+
+S1 (32): Waiting for Spoons
+S2 (31): Eating
+S3 (33): Waiting for Spoons
+S4 (31): Eating
+S5 (31): Waiting for Spoons
+
+-----------------
+
+S1 (32): Waiting for Spoons
+S2 (31): Thinking
+S3 (33): Waiting for Spoons
+S4 (31): Eating
+S5 (31): Waiting for Spoons
+
+-----------------
+
+S1 (32): Eating
+S2 (31): Thinking
+S3 (33): Waiting for Spoons
+S4 (31): Eating
+S5 (31): Waiting for Spoons
+
+-----------------
+
+S1 (32): Eating
+S2 (32): Waiting for Spoons
+S3 (33): Waiting for Spoons
+S4 (31): Eating
+S5 (31): Waiting for Spoons
+
+-----------------
+
+S1 (32): Eating
+S2 (32): Waiting for Spoons
+S3 (33): Waiting for Spoons
+S4 (31): Thinking
+S5 (31): Waiting for Spoons
+
+-----------------
+
+S1 (32): Eating
+S2 (32): Waiting for Spoons
+S3 (33): Eating
+S4 (31): Thinking
+S5 (31): Waiting for Spoons
+
+-----------------
+
+S1 (32): Eating
+S2 (32): Waiting for Spoons
+S3 (33): Eating
+S4 (32): Waiting for Spoons
+S5 (31): Waiting for Spoons
+
+-----------------
+
+S1 (32): Thinking
+S2 (32): Waiting for Spoons
+S3 (33): Eating
+S4 (32): Waiting for Spoons
+S5 (31): Waiting for Spoons
+
+-----------------
+
+S1 (32): Thinking
+S2 (32): Waiting for Spoons
+S3 (33): Eating
+S4 (32): Waiting for Spoons
+S5 (31): Eating
+
+-----------------
+
+S1 (33): Waiting for Spoons
+S2 (32): Waiting for Spoons
+S3 (33): Eating
+S4 (32): Waiting for Spoons
+S5 (31): Eating
+
+-----------------
+
+S1 (33): Waiting for Spoons
+S2 (32): Waiting for Spoons
+S3 (33): Thinking
+S4 (32): Waiting for Spoons
+S5 (31): Eating
+
+-----------------
+
+S1 (33): Waiting for Spoons
+S2 (32): Eating
+S3 (33): Thinking
+S4 (32): Waiting for Spoons
+S5 (31): Eating
+
+-----------------
+
+S1 (33): Waiting for Spoons
+S2 (32): Eating
+S3 (34): Waiting for Spoons
+S4 (32): Waiting for Spoons
+S5 (31): Eating
+
+-----------------
+
+S1 (33): Waiting for Spoons
+S2 (32): Eating
+S3 (34): Waiting for Spoons
+S4 (32): Waiting for Spoons
+S5 (31): Thinking
+
+-----------------
+
+S1 (33): Waiting for Spoons
+S2 (32): Eating
+S3 (34): Waiting for Spoons
+S4 (32): Eating
+S5 (31): Thinking
+
+-----------------
+
+S1 (33): Waiting for Spoons
+S2 (32): Eating
+S3 (34): Waiting for Spoons
+S4 (32): Eating
+S5 (32): Waiting for Spoons
+
+-----------------
+
+S1 (33): Waiting for Spoons
+S2 (32): Thinking
+S3 (34): Waiting for Spoons
+S4 (32): Eating
+S5 (32): Waiting for Spoons
+
+-----------------
+
+S1 (33): Eating
+S2 (32): Thinking
+S3 (34): Waiting for Spoons
+S4 (32): Eating
+S5 (32): Waiting for Spoons
+
+-----------------
+
+S1 (33): Eating
+S2 (33): Waiting for Spoons
+S3 (34): Waiting for Spoons
+S4 (32): Eating
+S5 (32): Waiting for Spoons
+
+-----------------
+
+S1 (33): Eating
+S2 (33): Waiting for Spoons
+S3 (34): Waiting for Spoons
+S4 (32): Thinking
+S5 (32): Waiting for Spoons
+
+-----------------
+
+S1 (33): Eating
+S2 (33): Waiting for Spoons
+S3 (34): Eating
+S4 (32): Thinking
+S5 (32): Waiting for Spoons
+
+-----------------
+
+S1 (33): Eating
+S2 (33): Waiting for Spoons
+S3 (34): Eating
+S4 (33): Waiting for Spoons
+S5 (32): Waiting for Spoons
+
+-----------------
+
+S1 (33): Thinking
+S2 (33): Waiting for Spoons
+S3 (34): Eating
+S4 (33): Waiting for Spoons
+S5 (32): Waiting for Spoons
+
+-----------------
+
+S1 (33): Thinking
+S2 (33): Waiting for Spoons
+S3 (34): Eating
+S4 (33): Waiting for Spoons
+S5 (32): Eating
+
+-----------------
+
+S1 (34): Waiting for Spoons
+S2 (33): Waiting for Spoons
+S3 (34): Eating
+S4 (33): Waiting for Spoons
+S5 (32): Eating
+
+-----------------
+
+S1 (34): Waiting for Spoons
+S2 (33): Waiting for Spoons
+S3 (34): Thinking
+S4 (33): Waiting for Spoons
+S5 (32): Eating
+
+-----------------
+
+S1 (34): Waiting for Spoons
+S2 (33): Eating
+S3 (34): Thinking
+S4 (33): Waiting for Spoons
+S5 (32): Eating
+
+-----------------
+
+S1 (34): Waiting for Spoons
+S2 (33): Eating
+S3 (35): Waiting for Spoons
+S4 (33): Waiting for Spoons
+S5 (32): Eating
+
+-----------------
+
+S1 (34): Waiting for Spoons
+S2 (33): Eating
+S3 (35): Waiting for Spoons
+S4 (33): Waiting for Spoons
+S5 (32): Thinking
+
+-----------------
+
+S1 (34): Waiting for Spoons
+S2 (33): Eating
+S3 (35): Waiting for Spoons
+S4 (33): Eating
+S5 (32): Thinking
+
+-----------------
+
+S1 (34): Waiting for Spoons
+S2 (33): Eating
+S3 (35): Waiting for Spoons
+S4 (33): Eating
+S5 (33): Waiting for Spoons
+
+-----------------
+
+S1 (34): Waiting for Spoons
+S2 (33): Thinking
+S3 (35): Waiting for Spoons
+S4 (33): Eating
+S5 (33): Waiting for Spoons
+
+-----------------
+
+S1 (34): Eating
+S2 (33): Thinking
+S3 (35): Waiting for Spoons
+S4 (33): Eating
+S5 (33): Waiting for Spoons
+
+-----------------
+
+S1 (34): Eating
+S2 (34): Waiting for Spoons
+S3 (35): Waiting for Spoons
+S4 (33): Eating
+S5 (33): Waiting for Spoons
+
+-----------------
+
+S1 (34): Eating
+S2 (34): Waiting for Spoons
+S3 (35): Waiting for Spoons
+S4 (33): Thinking
+S5 (33): Waiting for Spoons
+
+-----------------
+
+S1 (34): Eating
+S2 (34): Waiting for Spoons
+S3 (35): Eating
+S4 (33): Thinking
+S5 (33): Waiting for Spoons
+
+-----------------
+
+S1 (34): Eating
+S2 (34): Waiting for Spoons
+S3 (35): Eating
+S4 (34): Waiting for Spoons
+S5 (33): Waiting for Spoons
+
+-----------------
+
+S1 (34): Thinking
+S2 (34): Waiting for Spoons
+S3 (35): Eating
+S4 (34): Waiting for Spoons
+S5 (33): Waiting for Spoons
+
+-----------------
+
+S1 (34): Thinking
+S2 (34): Waiting for Spoons
+S3 (35): Eating
+S4 (34): Waiting for Spoons
+S5 (33): Eating
+
+-----------------
+
+S1 (35): Waiting for Spoons
+S2 (34): Waiting for Spoons
+S3 (35): Eating
+S4 (34): Waiting for Spoons
+S5 (33): Eating
+
+-----------------
+
+S1 (35): Waiting for Spoons
+S2 (34): Waiting for Spoons
+S3 (35): Thinking
+S4 (34): Waiting for Spoons
+S5 (33): Eating
+
+-----------------
+
+S1 (35): Waiting for Spoons
+S2 (34): Eating
+S3 (35): Thinking
+S4 (34): Waiting for Spoons
+S5 (33): Eating
+
+-----------------
+
+S1 (35): Waiting for Spoons
+S2 (34): Eating
+S3 (36): Waiting for Spoons
+S4 (34): Waiting for Spoons
+S5 (33): Eating
+
+-----------------
+
+S1 (35): Waiting for Spoons
+S2 (34): Eating
+S3 (36): Waiting for Spoons
+S4 (34): Waiting for Spoons
+S5 (33): Thinking
+
+-----------------
+
+S1 (35): Waiting for Spoons
+S2 (34): Eating
+S3 (36): Waiting for Spoons
+S4 (34): Eating
+S5 (33): Thinking
+
+-----------------
+
+S1 (35): Waiting for Spoons
+S2 (34): Eating
+S3 (36): Waiting for Spoons
+S4 (34): Eating
+S5 (34): Waiting for Spoons
+
+-----------------
+
+S1 (35): Waiting for Spoons
+S2 (34): Thinking
+S3 (36): Waiting for Spoons
+S4 (34): Eating
+S5 (34): Waiting for Spoons
+
+-----------------
+
+S1 (35): Eating
+S2 (34): Thinking
+S3 (36): Waiting for Spoons
+S4 (34): Eating
+S5 (34): Waiting for Spoons
+
+-----------------
+
+S1 (35): Eating
+S2 (34): Thinking
+S3 (36): Waiting for Spoons
+S4 (34): Thinking
+S5 (34): Waiting for Spoons
+
+-----------------
+
+S1 (35): Eating
+S2 (34): Thinking
+S3 (36): Eating
+S4 (34): Thinking
+S5 (34): Waiting for Spoons
+
+-----------------
+
+S1 (35): Eating
+S2 (35): Waiting for Spoons
+S3 (36): Eating
+S4 (34): Thinking
+S5 (34): Waiting for Spoons
+
+-----------------
+
+S1 (35): Eating
+S2 (35): Waiting for Spoons
+S3 (36): Eating
+S4 (35): Waiting for Spoons
+S5 (34): Waiting for Spoons
+
+-----------------
+
+S1 (35): Thinking
+S2 (35): Waiting for Spoons
+S3 (36): Eating
+S4 (35): Waiting for Spoons
+S5 (34): Waiting for Spoons
+
+-----------------
+
+S1 (35): Thinking
+S2 (35): Waiting for Spoons
+S3 (36): Eating
+S4 (35): Waiting for Spoons
+S5 (34): Eating
+
+-----------------
+
+S1 (36): Waiting for Spoons
+S2 (35): Waiting for Spoons
+S3 (36): Eating
+S4 (35): Waiting for Spoons
+S5 (34): Eating
+
+-----------------
+
+S1 (36): Waiting for Spoons
+S2 (35): Waiting for Spoons
+S3 (36): Thinking
+S4 (35): Waiting for Spoons
+S5 (34): Eating
+
+-----------------
+
+S1 (36): Waiting for Spoons
+S2 (35): Eating
+S3 (36): Thinking
+S4 (35): Waiting for Spoons
+S5 (34): Eating
+
+-----------------
+
+S1 (36): Waiting for Spoons
+S2 (35): Eating
+S3 (37): Waiting for Spoons
+S4 (35): Waiting for Spoons
+S5 (34): Eating
+
+-----------------
+
+S1 (36): Waiting for Spoons
+S2 (35): Eating
+S3 (37): Waiting for Spoons
+S4 (35): Waiting for Spoons
+S5 (34): Thinking
+
+-----------------
+
+S1 (36): Waiting for Spoons
+S2 (35): Eating
+S3 (37): Waiting for Spoons
+S4 (35): Eating
+S5 (34): Thinking
+
+-----------------
+
+S1 (36): Waiting for Spoons
+S2 (35): Eating
+S3 (37): Waiting for Spoons
+S4 (35): Eating
+S5 (35): Waiting for Spoons
+
+-----------------
+
+S1 (36): Waiting for Spoons
+S2 (35): Thinking
+S3 (37): Waiting for Spoons
+S4 (35): Eating
+S5 (35): Waiting for Spoons
+
+-----------------
+
+S1 (36): Eating
+S2 (35): Thinking
+S3 (37): Waiting for Spoons
+S4 (35): Eating
+S5 (35): Waiting for Spoons
+
+-----------------
+
+S1 (36): Eating
+S2 (36): Waiting for Spoons
+S3 (37): Waiting for Spoons
+S4 (35): Eating
+S5 (35): Waiting for Spoons
+
+-----------------
+
+S1 (36): Eating
+S2 (36): Waiting for Spoons
+S3 (37): Waiting for Spoons
+S4 (35): Thinking
+S5 (35): Waiting for Spoons
+
+-----------------
+
+S1 (36): Eating
+S2 (36): Waiting for Spoons
+S3 (37): Eating
+S4 (35): Thinking
+S5 (35): Waiting for Spoons
+
+-----------------
+
+S1 (36): Thinking
+S2 (36): Waiting for Spoons
+S3 (37): Eating
+S4 (35): Thinking
+S5 (35): Waiting for Spoons
+
+-----------------
+
+S1 (36): Thinking
+S2 (36): Waiting for Spoons
+S3 (37): Eating
+S4 (35): Thinking
+S5 (35): Eating
+
+-----------------
+
+S1 (36): Thinking
+S2 (36): Waiting for Spoons
+S3 (37): Eating
+S4 (36): Waiting for Spoons
+S5 (35): Eating
+
+-----------------
+
+S1 (37): Waiting for Spoons
+S2 (36): Waiting for Spoons
+S3 (37): Eating
+S4 (36): Waiting for Spoons
+S5 (35): Eating
+
+-----------------
+
+S1 (37): Waiting for Spoons
+S2 (36): Waiting for Spoons
+S3 (37): Thinking
+S4 (36): Waiting for Spoons
+S5 (35): Eating
+
+-----------------
+
+S1 (37): Waiting for Spoons
+S2 (36): Eating
+S3 (37): Thinking
+S4 (36): Waiting for Spoons
+S5 (35): Eating
+
+-----------------
+
+S1 (37): Waiting for Spoons
+S2 (36): Eating
+S3 (38): Waiting for Spoons
+S4 (36): Waiting for Spoons
+S5 (35): Eating
+
+-----------------
+
+S1 (37): Waiting for Spoons
+S2 (36): Eating
+S3 (38): Waiting for Spoons
+S4 (36): Waiting for Spoons
+S5 (35): Thinking
+
+-----------------
+
+S1 (37): Waiting for Spoons
+S2 (36): Eating
+S3 (38): Waiting for Spoons
+S4 (36): Eating
+S5 (35): Thinking
+
+-----------------
+
+S1 (37): Waiting for Spoons
+S2 (36): Eating
+S3 (38): Waiting for Spoons
+S4 (36): Eating
+S5 (36): Waiting for Spoons
+
+-----------------
+
+S1 (37): Waiting for Spoons
+S2 (36): Thinking
+S3 (38): Waiting for Spoons
+S4 (36): Eating
+S5 (36): Waiting for Spoons
+
+-----------------
+
+S1 (37): Eating
+S2 (36): Thinking
+S3 (38): Waiting for Spoons
+S4 (36): Eating
+S5 (36): Waiting for Spoons
+
+-----------------
+
+S1 (37): Eating
+S2 (37): Waiting for Spoons
+S3 (38): Waiting for Spoons
+S4 (36): Eating
+S5 (36): Waiting for Spoons
+
+-----------------
+
+S1 (37): Eating
+S2 (37): Waiting for Spoons
+S3 (38): Waiting for Spoons
+S4 (36): Thinking
+S5 (36): Waiting for Spoons
+
+-----------------
+
+S1 (37): Eating
+S2 (37): Waiting for Spoons
+S3 (38): Eating
+S4 (36): Thinking
+S5 (36): Waiting for Spoons
+
+-----------------
+
+S1 (37): Eating
+S2 (37): Waiting for Spoons
+S3 (38): Eating
+S4 (37): Waiting for Spoons
+S5 (36): Waiting for Spoons
+
+-----------------
+
+S1 (37): Thinking
+S2 (37): Waiting for Spoons
+S3 (38): Eating
+S4 (37): Waiting for Spoons
+S5 (36): Waiting for Spoons
+
+-----------------
+
+S1 (37): Thinking
+S2 (37): Waiting for Spoons
+S3 (38): Eating
+S4 (37): Waiting for Spoons
+S5 (36): Eating
+
+-----------------
+
+S1 (38): Waiting for Spoons
+S2 (37): Waiting for Spoons
+S3 (38): Eating
+S4 (37): Waiting for Spoons
+S5 (36): Eating
+
+-----------------
+
+S1 (38): Waiting for Spoons
+S2 (37): Waiting for Spoons
+S3 (38): Thinking
+S4 (37): Waiting for Spoons
+S5 (36): Eating
+
+-----------------
+
+S1 (38): Waiting for Spoons
+S2 (37): Eating
+S3 (38): Thinking
+S4 (37): Waiting for Spoons
+S5 (36): Eating
+
+-----------------
+
+S1 (38): Waiting for Spoons
+S2 (37): Eating
+S3 (39): Waiting for Spoons
+S4 (37): Waiting for Spoons
+S5 (36): Eating
+
+-----------------
+
+S1 (38): Waiting for Spoons
+S2 (37): Eating
+S3 (39): Waiting for Spoons
+S4 (37): Waiting for Spoons
+S5 (36): Thinking
+
+-----------------
+
+S1 (38): Waiting for Spoons
+S2 (37): Eating
+S3 (39): Waiting for Spoons
+S4 (37): Eating
+S5 (36): Thinking
+
+-----------------
+
+S1 (38): Waiting for Spoons
+S2 (37): Eating
+S3 (39): Waiting for Spoons
+S4 (37): Eating
+S5 (37): Waiting for Spoons
+
+-----------------
+
+S1 (38): Waiting for Spoons
+S2 (37): Thinking
+S3 (39): Waiting for Spoons
+S4 (37): Eating
+S5 (37): Waiting for Spoons
+
+-----------------
+
+S1 (38): Eating
+S2 (37): Thinking
+S3 (39): Waiting for Spoons
+S4 (37): Eating
+S5 (37): Waiting for Spoons
+
+-----------------
+
+S1 (38): Eating
+S2 (38): Waiting for Spoons
+S3 (39): Waiting for Spoons
+S4 (37): Eating
+S5 (37): Waiting for Spoons
+
+-----------------
+
+S1 (38): Eating
+S2 (38): Waiting for Spoons
+S3 (39): Waiting for Spoons
+S4 (37): Thinking
+S5 (37): Waiting for Spoons
+
+-----------------
+
+S1 (38): Eating
+S2 (38): Waiting for Spoons
+S3 (39): Eating
+S4 (37): Thinking
+S5 (37): Waiting for Spoons
+
+-----------------
+
+S1 (38): Eating
+S2 (38): Waiting for Spoons
+S3 (39): Eating
+S4 (38): Waiting for Spoons
+S5 (37): Waiting for Spoons
+
+-----------------
+
+S1 (38): Thinking
+S2 (38): Waiting for Spoons
+S3 (39): Eating
+S4 (38): Waiting for Spoons
+S5 (37): Waiting for Spoons
+
+-----------------
+
+S1 (38): Thinking
+S2 (38): Waiting for Spoons
+S3 (39): Eating
+S4 (38): Waiting for Spoons
+S5 (37): Eating
+
+-----------------
+
+S1 (39): Waiting for Spoons
+S2 (38): Waiting for Spoons
+S3 (39): Eating
+S4 (38): Waiting for Spoons
+S5 (37): Eating
+
+-----------------
+
+S1 (39): Waiting for Spoons
+S2 (38): Waiting for Spoons
+S3 (39): Thinking
+S4 (38): Waiting for Spoons
+S5 (37): Eating
+
+-----------------
+
+S1 (39): Waiting for Spoons
+S2 (38): Eating
+S3 (39): Thinking
+S4 (38): Waiting for Spoons
+S5 (37): Eating
+
+-----------------
+
+S1 (39): Waiting for Spoons
+S2 (38): Eating
+S3 (40): Waiting for Spoons
+S4 (38): Waiting for Spoons
+S5 (37): Eating
+
+-----------------
+
+S1 (39): Waiting for Spoons
+S2 (38): Eating
+S3 (40): Waiting for Spoons
+S4 (38): Waiting for Spoons
+S5 (37): Thinking
+
+-----------------
+
+S1 (39): Waiting for Spoons
+S2 (38): Eating
+S3 (40): Waiting for Spoons
+S4 (38): Eating
+S5 (37): Thinking
+
+-----------------
+
+S1 (39): Waiting for Spoons
+S2 (38): Eating
+S3 (40): Waiting for Spoons
+S4 (38): Eating
+S5 (38): Waiting for Spoons
+
+-----------------
+
+S1 (39): Waiting for Spoons
+S2 (38): Thinking
+S3 (40): Waiting for Spoons
+S4 (38): Eating
+S5 (38): Waiting for Spoons
+
+-----------------
+
+S1 (39): Eating
+S2 (38): Thinking
+S3 (40): Waiting for Spoons
+S4 (38): Eating
+S5 (38): Waiting for Spoons
+
+-----------------
+
+S1 (39): Eating
+S2 (39): Waiting for Spoons
+S3 (40): Waiting for Spoons
+S4 (38): Eating
+S5 (38): Waiting for Spoons
+
+-----------------
+
+S1 (39): Eating
+S2 (39): Waiting for Spoons
+S3 (40): Waiting for Spoons
+S4 (38): Thinking
+S5 (38): Waiting for Spoons
+
+-----------------
+
+S1 (39): Eating
+S2 (39): Waiting for Spoons
+S3 (40): Eating
+S4 (38): Thinking
+S5 (38): Waiting for Spoons
+
+-----------------
+
+S1 (39): Eating
+S2 (39): Waiting for Spoons
+S3 (40): Eating
+S4 (39): Waiting for Spoons
+S5 (38): Waiting for Spoons
+
+-----------------
+
+S1 (39): Thinking
+S2 (39): Waiting for Spoons
+S3 (40): Eating
+S4 (39): Waiting for Spoons
+S5 (38): Waiting for Spoons
+
+-----------------
+
+S1 (39): Thinking
+S2 (39): Waiting for Spoons
+S3 (40): Eating
+S4 (39): Waiting for Spoons
+S5 (38): Eating
+
+-----------------
+
+S1 (40): Waiting for Spoons
+S2 (39): Waiting for Spoons
+S3 (40): Eating
+S4 (39): Waiting for Spoons
+S5 (38): Eating
+
+-----------------
+
+S1 (40): Waiting for Spoons
+S2 (39): Waiting for Spoons
+S3 (40): Thinking
+S4 (39): Waiting for Spoons
+S5 (38): Eating
+
+-----------------
+
+S1 (40): Waiting for Spoons
+S2 (39): Eating
+S3 (40): Thinking
+S4 (39): Waiting for Spoons
+S5 (38): Eating
+
+-----------------
+
+S1 (40): Waiting for Spoons
+S2 (39): Eating
+S3 (41): Waiting for Spoons
+S4 (39): Waiting for Spoons
+S5 (38): Eating
+
+-----------------
+
+S1 (40): Waiting for Spoons
+S2 (39): Eating
+S3 (41): Waiting for Spoons
+S4 (39): Waiting for Spoons
+S5 (38): Thinking
+
+-----------------
+
+S1 (40): Waiting for Spoons
+S2 (39): Eating
+S3 (41): Waiting for Spoons
+S4 (39): Eating
+S5 (38): Thinking
+
+-----------------
+
+S1 (40): Waiting for Spoons
+S2 (39): Eating
+S3 (41): Waiting for Spoons
+S4 (39): Eating
+S5 (39): Waiting for Spoons
+
+-----------------
+
+S1 (40): Waiting for Spoons
+S2 (39): Thinking
+S3 (41): Waiting for Spoons
+S4 (39): Eating
+S5 (39): Waiting for Spoons
+
+-----------------
+
+S1 (40): Eating
+S2 (39): Thinking
+S3 (41): Waiting for Spoons
+S4 (39): Eating
+S5 (39): Waiting for Spoons
+
+-----------------
+
+S1 (40): Eating
+S2 (40): Waiting for Spoons
+S3 (41): Waiting for Spoons
+S4 (39): Eating
+S5 (39): Waiting for Spoons
+
+-----------------
+
+S1 (40): Eating
+S2 (40): Waiting for Spoons
+S3 (41): Waiting for Spoons
+S4 (39): Thinking
+S5 (39): Waiting for Spoons
+
+-----------------
+
+S1 (40): Eating
+S2 (40): Waiting for Spoons
+S3 (41): Eating
+S4 (39): Thinking
+S5 (39): Waiting for Spoons
+
+-----------------
+
+S1 (40): Eating
+S2 (40): Waiting for Spoons
+S3 (41): Eating
+S4 (40): Waiting for Spoons
+S5 (39): Waiting for Spoons
+
+-----------------
+
+S1 (40): Thinking
+S2 (40): Waiting for Spoons
+S3 (41): Eating
+S4 (40): Waiting for Spoons
+S5 (39): Waiting for Spoons
+
+-----------------
+
+S1 (40): Thinking
+S2 (40): Waiting for Spoons
+S3 (41): Eating
+S4 (40): Waiting for Spoons
+S5 (39): Eating
+
+-----------------
+
+S1 (41): Waiting for Spoons
+S2 (40): Waiting for Spoons
+S3 (41): Eating
+S4 (40): Waiting for Spoons
+S5 (39): Eating
+
+-----------------
+
+S1 (41): Waiting for Spoons
+S2 (40): Waiting for Spoons
+S3 (41): Thinking
+S4 (40): Waiting for Spoons
+S5 (39): Eating
+
+-----------------
+
+S1 (41): Waiting for Spoons
+S2 (40): Eating
+S3 (41): Thinking
+S4 (40): Waiting for Spoons
+S5 (39): Eating
+
+-----------------
+
+S1 (41): Waiting for Spoons
+S2 (40): Eating
+S3 (42): Waiting for Spoons
+S4 (40): Waiting for Spoons
+S5 (39): Eating
+
+-----------------
+
+S1 (41): Waiting for Spoons
+S2 (40): Eating
+S3 (42): Waiting for Spoons
+S4 (40): Waiting for Spoons
+S5 (39): Thinking
+
+-----------------
+
+S1 (41): Waiting for Spoons
+S2 (40): Eating
+S3 (42): Waiting for Spoons
+S4 (40): Eating
+S5 (39): Thinking
+
+-----------------
+
+S1 (41): Waiting for Spoons
+S2 (40): Eating
+S3 (42): Waiting for Spoons
+S4 (40): Eating
+S5 (40): Waiting for Spoons
+
+-----------------
+
+S1 (41): Waiting for Spoons
+S2 (40): Thinking
+S3 (42): Waiting for Spoons
+S4 (40): Eating
+S5 (40): Waiting for Spoons
+
+-----------------
+
+S1 (41): Eating
+S2 (40): Thinking
+S3 (42): Waiting for Spoons
+S4 (40): Eating
+S5 (40): Waiting for Spoons
+
+-----------------
+
+S1 (41): Eating
+S2 (41): Waiting for Spoons
+S3 (42): Waiting for Spoons
+S4 (40): Eating
+S5 (40): Waiting for Spoons
+
+-----------------
+
+S1 (41): Eating
+S2 (41): Waiting for Spoons
+S3 (42): Waiting for Spoons
+S4 (40): Thinking
+S5 (40): Waiting for Spoons
+
+-----------------
+
+S1 (41): Eating
+S2 (41): Waiting for Spoons
+S3 (42): Eating
+S4 (40): Thinking
+S5 (40): Waiting for Spoons
+
+-----------------
+
+S1 (41): Eating
+S2 (41): Waiting for Spoons
+S3 (42): Eating
+S4 (41): Waiting for Spoons
+S5 (40): Waiting for Spoons
+
+-----------------
+
+S1 (41): Thinking
+S2 (41): Waiting for Spoons
+S3 (42): Eating
+S4 (41): Waiting for Spoons
+S5 (40): Waiting for Spoons
+
+-----------------
+
+S1 (41): Thinking
+S2 (41): Waiting for Spoons
+S3 (42): Eating
+S4 (41): Waiting for Spoons
+S5 (40): Eating
+
+-----------------
+
+S1 (42): Waiting for Spoons
+S2 (41): Waiting for Spoons
+S3 (42): Eating
+S4 (41): Waiting for Spoons
+S5 (40): Eating
+
+-----------------
+
+S1 (42): Waiting for Spoons
+S2 (41): Waiting for Spoons
+S3 (42): Thinking
+S4 (41): Waiting for Spoons
+S5 (40): Eating
+
+-----------------
+
+S1 (42): Waiting for Spoons
+S2 (41): Eating
+S3 (42): Thinking
+S4 (41): Waiting for Spoons
+S5 (40): Eating
+
+-----------------
+
+S1 (42): Waiting for Spoons
+S2 (41): Eating
+S3 (43): Waiting for Spoons
+S4 (41): Waiting for Spoons
+S5 (40): Eating
+
+-----------------
+
+S1 (42): Waiting for Spoons
+S2 (41): Eating
+S3 (43): Waiting for Spoons
+S4 (41): Waiting for Spoons
+S5 (40): Thinking
+
+-----------------
+
+S1 (42): Waiting for Spoons
+S2 (41): Eating
+S3 (43): Waiting for Spoons
+S4 (41): Eating
+S5 (40): Thinking
+
+-----------------
+
+S1 (42): Waiting for Spoons
+S2 (41): Eating
+S3 (43): Waiting for Spoons
+S4 (41): Eating
+S5 (41): Waiting for Spoons
+
+-----------------
+
+S1 (42): Waiting for Spoons
+S2 (41): Thinking
+S3 (43): Waiting for Spoons
+S4 (41): Eating
+S5 (41): Waiting for Spoons
+
+-----------------
+
+S1 (42): Eating
+S2 (41): Thinking
+S3 (43): Waiting for Spoons
+S4 (41): Eating
+S5 (41): Waiting for Spoons
+
+-----------------
+
+S1 (42): Eating
+S2 (42): Waiting for Spoons
+S3 (43): Waiting for Spoons
+S4 (41): Eating
+S5 (41): Waiting for Spoons
+
+-----------------
+
+S1 (42): Eating
+S2 (42): Waiting for Spoons
+S3 (43): Waiting for Spoons
+S4 (41): Thinking
+S5 (41): Waiting for Spoons
+
+-----------------
+
+S1 (42): Eating
+S2 (42): Waiting for Spoons
+S3 (43): Eating
+S4 (41): Thinking
+S5 (41): Waiting for Spoons
+
+-----------------
+
+S1 (42): Eating
+S2 (42): Waiting for Spoons
+S3 (43): Eating
+S4 (42): Waiting for Spoons
+S5 (41): Waiting for Spoons
+
+-----------------
+
+S1 (42): Thinking
+S2 (42): Waiting for Spoons
+S3 (43): Eating
+S4 (42): Waiting for Spoons
+S5 (41): Waiting for Spoons
+
+-----------------
+
+S1 (42): Thinking
+S2 (42): Waiting for Spoons
+S3 (43): Eating
+S4 (42): Waiting for Spoons
+S5 (41): Eating
+
+-----------------
+
+S1 (43): Waiting for Spoons
+S2 (42): Waiting for Spoons
+S3 (43): Eating
+S4 (42): Waiting for Spoons
+S5 (41): Eating
+
+-----------------
+
+S1 (43): Waiting for Spoons
+S2 (42): Waiting for Spoons
+S3 (43): Thinking
+S4 (42): Waiting for Spoons
+S5 (41): Eating
+
+-----------------
+
+S1 (43): Waiting for Spoons
+S2 (42): Eating
+S3 (43): Thinking
+S4 (42): Waiting for Spoons
+S5 (41): Eating
+
+-----------------
+
+S1 (43): Waiting for Spoons
+S2 (42): Eating
+S3 (44): Waiting for Spoons
+S4 (42): Waiting for Spoons
+S5 (41): Eating
+
+-----------------
+
+S1 (43): Waiting for Spoons
+S2 (42): Eating
+S3 (44): Waiting for Spoons
+S4 (42): Waiting for Spoons
+S5 (41): Thinking
+
+-----------------
+
+S1 (43): Waiting for Spoons
+S2 (42): Eating
+S3 (44): Waiting for Spoons
+S4 (42): Eating
+S5 (41): Thinking
+
+-----------------
+
+S1 (43): Waiting for Spoons
+S2 (42): Eating
+S3 (44): Waiting for Spoons
+S4 (42): Eating
+S5 (42): Waiting for Spoons
+
+-----------------
+
+S1 (43): Waiting for Spoons
+S2 (42): Thinking
+S3 (44): Waiting for Spoons
+S4 (42): Eating
+S5 (42): Waiting for Spoons
+
+-----------------
+
+S1 (43): Eating
+S2 (42): Thinking
+S3 (44): Waiting for Spoons
+S4 (42): Eating
+S5 (42): Waiting for Spoons
+
+-----------------
+
+S1 (43): Eating
+S2 (42): Thinking
+S3 (44): Waiting for Spoons
+S4 (42): Thinking
+S5 (42): Waiting for Spoons
+
+-----------------
+
+S1 (43): Eating
+S2 (42): Thinking
+S3 (44): Eating
+S4 (42): Thinking
+S5 (42): Waiting for Spoons
+
+-----------------
+
+S1 (43): Eating
+S2 (43): Waiting for Spoons
+S3 (44): Eating
+S4 (42): Thinking
+S5 (42): Waiting for Spoons
+
+-----------------
+
+S1 (43): Eating
+S2 (43): Waiting for Spoons
+S3 (44): Eating
+S4 (43): Waiting for Spoons
+S5 (42): Waiting for Spoons
+
+-----------------
+
+S1 (43): Thinking
+S2 (43): Waiting for Spoons
+S3 (44): Eating
+S4 (43): Waiting for Spoons
+S5 (42): Waiting for Spoons
+
+-----------------
+
+S1 (43): Thinking
+S2 (43): Waiting for Spoons
+S3 (44): Eating
+S4 (43): Waiting for Spoons
+S5 (42): Eating
+
+-----------------
+
+S1 (44): Waiting for Spoons
+S2 (43): Waiting for Spoons
+S3 (44): Eating
+S4 (43): Waiting for Spoons
+S5 (42): Eating
+
+-----------------
+
+S1 (44): Waiting for Spoons
+S2 (43): Waiting for Spoons
+S3 (44): Thinking
+S4 (43): Waiting for Spoons
+S5 (42): Eating
+
+-----------------
+
+S1 (44): Waiting for Spoons
+S2 (43): Eating
+S3 (44): Thinking
+S4 (43): Waiting for Spoons
+S5 (42): Eating
+
+-----------------
+
+S1 (44): Waiting for Spoons
+S2 (43): Eating
+S3 (45): Waiting for Spoons
+S4 (43): Waiting for Spoons
+S5 (42): Eating
+
+-----------------
+
+S1 (44): Waiting for Spoons
+S2 (43): Eating
+S3 (45): Waiting for Spoons
+S4 (43): Waiting for Spoons
+S5 (42): Thinking
+
+-----------------
+
+S1 (44): Waiting for Spoons
+S2 (43): Eating
+S3 (45): Waiting for Spoons
+S4 (43): Eating
+S5 (42): Thinking
+
+-----------------
+
+S1 (44): Waiting for Spoons
+S2 (43): Eating
+S3 (45): Waiting for Spoons
+S4 (43): Eating
+S5 (43): Waiting for Spoons
+
+-----------------
+
+S1 (44): Waiting for Spoons
+S2 (43): Thinking
+S3 (45): Waiting for Spoons
+S4 (43): Eating
+S5 (43): Waiting for Spoons
+
+-----------------
+
+S1 (44): Eating
+S2 (43): Thinking
+S3 (45): Waiting for Spoons
+S4 (43): Eating
+S5 (43): Waiting for Spoons
+
+-----------------
+
+S1 (44): Eating
+S2 (44): Waiting for Spoons
+S3 (45): Waiting for Spoons
+S4 (43): Eating
+S5 (43): Waiting for Spoons
+
+-----------------
+
+S1 (44): Eating
+S2 (44): Waiting for Spoons
+S3 (45): Waiting for Spoons
+S4 (43): Thinking
+S5 (43): Waiting for Spoons
+
+-----------------
+
+S1 (44): Eating
+S2 (44): Waiting for Spoons
+S3 (45): Eating
+S4 (43): Thinking
+S5 (43): Waiting for Spoons
+
+-----------------
+
+S1 (44): Eating
+S2 (44): Waiting for Spoons
+S3 (45): Eating
+S4 (44): Waiting for Spoons
+S5 (43): Waiting for Spoons
+
+-----------------
+
+S1 (44): Thinking
+S2 (44): Waiting for Spoons
+S3 (45): Eating
+S4 (44): Waiting for Spoons
+S5 (43): Waiting for Spoons
+
+-----------------
+
+S1 (44): Thinking
+S2 (44): Waiting for Spoons
+S3 (45): Eating
+S4 (44): Waiting for Spoons
+S5 (43): Eating
+
+-----------------
+
+S1 (45): Waiting for Spoons
+S2 (44): Waiting for Spoons
+S3 (45): Eating
+S4 (44): Waiting for Spoons
+S5 (43): Eating
+
+-----------------
+
+S1 (45): Waiting for Spoons
+S2 (44): Waiting for Spoons
+S3 (45): Thinking
+S4 (44): Waiting for Spoons
+S5 (43): Eating
+
+-----------------
+
+S1 (45): Waiting for Spoons
+S2 (44): Eating
+S3 (45): Thinking
+S4 (44): Waiting for Spoons
+S5 (43): Eating
+
+-----------------
+
+S1 (45): Waiting for Spoons
+S2 (44): Eating
+S3 (46): Waiting for Spoons
+S4 (44): Waiting for Spoons
+S5 (43): Eating
+
+-----------------
+
+S1 (45): Waiting for Spoons
+S2 (44): Eating
+S3 (46): Waiting for Spoons
+S4 (44): Waiting for Spoons
+S5 (43): Thinking
+
+-----------------
+
+S1 (45): Waiting for Spoons
+S2 (44): Eating
+S3 (46): Waiting for Spoons
+S4 (44): Eating
+S5 (43): Thinking
+
+-----------------
+
+S1 (45): Waiting for Spoons
+S2 (44): Eating
+S3 (46): Waiting for Spoons
+S4 (44): Eating
+S5 (44): Waiting for Spoons
+
+-----------------
+
+S1 (45): Waiting for Spoons
+S2 (44): Thinking
+S3 (46): Waiting for Spoons
+S4 (44): Eating
+S5 (44): Waiting for Spoons
+
+-----------------
+
+S1 (45): Eating
+S2 (44): Thinking
+S3 (46): Waiting for Spoons
+S4 (44): Eating
+S5 (44): Waiting for Spoons
+
+-----------------
+
+S1 (45): Eating
+S2 (45): Waiting for Spoons
+S3 (46): Waiting for Spoons
+S4 (44): Eating
+S5 (44): Waiting for Spoons
+
+-----------------
+
+S1 (45): Eating
+S2 (45): Waiting for Spoons
+S3 (46): Waiting for Spoons
+S4 (44): Thinking
+S5 (44): Waiting for Spoons
+
+-----------------
+
+S1 (45): Eating
+S2 (45): Waiting for Spoons
+S3 (46): Eating
+S4 (44): Thinking
+S5 (44): Waiting for Spoons
+
+-----------------
+
+S1 (45): Eating
+S2 (45): Waiting for Spoons
+S3 (46): Eating
+S4 (45): Waiting for Spoons
+S5 (44): Waiting for Spoons
+
+-----------------
+
+S1 (45): Thinking
+S2 (45): Waiting for Spoons
+S3 (46): Eating
+S4 (45): Waiting for Spoons
+S5 (44): Waiting for Spoons
+
+-----------------
+
+S1 (45): Thinking
+S2 (45): Waiting for Spoons
+S3 (46): Eating
+S4 (45): Waiting for Spoons
+S5 (44): Eating
+
+-----------------
+
+S1 (46): Waiting for Spoons
+S2 (45): Waiting for Spoons
+S3 (46): Eating
+S4 (45): Waiting for Spoons
+S5 (44): Eating
+
+-----------------
+
+S1 (46): Waiting for Spoons
+S2 (45): Waiting for Spoons
+S3 (46): Thinking
+S4 (45): Waiting for Spoons
+S5 (44): Eating
+
+-----------------
+
+S1 (46): Waiting for Spoons
+S2 (45): Eating
+S3 (46): Thinking
+S4 (45): Waiting for Spoons
+S5 (44): Eating
+
+-----------------
+
+S1 (46): Waiting for Spoons
+S2 (45): Eating
+S3 (47): Waiting for Spoons
+S4 (45): Waiting for Spoons
+S5 (44): Eating
+
+-----------------
+
+S1 (46): Waiting for Spoons
+S2 (45): Eating
+S3 (47): Waiting for Spoons
+S4 (45): Waiting for Spoons
+S5 (44): Thinking
+
+-----------------
+
+S1 (46): Waiting for Spoons
+S2 (45): Eating
+S3 (47): Waiting for Spoons
+S4 (45): Eating
+S5 (44): Thinking
+
+-----------------
+
+S1 (46): Waiting for Spoons
+S2 (45): Eating
+S3 (47): Waiting for Spoons
+S4 (45): Eating
+S5 (45): Waiting for Spoons
+
+-----------------
+
+S1 (46): Waiting for Spoons
+S2 (45): Thinking
+S3 (47): Waiting for Spoons
+S4 (45): Eating
+S5 (45): Waiting for Spoons
+
+-----------------
+
+S1 (46): Eating
+S2 (45): Thinking
+S3 (47): Waiting for Spoons
+S4 (45): Eating
+S5 (45): Waiting for Spoons
+
+-----------------
+
+S1 (46): Eating
+S2 (46): Waiting for Spoons
+S3 (47): Waiting for Spoons
+S4 (45): Eating
+S5 (45): Waiting for Spoons
+
+-----------------
+
+S1 (46): Eating
+S2 (46): Waiting for Spoons
+S3 (47): Waiting for Spoons
+S4 (45): Thinking
+S5 (45): Waiting for Spoons
+
+-----------------
+
+S1 (46): Eating
+S2 (46): Waiting for Spoons
+S3 (47): Eating
+S4 (45): Thinking
+S5 (45): Waiting for Spoons
+
+-----------------
+
+S1 (46): Eating
+S2 (46): Waiting for Spoons
+S3 (47): Eating
+S4 (46): Waiting for Spoons
+S5 (45): Waiting for Spoons
+
+-----------------
+
+S1 (46): Thinking
+S2 (46): Waiting for Spoons
+S3 (47): Eating
+S4 (46): Waiting for Spoons
+S5 (45): Waiting for Spoons
+
+-----------------
+
+S1 (46): Thinking
+S2 (46): Waiting for Spoons
+S3 (47): Eating
+S4 (46): Waiting for Spoons
+S5 (45): Eating
+
+-----------------
+
+S1 (47): Waiting for Spoons
+S2 (46): Waiting for Spoons
+S3 (47): Eating
+S4 (46): Waiting for Spoons
+S5 (45): Eating
+
+-----------------
+
+S1 (47): Waiting for Spoons
+S2 (46): Waiting for Spoons
+S3 (47): Thinking
+S4 (46): Waiting for Spoons
+S5 (45): Eating
+
+-----------------
+
+S1 (47): Waiting for Spoons
+S2 (46): Eating
+S3 (47): Thinking
+S4 (46): Waiting for Spoons
+S5 (45): Eating
+
+-----------------
+
+S1 (47): Waiting for Spoons
+S2 (46): Eating
+S3 (48): Waiting for Spoons
+S4 (46): Waiting for Spoons
+S5 (45): Eating
+
+-----------------
+
+S1 (47): Waiting for Spoons
+S2 (46): Eating
+S3 (48): Waiting for Spoons
+S4 (46): Waiting for Spoons
+S5 (45): Thinking
+
+-----------------
+
+S1 (47): Waiting for Spoons
+S2 (46): Eating
+S3 (48): Waiting for Spoons
+S4 (46): Eating
+S5 (45): Thinking
+
+-----------------
+
+S1 (47): Waiting for Spoons
+S2 (46): Eating
+S3 (48): Waiting for Spoons
+S4 (46): Eating
+S5 (46): Waiting for Spoons
+
+-----------------
+
+S1 (47): Waiting for Spoons
+S2 (46): Thinking
+S3 (48): Waiting for Spoons
+S4 (46): Eating
+S5 (46): Waiting for Spoons
+
+-----------------
+
+S1 (47): Eating
+S2 (46): Thinking
+S3 (48): Waiting for Spoons
+S4 (46): Eating
+S5 (46): Waiting for Spoons
+
+-----------------
+
+S1 (47): Eating
+S2 (47): Waiting for Spoons
+S3 (48): Waiting for Spoons
+S4 (46): Eating
+S5 (46): Waiting for Spoons
+
+-----------------
+
+S1 (47): Eating
+S2 (47): Waiting for Spoons
+S3 (48): Waiting for Spoons
+S4 (46): Thinking
+S5 (46): Waiting for Spoons
+
+-----------------
+
+S1 (47): Eating
+S2 (47): Waiting for Spoons
+S3 (48): Eating
+S4 (46): Thinking
+S5 (46): Waiting for Spoons
+
+-----------------
+
+S1 (47): Eating
+S2 (47): Waiting for Spoons
+S3 (48): Eating
+S4 (47): Waiting for Spoons
+S5 (46): Waiting for Spoons
+
+-----------------
+
+S1 (47): Thinking
+S2 (47): Waiting for Spoons
+S3 (48): Eating
+S4 (47): Waiting for Spoons
+S5 (46): Waiting for Spoons
+
+-----------------
+
+S1 (47): Thinking
+S2 (47): Waiting for Spoons
+S3 (48): Eating
+S4 (47): Waiting for Spoons
+S5 (46): Eating
+
+-----------------
+
+S1 (48): Waiting for Spoons
+S2 (47): Waiting for Spoons
+S3 (48): Eating
+S4 (47): Waiting for Spoons
+S5 (46): Eating
+
+-----------------
+
+S1 (48): Waiting for Spoons
+S2 (47): Waiting for Spoons
+S3 (48): Thinking
+S4 (47): Waiting for Spoons
+S5 (46): Eating
+
+-----------------
+
+S1 (48): Waiting for Spoons
+S2 (47): Eating
+S3 (48): Thinking
+S4 (47): Waiting for Spoons
+S5 (46): Eating
+
+-----------------
+
+S1 (48): Waiting for Spoons
+S2 (47): Eating
+S3 (49): Waiting for Spoons
+S4 (47): Waiting for Spoons
+S5 (46): Eating
+
+-----------------
+
+S1 (48): Waiting for Spoons
+S2 (47): Eating
+S3 (49): Waiting for Spoons
+S4 (47): Waiting for Spoons
+S5 (46): Thinking
+
+-----------------
+
+S1 (48): Waiting for Spoons
+S2 (47): Eating
+S3 (49): Waiting for Spoons
+S4 (47): Eating
+S5 (46): Thinking
+
+-----------------
+
+S1 (48): Waiting for Spoons
+S2 (47): Eating
+S3 (49): Waiting for Spoons
+S4 (47): Eating
+S5 (47): Waiting for Spoons
+
+-----------------
+
+S1 (48): Waiting for Spoons
+S2 (47): Thinking
+S3 (49): Waiting for Spoons
+S4 (47): Eating
+S5 (47): Waiting for Spoons
+
+-----------------
+
+S1 (48): Eating
+S2 (47): Thinking
+S3 (49): Waiting for Spoons
+S4 (47): Eating
+S5 (47): Waiting for Spoons
+
+-----------------
+
+S1 (48): Eating
+S2 (48): Waiting for Spoons
+S3 (49): Waiting for Spoons
+S4 (47): Eating
+S5 (47): Waiting for Spoons
+
+-----------------
+
+S1 (48): Eating
+S2 (48): Waiting for Spoons
+S3 (49): Waiting for Spoons
+S4 (47): Thinking
+S5 (47): Waiting for Spoons
+
+-----------------
+
+S1 (48): Eating
+S2 (48): Waiting for Spoons
+S3 (49): Eating
+S4 (47): Thinking
+S5 (47): Waiting for Spoons
+
+-----------------
+
+S1 (48): Eating
+S2 (48): Waiting for Spoons
+S3 (49): Eating
+S4 (48): Waiting for Spoons
+S5 (47): Waiting for Spoons
+
+-----------------
+
+S1 (48): Thinking
+S2 (48): Waiting for Spoons
+S3 (49): Eating
+S4 (48): Waiting for Spoons
+S5 (47): Waiting for Spoons
+
+-----------------
+
+S1 (48): Thinking
+S2 (48): Waiting for Spoons
+S3 (49): Eating
+S4 (48): Waiting for Spoons
+S5 (47): Eating
+
+-----------------
+
+S1 (49): Waiting for Spoons
+S2 (48): Waiting for Spoons
+S3 (49): Eating
+S4 (48): Waiting for Spoons
+S5 (47): Eating
+
+-----------------
+
+S1 (49): Waiting for Spoons
+S2 (48): Waiting for Spoons
+S3 (49): Thinking
+S4 (48): Waiting for Spoons
+S5 (47): Eating
+
+-----------------
+
+S1 (49): Waiting for Spoons
+S2 (48): Eating
+S3 (49): Thinking
+S4 (48): Waiting for Spoons
+S5 (47): Eating
+
+-----------------
+
+S1 (49): Waiting for Spoons
+S2 (48): Eating
+S3 (49): Thinking
+S4 (48): Waiting for Spoons
+S5 (47): Thinking
+
+-----------------
+
+S1 (49): Waiting for Spoons
+S2 (48): Eating
+S3 (49): Thinking
+S4 (48): Eating
+S5 (47): Thinking
+
+-----------------
+
+S1 (49): Waiting for Spoons
+S2 (48): Eating
+S3 (50): Waiting for Spoons
+S4 (48): Eating
+S5 (47): Thinking
+
+-----------------
+
+S1 (49): Waiting for Spoons
+S2 (48): Eating
+S3 (50): Waiting for Spoons
+S4 (48): Eating
+S5 (48): Waiting for Spoons
+
+-----------------
+
+S1 (49): Waiting for Spoons
+S2 (48): Thinking
+S3 (50): Waiting for Spoons
+S4 (48): Eating
+S5 (48): Waiting for Spoons
+
+-----------------
+
+S1 (49): Eating
+S2 (48): Thinking
+S3 (50): Waiting for Spoons
+S4 (48): Eating
+S5 (48): Waiting for Spoons
+
+-----------------
+
+S1 (49): Eating
+S2 (49): Waiting for Spoons
+S3 (50): Waiting for Spoons
+S4 (48): Eating
+S5 (48): Waiting for Spoons
+
+-----------------
+
+S1 (49): Eating
+S2 (49): Waiting for Spoons
+S3 (50): Waiting for Spoons
+S4 (48): Thinking
+S5 (48): Waiting for Spoons
+
+-----------------
+
+S1 (49): Eating
+S2 (49): Waiting for Spoons
+S3 (50): Eating
+S4 (48): Thinking
+S5 (48): Waiting for Spoons
+
+-----------------
+
+S1 (49): Eating
+S2 (49): Waiting for Spoons
+S3 (50): Eating
+S4 (49): Waiting for Spoons
+S5 (48): Waiting for Spoons
+
+-----------------
+
+S1 (49): Thinking
+S2 (49): Waiting for Spoons
+S3 (50): Eating
+S4 (49): Waiting for Spoons
+S5 (48): Waiting for Spoons
+
+-----------------
+
+S1 (49): Thinking
+S2 (49): Waiting for Spoons
+S3 (50): Eating
+S4 (49): Waiting for Spoons
+S5 (48): Eating
+
+-----------------
+
+S1 (50): Waiting for Spoons
+S2 (49): Waiting for Spoons
+S3 (50): Eating
+S4 (49): Waiting for Spoons
+S5 (48): Eating
+
+-----------------
+
+S1 (50): Waiting for Spoons
+S2 (49): Waiting for Spoons
+S3 (50): Thinking
+S4 (49): Waiting for Spoons
+S5 (48): Eating
+
+-----------------
+
+S1 (50): Waiting for Spoons
+S2 (49): Eating
+S3 (50): Thinking
+S4 (49): Waiting for Spoons
+S5 (48): Eating
+
+-----------------
+
+S1 (50): Waiting for Spoons
+S2 (49): Eating
+S3 (51): Waiting for Spoons
+S4 (49): Waiting for Spoons
+S5 (48): Eating
+
+-----------------
+
+S1 (50): Waiting for Spoons
+S2 (49): Eating
+S3 (51): Waiting for Spoons
+S4 (49): Waiting for Spoons
+S5 (48): Thinking
+
+-----------------
+
+S1 (50): Waiting for Spoons
+S2 (49): Eating
+S3 (51): Waiting for Spoons
+S4 (49): Eating
+S5 (48): Thinking
+
+-----------------
+
+S1 (50): Waiting for Spoons
+S2 (49): Eating
+S3 (51): Waiting for Spoons
+S4 (49): Eating
+S5 (49): Waiting for Spoons
+
+-----------------
+
+S1 (50): Waiting for Spoons
+S2 (49): Thinking
+S3 (51): Waiting for Spoons
+S4 (49): Eating
+S5 (49): Waiting for Spoons
+
+-----------------
+
+S1 (50): Eating
+S2 (49): Thinking
+S3 (51): Waiting for Spoons
+S4 (49): Eating
+S5 (49): Waiting for Spoons
+
+-----------------
+
+S1 (50): Eating
+S2 (50): Waiting for Spoons
+S3 (51): Waiting for Spoons
+S4 (49): Eating
+S5 (49): Waiting for Spoons
+
+-----------------
+
+S1 (50): Eating
+S2 (50): Waiting for Spoons
+S3 (51): Waiting for Spoons
+S4 (49): Thinking
+S5 (49): Waiting for Spoons
+
+-----------------
+
+S1 (50): Eating
+S2 (50): Waiting for Spoons
+S3 (51): Eating
+S4 (49): Thinking
+S5 (49): Waiting for Spoons
+
+-----------------
+
+S1 (50): Eating
+S2 (50): Waiting for Spoons
+S3 (51): Eating
+S4 (50): Waiting for Spoons
+S5 (49): Waiting for Spoons
+
+-----------------
+
+S1 (50): Thinking
+S2 (50): Waiting for Spoons
+S3 (51): Eating
+S4 (50): Waiting for Spoons
+S5 (49): Waiting for Spoons
+
+-----------------
+
+S1 (50): Thinking
+S2 (50): Waiting for Spoons
+S3 (51): Eating
+S4 (50): Waiting for Spoons
+S5 (49): Eating
+
+-----------------
+
+S1 (51): Waiting for Spoons
+S2 (50): Waiting for Spoons
+S3 (51): Eating
+S4 (50): Waiting for Spoons
+S5 (49): Eating
+
+-----------------
+
+S1 (51): Waiting for Spoons
+S2 (50): Waiting for Spoons
+S3 (51): Thinking
+S4 (50): Waiting for Spoons
+S5 (49): Eating
+
+-----------------
+
+S1 (51): Waiting for Spoons
+S2 (50): Eating
+S3 (51): Thinking
+S4 (50): Waiting for Spoons
+S5 (49): Eating
+
+-----------------
+
+S1 (51): Waiting for Spoons
+S2 (50): Eating
+S3 (52): Waiting for Spoons
+S4 (50): Waiting for Spoons
+S5 (49): Eating
+
+-----------------
+
+S1 (51): Waiting for Spoons
+S2 (50): Eating
+S3 (52): Waiting for Spoons
+S4 (50): Waiting for Spoons
+S5 (49): Thinking
+
+-----------------
+
+S1 (51): Waiting for Spoons
+S2 (50): Eating
+S3 (52): Waiting for Spoons
+S4 (50): Eating
+S5 (49): Thinking
+
+-----------------
+
+S1 (51): Waiting for Spoons
+S2 (50): Eating
+S3 (52): Waiting for Spoons
+S4 (50): Eating
+S5 (50): Waiting for Spoons
+
+-----------------
+
+S1 (51): Waiting for Spoons
+S2 (50): Thinking
+S3 (52): Waiting for Spoons
+S4 (50): Eating
+S5 (50): Waiting for Spoons
+
+-----------------
+
+S1 (51): Eating
+S2 (50): Thinking
+S3 (52): Waiting for Spoons
+S4 (50): Eating
+S5 (50): Waiting for Spoons
+
+-----------------
+
+S1 (51): Eating
+S2 (51): Waiting for Spoons
+S3 (52): Waiting for Spoons
+S4 (50): Eating
+S5 (50): Waiting for Spoons
+
+-----------------
+
+S1 (51): Eating
+S2 (51): Waiting for Spoons
+S3 (52): Waiting for Spoons
+S4 (50): Thinking
+S5 (50): Waiting for Spoons
+
+-----------------
+
+S1 (51): Eating
+S2 (51): Waiting for Spoons
+S3 (52): Eating
+S4 (50): Thinking
+S5 (50): Waiting for Spoons
+
+-----------------
+
+S1 (51): Eating
+S2 (51): Waiting for Spoons
+S3 (52): Eating
+S4 (51): Waiting for Spoons
+S5 (50): Waiting for Spoons
+
+-----------------
+
+S1 (51): Thinking
+S2 (51): Waiting for Spoons
+S3 (52): Eating
+S4 (51): Waiting for Spoons
+S5 (50): Waiting for Spoons
+
+-----------------
+
+S1 (51): Thinking
+S2 (51): Waiting for Spoons
+S3 (52): Eating
+S4 (51): Waiting for Spoons
+S5 (50): Eating
+
+-----------------
+
+S1 (52): Waiting for Spoons
+S2 (51): Waiting for Spoons
+S3 (52): Eating
+S4 (51): Waiting for Spoons
+S5 (50): Eating
+
+-----------------
+
+S1 (52): Waiting for Spoons
+S2 (51): Waiting for Spoons
+S3 (52): Thinking
+S4 (51): Waiting for Spoons
+S5 (50): Eating
+
+-----------------
+
+S1 (52): Waiting for Spoons
+S2 (51): Eating
+S3 (52): Thinking
+S4 (51): Waiting for Spoons
+S5 (50): Eating
+
+-----------------
+
+S1 (52): Waiting for Spoons
+S2 (51): Eating
+S3 (53): Waiting for Spoons
+S4 (51): Waiting for Spoons
+S5 (50): Eating
+
+-----------------
+
+S1 (52): Waiting for Spoons
+S2 (51): Eating
+S3 (53): Waiting for Spoons
+S4 (51): Waiting for Spoons
+S5 (50): Thinking
+
+-----------------
+
+S1 (52): Waiting for Spoons
+S2 (51): Eating
+S3 (53): Waiting for Spoons
+S4 (51): Eating
+S5 (50): Thinking
+
+-----------------
+
+S1 (52): Waiting for Spoons
+S2 (51): Eating
+S3 (53): Waiting for Spoons
+S4 (51): Eating
+S5 (51): Waiting for Spoons
+
+-----------------
+
+S1 (52): Waiting for Spoons
+S2 (51): Thinking
+S3 (53): Waiting for Spoons
+S4 (51): Eating
+S5 (51): Waiting for Spoons
+
+-----------------
+
+S1 (52): Eating
+S2 (51): Thinking
+S3 (53): Waiting for Spoons
+S4 (51): Eating
+S5 (51): Waiting for Spoons
+
+-----------------
+
+S1 (52): Eating
+S2 (52): Waiting for Spoons
+S3 (53): Waiting for Spoons
+S4 (51): Eating
+S5 (51): Waiting for Spoons
+
+-----------------
+
+S1 (52): Eating
+S2 (52): Waiting for Spoons
+S3 (53): Waiting for Spoons
+S4 (51): Thinking
+S5 (51): Waiting for Spoons
+
+-----------------
+
+S1 (52): Eating
+S2 (52): Waiting for Spoons
+S3 (53): Eating
+S4 (51): Thinking
+S5 (51): Waiting for Spoons
+
+-----------------
+
+S1 (52): Eating
+S2 (52): Waiting for Spoons
+S3 (53): Eating
+S4 (52): Waiting for Spoons
+S5 (51): Waiting for Spoons
+
+-----------------
+
+S1 (52): Thinking
+S2 (52): Waiting for Spoons
+S3 (53): Eating
+S4 (52): Waiting for Spoons
+S5 (51): Waiting for Spoons
+
+-----------------
+
+S1 (52): Thinking
+S2 (52): Waiting for Spoons
+S3 (53): Eating
+S4 (52): Waiting for Spoons
+S5 (51): Eating
+
+-----------------
+
+S1 (53): Waiting for Spoons
+S2 (52): Waiting for Spoons
+S3 (53): Eating
+S4 (52): Waiting for Spoons
+S5 (51): Eating
+
+-----------------
+
+S1 (53): Waiting for Spoons
+S2 (52): Waiting for Spoons
+S3 (53): Thinking
+S4 (52): Waiting for Spoons
+S5 (51): Eating
+
+-----------------
+
+S1 (53): Waiting for Spoons
+S2 (52): Eating
+S3 (53): Thinking
+S4 (52): Waiting for Spoons
+S5 (51): Eating
+
+-----------------
+
+S1 (53): Waiting for Spoons
+S2 (52): Eating
+S3 (54): Waiting for Spoons
+S4 (52): Waiting for Spoons
+S5 (51): Eating
+
+-----------------
+
+S1 (53): Waiting for Spoons
+S2 (52): Eating
+S3 (54): Waiting for Spoons
+S4 (52): Waiting for Spoons
+S5 (51): Thinking
+
+-----------------
+
+S1 (53): Waiting for Spoons
+S2 (52): Eating
+S3 (54): Waiting for Spoons
+S4 (52): Eating
+S5 (51): Thinking
+
+-----------------
+
+S1 (53): Waiting for Spoons
+S2 (52): Eating
+S3 (54): Waiting for Spoons
+S4 (52): Eating
+S5 (52): Waiting for Spoons
+
+-----------------
+
+S1 (53): Waiting for Spoons
+S2 (52): Thinking
+S3 (54): Waiting for Spoons
+S4 (52): Eating
+S5 (52): Waiting for Spoons
+
+-----------------
+
+S1 (53): Eating
+S2 (52): Thinking
+S3 (54): Waiting for Spoons
+S4 (52): Eating
+S5 (52): Waiting for Spoons
+
+-----------------
+
+S1 (53): Eating
+S2 (53): Waiting for Spoons
+S3 (54): Waiting for Spoons
+S4 (52): Eating
+S5 (52): Waiting for Spoons
+
+-----------------
+
+S1 (53): Eating
+S2 (53): Waiting for Spoons
+S3 (54): Waiting for Spoons
+S4 (52): Thinking
+S5 (52): Waiting for Spoons
+
+-----------------
+
+S1 (53): Eating
+S2 (53): Waiting for Spoons
+S3 (54): Eating
+S4 (52): Thinking
+S5 (52): Waiting for Spoons
+
+-----------------
+
+S1 (53): Eating
+S2 (53): Waiting for Spoons
+S3 (54): Eating
+S4 (53): Waiting for Spoons
+S5 (52): Waiting for Spoons
+
+-----------------
+
+S1 (53): Thinking
+S2 (53): Waiting for Spoons
+S3 (54): Eating
+S4 (53): Waiting for Spoons
+S5 (52): Waiting for Spoons
+
+-----------------
+
+S1 (53): Thinking
+S2 (53): Waiting for Spoons
+S3 (54): Eating
+S4 (53): Waiting for Spoons
+S5 (52): Eating
+
+-----------------
+
+S1 (54): Waiting for Spoons
+S2 (53): Waiting for Spoons
+S3 (54): Eating
+S4 (53): Waiting for Spoons
+S5 (52): Eating
+
+-----------------
+
+S1 (54): Waiting for Spoons
+S2 (53): Waiting for Spoons
+S3 (54): Thinking
+S4 (53): Waiting for Spoons
+S5 (52): Eating
+
+-----------------
+
+S1 (54): Waiting for Spoons
+S2 (53): Eating
+S3 (54): Thinking
+S4 (53): Waiting for Spoons
+S5 (52): Eating
+
+-----------------
+
+S1 (54): Waiting for Spoons
+S2 (53): Eating
+S3 (55): Waiting for Spoons
+S4 (53): Waiting for Spoons
+S5 (52): Eating
+
+-----------------
+
+S1 (54): Waiting for Spoons
+S2 (53): Eating
+S3 (55): Waiting for Spoons
+S4 (53): Waiting for Spoons
+S5 (52): Thinking
+
+-----------------
+
+S1 (54): Waiting for Spoons
+S2 (53): Eating
+S3 (55): Waiting for Spoons
+S4 (53): Eating
+S5 (52): Thinking
+
+-----------------
+
+S1 (54): Waiting for Spoons
+S2 (53): Eating
+S3 (55): Waiting for Spoons
+S4 (53): Eating
+S5 (53): Waiting for Spoons
+
+-----------------
+
+S1 (54): Waiting for Spoons
+S2 (53): Thinking
+S3 (55): Waiting for Spoons
+S4 (53): Eating
+S5 (53): Waiting for Spoons
+
+-----------------
+
+S1 (54): Eating
+S2 (53): Thinking
+S3 (55): Waiting for Spoons
+S4 (53): Eating
+S5 (53): Waiting for Spoons
+
+-----------------
+
+S1 (54): Eating
+S2 (54): Waiting for Spoons
+S3 (55): Waiting for Spoons
+S4 (53): Eating
+S5 (53): Waiting for Spoons
+
+-----------------
+
+S1 (54): Eating
+S2 (54): Waiting for Spoons
+S3 (55): Waiting for Spoons
+S4 (53): Thinking
+S5 (53): Waiting for Spoons
+
+-----------------
+
+S1 (54): Eating
+S2 (54): Waiting for Spoons
+S3 (55): Eating
+S4 (53): Thinking
+S5 (53): Waiting for Spoons
+
+-----------------
+
+S1 (54): Eating
+S2 (54): Waiting for Spoons
+S3 (55): Eating
+S4 (54): Waiting for Spoons
+S5 (53): Waiting for Spoons
+
+-----------------
+
+S1 (54): Thinking
+S2 (54): Waiting for Spoons
+S3 (55): Eating
+S4 (54): Waiting for Spoons
+S5 (53): Waiting for Spoons
+
+-----------------
+
+S1 (54): Thinking
+S2 (54): Waiting for Spoons
+S3 (55): Eating
+S4 (54): Waiting for Spoons
+S5 (53): Eating
+
+-----------------
+
+S1 (55): Waiting for Spoons
+S2 (54): Waiting for Spoons
+S3 (55): Eating
+S4 (54): Waiting for Spoons
+S5 (53): Eating
+
+-----------------
+
+S1 (55): Waiting for Spoons
+S2 (54): Waiting for Spoons
+S3 (55): Thinking
+S4 (54): Waiting for Spoons
+S5 (53): Eating
+
+-----------------
+
+S1 (55): Waiting for Spoons
+S2 (54): Eating
+S3 (55): Thinking
+S4 (54): Waiting for Spoons
+S5 (53): Eating
+
+-----------------
+
+S1 (55): Waiting for Spoons
+S2 (54): Eating
+S3 (56): Waiting for Spoons
+S4 (54): Waiting for Spoons
+S5 (53): Eating
+
+-----------------
+
+S1 (55): Waiting for Spoons
+S2 (54): Eating
+S3 (56): Waiting for Spoons
+S4 (54): Waiting for Spoons
+S5 (53): Thinking
+
+-----------------
+
+S1 (55): Waiting for Spoons
+S2 (54): Eating
+S3 (56): Waiting for Spoons
+S4 (54): Eating
+S5 (53): Thinking
+
+-----------------
+
+S1 (55): Waiting for Spoons
+S2 (54): Eating
+S3 (56): Waiting for Spoons
+S4 (54): Eating
+S5 (54): Waiting for Spoons
+
+-----------------
+
+S1 (55): Waiting for Spoons
+S2 (54): Thinking
+S3 (56): Waiting for Spoons
+S4 (54): Eating
+S5 (54): Waiting for Spoons
+
+-----------------
+
+S1 (55): Eating
+S2 (54): Thinking
+S3 (56): Waiting for Spoons
+S4 (54): Eating
+S5 (54): Waiting for Spoons
+
+-----------------
+
+S1 (55): Eating
+S2 (54): Thinking
+S3 (56): Waiting for Spoons
+S4 (54): Thinking
+S5 (54): Waiting for Spoons
+
+-----------------
+
+S1 (55): Eating
+S2 (54): Thinking
+S3 (56): Eating
+S4 (54): Thinking
+S5 (54): Waiting for Spoons
+
+-----------------
+
+S1 (55): Eating
+S2 (55): Waiting for Spoons
+S3 (56): Eating
+S4 (54): Thinking
+S5 (54): Waiting for Spoons
+
+-----------------
+
+S1 (55): Eating
+S2 (55): Waiting for Spoons
+S3 (56): Eating
+S4 (55): Waiting for Spoons
+S5 (54): Waiting for Spoons
+
+-----------------
+
+S1 (55): Thinking
+S2 (55): Waiting for Spoons
+S3 (56): Eating
+S4 (55): Waiting for Spoons
+S5 (54): Waiting for Spoons
+
+-----------------
+
+S1 (55): Thinking
+S2 (55): Waiting for Spoons
+S3 (56): Eating
+S4 (55): Waiting for Spoons
+S5 (54): Eating
+
+-----------------
+
+S1 (56): Waiting for Spoons
+S2 (55): Waiting for Spoons
+S3 (56): Eating
+S4 (55): Waiting for Spoons
+S5 (54): Eating
+
+-----------------
+
+S1 (56): Waiting for Spoons
+S2 (55): Waiting for Spoons
+S3 (56): Thinking
+S4 (55): Waiting for Spoons
+S5 (54): Eating
+
+-----------------
+
+S1 (56): Waiting for Spoons
+S2 (55): Eating
+S3 (56): Thinking
+S4 (55): Waiting for Spoons
+S5 (54): Eating
+
+-----------------
+
+S1 (56): Waiting for Spoons
+S2 (55): Eating
+S3 (57): Waiting for Spoons
+S4 (55): Waiting for Spoons
+S5 (54): Eating
+
+-----------------
+
+S1 (56): Waiting for Spoons
+S2 (55): Eating
+S3 (57): Waiting for Spoons
+S4 (55): Waiting for Spoons
+S5 (54): Thinking
+
+-----------------
+
+S1 (56): Waiting for Spoons
+S2 (55): Eating
+S3 (57): Waiting for Spoons
+S4 (55): Eating
+S5 (54): Thinking
+
+-----------------
+
+S1 (56): Waiting for Spoons
+S2 (55): Eating
+S3 (57): Waiting for Spoons
+S4 (55): Eating
+S5 (55): Waiting for Spoons
+
+-----------------
+
+S1 (56): Waiting for Spoons
+S2 (55): Thinking
+S3 (57): Waiting for Spoons
+S4 (55): Eating
+S5 (55): Waiting for Spoons
+
+-----------------
+
+S1 (56): Eating
+S2 (55): Thinking
+S3 (57): Waiting for Spoons
+S4 (55): Eating
+S5 (55): Waiting for Spoons
+
+-----------------
+
+S1 (56): Eating
+S2 (56): Waiting for Spoons
+S3 (57): Waiting for Spoons
+S4 (55): Eating
+S5 (55): Waiting for Spoons
+
+-----------------
+
+S1 (56): Eating
+S2 (56): Waiting for Spoons
+S3 (57): Waiting for Spoons
+S4 (55): Thinking
+S5 (55): Waiting for Spoons
+
+-----------------
+
+S1 (56): Eating
+S2 (56): Waiting for Spoons
+S3 (57): Eating
+S4 (55): Thinking
+S5 (55): Waiting for Spoons
+
+-----------------
+
+S1 (56): Eating
+S2 (56): Waiting for Spoons
+S3 (57): Eating
+S4 (56): Waiting for Spoons
+S5 (55): Waiting for Spoons
+
+-----------------
+
+S1 (56): Thinking
+S2 (56): Waiting for Spoons
+S3 (57): Eating
+S4 (56): Waiting for Spoons
+S5 (55): Waiting for Spoons
+
+-----------------
+
+S1 (56): Thinking
+S2 (56): Waiting for Spoons
+S3 (57): Eating
+S4 (56): Waiting for Spoons
+S5 (55): Eating
+
+-----------------
+
+S1 (57): Waiting for Spoons
+S2 (56): Waiting for Spoons
+S3 (57): Eating
+S4 (56): Waiting for Spoons
+S5 (55): Eating
+
+-----------------
+
+S1 (57): Waiting for Spoons
+S2 (56): Waiting for Spoons
+S3 (57): Thinking
+S4 (56): Waiting for Spoons
+S5 (55): Eating
+
+-----------------
+
+S1 (57): Waiting for Spoons
+S2 (56): Eating
+S3 (57): Thinking
+S4 (56): Waiting for Spoons
+S5 (55): Eating
+
+-----------------
+
+S1 (57): Waiting for Spoons
+S2 (56): Eating
+S3 (58): Waiting for Spoons
+S4 (56): Waiting for Spoons
+S5 (55): Eating
+
+-----------------
+
+S1 (57): Waiting for Spoons
+S2 (56): Eating
+S3 (58): Waiting for Spoons
+S4 (56): Waiting for Spoons
+S5 (55): Thinking
+
+-----------------
+
+S1 (57): Waiting for Spoons
+S2 (56): Eating
+S3 (58): Waiting for Spoons
+S4 (56): Eating
+S5 (55): Thinking
+
+-----------------
+
+S1 (57): Waiting for Spoons
+S2 (56): Eating
+S3 (58): Waiting for Spoons
+S4 (56): Eating
+S5 (56): Waiting for Spoons
+
+-----------------
+
+S1 (57): Waiting for Spoons
+S2 (56): Thinking
+S3 (58): Waiting for Spoons
+S4 (56): Eating
+S5 (56): Waiting for Spoons
+
+-----------------
+
+S1 (57): Eating
+S2 (56): Thinking
+S3 (58): Waiting for Spoons
+S4 (56): Eating
+S5 (56): Waiting for Spoons
+
+-----------------
+
+S1 (57): Eating
+S2 (56): Thinking
+S3 (58): Waiting for Spoons
+S4 (56): Thinking
+S5 (56): Waiting for Spoons
+
+-----------------
+
+S1 (57): Eating
+S2 (56): Thinking
+S3 (58): Eating
+S4 (56): Thinking
+S5 (56): Waiting for Spoons
+
+-----------------
+
+S1 (57): Eating
+S2 (57): Waiting for Spoons
+S3 (58): Eating
+S4 (56): Thinking
+S5 (56): Waiting for Spoons
+
+-----------------
+
+S1 (57): Eating
+S2 (57): Waiting for Spoons
+S3 (58): Eating
+S4 (57): Waiting for Spoons
+S5 (56): Waiting for Spoons
+
+-----------------
+
+S1 (57): Thinking
+S2 (57): Waiting for Spoons
+S3 (58): Eating
+S4 (57): Waiting for Spoons
+S5 (56): Waiting for Spoons
+
+-----------------
+
+S1 (57): Thinking
+S2 (57): Waiting for Spoons
+S3 (58): Eating
+S4 (57): Waiting for Spoons
+S5 (56): Eating
+
+-----------------
+
+S1 (58): Waiting for Spoons
+S2 (57): Waiting for Spoons
+S3 (58): Eating
+S4 (57): Waiting for Spoons
+S5 (56): Eating
+
+-----------------
+
+S1 (58): Waiting for Spoons
+S2 (57): Waiting for Spoons
+S3 (58): Thinking
+S4 (57): Waiting for Spoons
+S5 (56): Eating
+
+-----------------
+
+S1 (58): Waiting for Spoons
+S2 (57): Eating
+S3 (58): Thinking
+S4 (57): Waiting for Spoons
+S5 (56): Eating
+
+-----------------
+
+S1 (58): Waiting for Spoons
+S2 (57): Eating
+S3 (59): Waiting for Spoons
+S4 (57): Waiting for Spoons
+S5 (56): Eating
+
+-----------------
+
+S1 (58): Waiting for Spoons
+S2 (57): Eating
+S3 (59): Waiting for Spoons
+S4 (57): Waiting for Spoons
+S5 (56): Thinking
+
+-----------------
+
+S1 (58): Waiting for Spoons
+S2 (57): Eating
+S3 (59): Waiting for Spoons
+S4 (57): Eating
+S5 (56): Thinking
+
+-----------------
+
+S1 (58): Waiting for Spoons
+S2 (57): Thinking
+S3 (59): Waiting for Spoons
+S4 (57): Eating
+S5 (56): Thinking
+
+-----------------
+
+S1 (58): Eating
+S2 (57): Thinking
+S3 (59): Waiting for Spoons
+S4 (57): Eating
+S5 (56): Thinking
+
+-----------------
+
+S1 (58): Eating
+S2 (57): Thinking
+S3 (59): Waiting for Spoons
+S4 (57): Eating
+S5 (57): Waiting for Spoons
+
+-----------------
+
+S1 (58): Eating
+S2 (58): Waiting for Spoons
+S3 (59): Waiting for Spoons
+S4 (57): Eating
+S5 (57): Waiting for Spoons
+
+-----------------
+
+S1 (58): Eating
+S2 (58): Waiting for Spoons
+S3 (59): Waiting for Spoons
+S4 (57): Thinking
+S5 (57): Waiting for Spoons
+
+-----------------
+
+S1 (58): Eating
+S2 (58): Waiting for Spoons
+S3 (59): Eating
+S4 (57): Thinking
+S5 (57): Waiting for Spoons
+
+-----------------
+
+S1 (58): Eating
+S2 (58): Waiting for Spoons
+S3 (59): Eating
+S4 (58): Waiting for Spoons
+S5 (57): Waiting for Spoons
+
+-----------------
+
+S1 (58): Thinking
+S2 (58): Waiting for Spoons
+S3 (59): Eating
+S4 (58): Waiting for Spoons
+S5 (57): Waiting for Spoons
+
+-----------------
+
+S1 (58): Thinking
+S2 (58): Waiting for Spoons
+S3 (59): Eating
+S4 (58): Waiting for Spoons
+S5 (57): Eating
+
+-----------------
+
+S1 (59): Waiting for Spoons
+S2 (58): Waiting for Spoons
+S3 (59): Eating
+S4 (58): Waiting for Spoons
+S5 (57): Eating
+
+-----------------
+
+S1 (59): Waiting for Spoons
+S2 (58): Waiting for Spoons
+S3 (59): Thinking
+S4 (58): Waiting for Spoons
+S5 (57): Eating
+
+-----------------
+
+S1 (59): Waiting for Spoons
+S2 (58): Eating
+S3 (59): Thinking
+S4 (58): Waiting for Spoons
+S5 (57): Eating
+
+-----------------
+
+S1 (59): Waiting for Spoons
+S2 (58): Eating
+S3 (60): Waiting for Spoons
+S4 (58): Waiting for Spoons
+S5 (57): Eating
+
+-----------------
+
+S1 (59): Waiting for Spoons
+S2 (58): Eating
+S3 (60): Waiting for Spoons
+S4 (58): Waiting for Spoons
+S5 (57): Thinking
+
+-----------------
+
+S1 (59): Waiting for Spoons
+S2 (58): Eating
+S3 (60): Waiting for Spoons
+S4 (58): Eating
+S5 (57): Thinking
+
+-----------------
+
+S1 (59): Waiting for Spoons
+S2 (58): Eating
+S3 (60): Waiting for Spoons
+S4 (58): Eating
+S5 (58): Waiting for Spoons
+
+-----------------
+
+S1 (59): Waiting for Spoons
+S2 (58): Thinking
+S3 (60): Waiting for Spoons
+S4 (58): Eating
+S5 (58): Waiting for Spoons
+
+-----------------
+
+S1 (59): Eating
+S2 (58): Thinking
+S3 (60): Waiting for Spoons
+S4 (58): Eating
+S5 (58): Waiting for Spoons
+
+-----------------
+
+S1 (59): Eating
+S2 (59): Waiting for Spoons
+S3 (60): Waiting for Spoons
+S4 (58): Eating
+S5 (58): Waiting for Spoons
+
+-----------------
+
+S1 (59): Eating
+S2 (59): Waiting for Spoons
+S3 (60): Waiting for Spoons
+S4 (58): Thinking
+S5 (58): Waiting for Spoons
+
+-----------------
+
+S1 (59): Eating
+S2 (59): Waiting for Spoons
+S3 (60): Eating
+S4 (58): Thinking
+S5 (58): Waiting for Spoons
+
+-----------------
+
+S1 (59): Eating
+S2 (59): Waiting for Spoons
+S3 (60): Eating
+S4 (59): Waiting for Spoons
+S5 (58): Waiting for Spoons
+
+-----------------
+
+S1 (59): Thinking
+S2 (59): Waiting for Spoons
+S3 (60): Eating
+S4 (59): Waiting for Spoons
+S5 (58): Waiting for Spoons
+
+-----------------
+
+S1 (59): Thinking
+S2 (59): Waiting for Spoons
+S3 (60): Eating
+S4 (59): Waiting for Spoons
+S5 (58): Eating
+
+-----------------
+
+S1 (60): Waiting for Spoons
+S2 (59): Waiting for Spoons
+S3 (60): Eating
+S4 (59): Waiting for Spoons
+S5 (58): Eating
+
+-----------------
+
+S1 (60): Waiting for Spoons
+S2 (59): Waiting for Spoons
+S3 (60): Thinking
+S4 (59): Waiting for Spoons
+S5 (58): Eating
+
+-----------------
+
+S1 (60): Waiting for Spoons
+S2 (59): Eating
+S3 (60): Thinking
+S4 (59): Waiting for Spoons
+S5 (58): Eating
+
+-----------------
+
+S1 (60): Waiting for Spoons
+S2 (59): Eating
+S3 (61): Waiting for Spoons
+S4 (59): Waiting for Spoons
+S5 (58): Eating
+
+-----------------
+
+S1 (60): Waiting for Spoons
+S2 (59): Eating
+S3 (61): Waiting for Spoons
+S4 (59): Waiting for Spoons
+S5 (58): Thinking
+
+-----------------
+
+S1 (60): Waiting for Spoons
+S2 (59): Eating
+S3 (61): Waiting for Spoons
+S4 (59): Eating
+S5 (58): Thinking
+
+-----------------
+
+S1 (60): Waiting for Spoons
+S2 (59): Eating
+S3 (61): Waiting for Spoons
+S4 (59): Eating
+S5 (59): Waiting for Spoons
+
+-----------------
+
+S1 (60): Waiting for Spoons
+S2 (59): Thinking
+S3 (61): Waiting for Spoons
+S4 (59): Eating
+S5 (59): Waiting for Spoons
+
+-----------------
+
+S1 (60): Eating
+S2 (59): Thinking
+S3 (61): Waiting for Spoons
+S4 (59): Eating
+S5 (59): Waiting for Spoons
+
+-----------------
+
+S1 (60): Eating
+S2 (60): Waiting for Spoons
+S3 (61): Waiting for Spoons
+S4 (59): Eating
+S5 (59): Waiting for Spoons
+
+-----------------
+
+S1 (60): Eating
+S2 (60): Waiting for Spoons
+S3 (61): Waiting for Spoons
+S4 (59): Thinking
+S5 (59): Waiting for Spoons
+
+-----------------
+
+S1 (60): Eating
+S2 (60): Waiting for Spoons
+S3 (61): Eating
+S4 (59): Thinking
+S5 (59): Waiting for Spoons
+
+-----------------
+
+S1 (60): Eating
+S2 (60): Waiting for Spoons
+S3 (61): Eating
+S4 (60): Waiting for Spoons
+S5 (59): Waiting for Spoons
+
+-----------------
+
+S1 (60): Thinking
+S2 (60): Waiting for Spoons
+S3 (61): Eating
+S4 (60): Waiting for Spoons
+S5 (59): Waiting for Spoons
+
+-----------------
+
+S1 (60): Thinking
+S2 (60): Waiting for Spoons
+S3 (61): Eating
+S4 (60): Waiting for Spoons
+S5 (59): Eating
+
+-----------------
+
+S1 (61): Waiting for Spoons
+S2 (60): Waiting for Spoons
+S3 (61): Eating
+S4 (60): Waiting for Spoons
+S5 (59): Eating
+
+-----------------
+
+S1 (61): Waiting for Spoons
+S2 (60): Waiting for Spoons
+S3 (61): Thinking
+S4 (60): Waiting for Spoons
+S5 (59): Eating
+
+-----------------
+
+S1 (61): Waiting for Spoons
+S2 (60): Eating
+S3 (61): Thinking
+S4 (60): Waiting for Spoons
+S5 (59): Eating
+
+-----------------
+
+S1 (61): Waiting for Spoons
+S2 (60): Eating
+S3 (62): Waiting for Spoons
+S4 (60): Waiting for Spoons
+S5 (59): Eating
+
+-----------------
+
+S1 (61): Waiting for Spoons
+S2 (60): Eating
+S3 (62): Waiting for Spoons
+S4 (60): Waiting for Spoons
+S5 (59): Thinking
+
+-----------------
+
+S1 (61): Waiting for Spoons
+S2 (60): Eating
+S3 (62): Waiting for Spoons
+S4 (60): Eating
+S5 (59): Thinking
+
+-----------------
+
+S1 (61): Waiting for Spoons
+S2 (60): Eating
+S3 (62): Waiting for Spoons
+S4 (60): Eating
+S5 (60): Waiting for Spoons
+
+-----------------
+
+S1 (61): Waiting for Spoons
+S2 (60): Thinking
+S3 (62): Waiting for Spoons
+S4 (60): Eating
+S5 (60): Waiting for Spoons
+
+-----------------
+
+S1 (61): Eating
+S2 (60): Thinking
+S3 (62): Waiting for Spoons
+S4 (60): Eating
+S5 (60): Waiting for Spoons
+
+-----------------
+
+S1 (61): Eating
+S2 (61): Waiting for Spoons
+S3 (62): Waiting for Spoons
+S4 (60): Eating
+S5 (60): Waiting for Spoons
+
+-----------------
+
+S1 (61): Eating
+S2 (61): Waiting for Spoons
+S3 (62): Waiting for Spoons
+S4 (60): Thinking
+S5 (60): Waiting for Spoons
+
+-----------------
+
+S1 (61): Eating
+S2 (61): Waiting for Spoons
+S3 (62): Eating
+S4 (60): Thinking
+S5 (60): Waiting for Spoons
+
+-----------------
+
+S1 (61): Eating
+S2 (61): Waiting for Spoons
+S3 (62): Eating
+S4 (61): Waiting for Spoons
+S5 (60): Waiting for Spoons
+
+-----------------
+
+S1 (61): Thinking
+S2 (61): Waiting for Spoons
+S3 (62): Eating
+S4 (61): Waiting for Spoons
+S5 (60): Waiting for Spoons
+
+-----------------
+
+S1 (61): Thinking
+S2 (61): Waiting for Spoons
+S3 (62): Eating
+S4 (61): Waiting for Spoons
+S5 (60): Eating
+
+-----------------
+
+S1 (62): Waiting for Spoons
+S2 (61): Waiting for Spoons
+S3 (62): Eating
+S4 (61): Waiting for Spoons
+S5 (60): Eating
+
+-----------------
+
+S1 (62): Waiting for Spoons
+S2 (61): Waiting for Spoons
+S3 (62): Thinking
+S4 (61): Waiting for Spoons
+S5 (60): Eating
+
+-----------------
+
+S1 (62): Waiting for Spoons
+S2 (61): Eating
+S3 (62): Thinking
+S4 (61): Waiting for Spoons
+S5 (60): Eating
+
+-----------------
+
+S1 (62): Waiting for Spoons
+S2 (61): Eating
+S3 (63): Waiting for Spoons
+S4 (61): Waiting for Spoons
+S5 (60): Eating
+
+-----------------
+
+S1 (62): Waiting for Spoons
+S2 (61): Eating
+S3 (63): Waiting for Spoons
+S4 (61): Waiting for Spoons
+S5 (60): Thinking
+
+-----------------
+
+S1 (62): Waiting for Spoons
+S2 (61): Eating
+S3 (63): Waiting for Spoons
+S4 (61): Eating
+S5 (60): Thinking
+
+-----------------
+
+S1 (62): Waiting for Spoons
+S2 (61): Eating
+S3 (63): Waiting for Spoons
+S4 (61): Eating
+S5 (61): Waiting for Spoons
+
+-----------------
+
+S1 (62): Waiting for Spoons
+S2 (61): Thinking
+S3 (63): Waiting for Spoons
+S4 (61): Eating
+S5 (61): Waiting for Spoons
+
+-----------------
+
+S1 (62): Eating
+S2 (61): Thinking
+S3 (63): Waiting for Spoons
+S4 (61): Eating
+S5 (61): Waiting for Spoons
+
+-----------------
+
+S1 (62): Eating
+S2 (62): Waiting for Spoons
+S3 (63): Waiting for Spoons
+S4 (61): Eating
+S5 (61): Waiting for Spoons
+
+-----------------
+
+S1 (62): Eating
+S2 (62): Waiting for Spoons
+S3 (63): Waiting for Spoons
+S4 (61): Thinking
+S5 (61): Waiting for Spoons
+
+-----------------
+
+S1 (62): Eating
+S2 (62): Waiting for Spoons
+S3 (63): Eating
+S4 (61): Thinking
+S5 (61): Waiting for Spoons
+
+-----------------
+
+S1 (62): Eating
+S2 (62): Waiting for Spoons
+S3 (63): Eating
+S4 (62): Waiting for Spoons
+S5 (61): Waiting for Spoons
+
+-----------------
+
+S1 (62): Thinking
+S2 (62): Waiting for Spoons
+S3 (63): Eating
+S4 (62): Waiting for Spoons
+S5 (61): Waiting for Spoons
+
+-----------------
+
+S1 (62): Thinking
+S2 (62): Waiting for Spoons
+S3 (63): Eating
+S4 (62): Waiting for Spoons
+S5 (61): Eating
+
+-----------------
+
+S1 (63): Waiting for Spoons
+S2 (62): Waiting for Spoons
+S3 (63): Eating
+S4 (62): Waiting for Spoons
+S5 (61): Eating
+
+-----------------
+
+S1 (63): Waiting for Spoons
+S2 (62): Waiting for Spoons
+S3 (63): Thinking
+S4 (62): Waiting for Spoons
+S5 (61): Eating
+
+-----------------
+
+S1 (63): Waiting for Spoons
+S2 (62): Eating
+S3 (63): Thinking
+S4 (62): Waiting for Spoons
+S5 (61): Eating
+
+-----------------
+
+S1 (63): Waiting for Spoons
+S2 (62): Eating
+S3 (64): Waiting for Spoons
+S4 (62): Waiting for Spoons
+S5 (61): Eating
+
+-----------------
+
+S1 (63): Waiting for Spoons
+S2 (62): Eating
+S3 (64): Waiting for Spoons
+S4 (62): Waiting for Spoons
+S5 (61): Thinking
+
+-----------------
+
+S1 (63): Waiting for Spoons
+S2 (62): Eating
+S3 (64): Waiting for Spoons
+S4 (62): Eating
+S5 (61): Thinking
+
+-----------------
+
+S1 (63): Waiting for Spoons
+S2 (62): Eating
+S3 (64): Waiting for Spoons
+S4 (62): Eating
+S5 (62): Waiting for Spoons
+
+-----------------
+
+S1 (63): Waiting for Spoons
+S2 (62): Thinking
+S3 (64): Waiting for Spoons
+S4 (62): Eating
+S5 (62): Waiting for Spoons
+
+-----------------
+
+S1 (63): Eating
+S2 (62): Thinking
+S3 (64): Waiting for Spoons
+S4 (62): Eating
+S5 (62): Waiting for Spoons
+
+-----------------
+
+S1 (63): Eating
+S2 (63): Waiting for Spoons
+S3 (64): Waiting for Spoons
+S4 (62): Eating
+S5 (62): Waiting for Spoons
+
+-----------------
+
+S1 (63): Eating
+S2 (63): Waiting for Spoons
+S3 (64): Waiting for Spoons
+S4 (62): Thinking
+S5 (62): Waiting for Spoons
+
+-----------------
+
+S1 (63): Eating
+S2 (63): Waiting for Spoons
+S3 (64): Eating
+S4 (62): Thinking
+S5 (62): Waiting for Spoons
+
+-----------------
+
+S1 (63): Eating
+S2 (63): Waiting for Spoons
+S3 (64): Eating
+S4 (63): Waiting for Spoons
+S5 (62): Waiting for Spoons
+
+-----------------
+
+S1 (63): Thinking
+S2 (63): Waiting for Spoons
+S3 (64): Eating
+S4 (63): Waiting for Spoons
+S5 (62): Waiting for Spoons
+
+-----------------
+
+S1 (63): Thinking
+S2 (63): Waiting for Spoons
+S3 (64): Eating
+S4 (63): Waiting for Spoons
+S5 (62): Eating
+
+-----------------
+
+S1 (64): Waiting for Spoons
+S2 (63): Waiting for Spoons
+S3 (64): Eating
+S4 (63): Waiting for Spoons
+S5 (62): Eating
+
+-----------------
+
+S1 (64): Waiting for Spoons
+S2 (63): Waiting for Spoons
+S3 (64): Thinking
+S4 (63): Waiting for Spoons
+S5 (62): Eating
+
+-----------------
+
+S1 (64): Waiting for Spoons
+S2 (63): Eating
+S3 (64): Thinking
+S4 (63): Waiting for Spoons
+S5 (62): Eating
+
+-----------------
+
+S1 (64): Waiting for Spoons
+S2 (63): Eating
+S3 (65): Waiting for Spoons
+S4 (63): Waiting for Spoons
+S5 (62): Eating
+
+-----------------
+
+S1 (64): Waiting for Spoons
+S2 (63): Eating
+S3 (65): Waiting for Spoons
+S4 (63): Waiting for Spoons
+S5 (62): Thinking
+
+-----------------
+
+S1 (64): Waiting for Spoons
+S2 (63): Eating
+S3 (65): Waiting for Spoons
+S4 (63): Eating
+S5 (62): Thinking
+
+-----------------
+
+S1 (64): Waiting for Spoons
+S2 (63): Eating
+S3 (65): Waiting for Spoons
+S4 (63): Eating
+S5 (63): Waiting for Spoons
+
+-----------------
+
+S1 (64): Waiting for Spoons
+S2 (63): Thinking
+S3 (65): Waiting for Spoons
+S4 (63): Eating
+S5 (63): Waiting for Spoons
+
+-----------------
+
+S1 (64): Eating
+S2 (63): Thinking
+S3 (65): Waiting for Spoons
+S4 (63): Eating
+S5 (63): Waiting for Spoons
+
+-----------------
+
+S1 (64): Eating
+S2 (64): Waiting for Spoons
+S3 (65): Waiting for Spoons
+S4 (63): Eating
+S5 (63): Waiting for Spoons
+
+-----------------
+
+S1 (64): Eating
+S2 (64): Waiting for Spoons
+S3 (65): Waiting for Spoons
+S4 (63): Thinking
+S5 (63): Waiting for Spoons
+
+-----------------
+
+S1 (64): Eating
+S2 (64): Waiting for Spoons
+S3 (65): Eating
+S4 (63): Thinking
+S5 (63): Waiting for Spoons
+
+-----------------
+
+S1 (64): Eating
+S2 (64): Waiting for Spoons
+S3 (65): Eating
+S4 (64): Waiting for Spoons
+S5 (63): Waiting for Spoons
+
+-----------------
+
+S1 (64): Thinking
+S2 (64): Waiting for Spoons
+S3 (65): Eating
+S4 (64): Waiting for Spoons
+S5 (63): Waiting for Spoons
+
+-----------------
+
+S1 (64): Thinking
+S2 (64): Waiting for Spoons
+S3 (65): Eating
+S4 (64): Waiting for Spoons
+S5 (63): Eating
+
+-----------------
+
+S1 (65): Waiting for Spoons
+S2 (64): Waiting for Spoons
+S3 (65): Eating
+S4 (64): Waiting for Spoons
+S5 (63): Eating
+
+-----------------
+
+S1 (65): Waiting for Spoons
+S2 (64): Waiting for Spoons
+S3 (65): Thinking
+S4 (64): Waiting for Spoons
+S5 (63): Eating
+
+-----------------
+
+S1 (65): Waiting for Spoons
+S2 (64): Eating
+S3 (65): Thinking
+S4 (64): Waiting for Spoons
+S5 (63): Eating
+
+-----------------
+
+S1 (65): Waiting for Spoons
+S2 (64): Eating
+S3 (66): Waiting for Spoons
+S4 (64): Waiting for Spoons
+S5 (63): Eating
+
+-----------------
+
+S1 (65): Waiting for Spoons
+S2 (64): Eating
+S3 (66): Waiting for Spoons
+S4 (64): Waiting for Spoons
+S5 (63): Thinking
+
+-----------------
+
+S1 (65): Waiting for Spoons
+S2 (64): Eating
+S3 (66): Waiting for Spoons
+S4 (64): Eating
+S5 (63): Thinking
+
+-----------------
+
+S1 (65): Waiting for Spoons
+S2 (64): Eating
+S3 (66): Waiting for Spoons
+S4 (64): Eating
+S5 (64): Waiting for Spoons
+
+-----------------
+
+S1 (65): Waiting for Spoons
+S2 (64): Thinking
+S3 (66): Waiting for Spoons
+S4 (64): Eating
+S5 (64): Waiting for Spoons
+
+-----------------
+
+S1 (65): Eating
+S2 (64): Thinking
+S3 (66): Waiting for Spoons
+S4 (64): Eating
+S5 (64): Waiting for Spoons
+
+-----------------
+
+S1 (65): Eating
+S2 (65): Waiting for Spoons
+S3 (66): Waiting for Spoons
+S4 (64): Eating
+S5 (64): Waiting for Spoons
+
+-----------------
+
+S1 (65): Eating
+S2 (65): Waiting for Spoons
+S3 (66): Waiting for Spoons
+S4 (64): Thinking
+S5 (64): Waiting for Spoons
+
+-----------------
+
+S1 (65): Eating
+S2 (65): Waiting for Spoons
+S3 (66): Eating
+S4 (64): Thinking
+S5 (64): Waiting for Spoons
+
+-----------------
+
+S1 (65): Eating
+S2 (65): Waiting for Spoons
+S3 (66): Eating
+S4 (65): Waiting for Spoons
+S5 (64): Waiting for Spoons
+
+-----------------
+
+S1 (65): Thinking
+S2 (65): Waiting for Spoons
+S3 (66): Eating
+S4 (65): Waiting for Spoons
+S5 (64): Waiting for Spoons
+
+-----------------
+
+S1 (65): Thinking
+S2 (65): Waiting for Spoons
+S3 (66): Eating
+S4 (65): Waiting for Spoons
+S5 (64): Eating
+
+-----------------
+
+S1 (66): Waiting for Spoons
+S2 (65): Waiting for Spoons
+S3 (66): Eating
+S4 (65): Waiting for Spoons
+S5 (64): Eating
+
+-----------------
+
+S1 (66): Waiting for Spoons
+S2 (65): Waiting for Spoons
+S3 (66): Thinking
+S4 (65): Waiting for Spoons
+S5 (64): Eating
+
+-----------------
+
+S1 (66): Waiting for Spoons
+S2 (65): Eating
+S3 (66): Thinking
+S4 (65): Waiting for Spoons
+S5 (64): Eating
+
+-----------------
+
+S1 (66): Waiting for Spoons
+S2 (65): Eating
+S3 (67): Waiting for Spoons
+S4 (65): Waiting for Spoons
+S5 (64): Eating
+
+-----------------
+
+S1 (66): Waiting for Spoons
+S2 (65): Eating
+S3 (67): Waiting for Spoons
+S4 (65): Waiting for Spoons
+S5 (64): Thinking
+
+-----------------
+
+S1 (66): Waiting for Spoons
+S2 (65): Eating
+S3 (67): Waiting for Spoons
+S4 (65): Eating
+S5 (64): Thinking
+
+-----------------
+
+S1 (66): Waiting for Spoons
+S2 (65): Eating
+S3 (67): Waiting for Spoons
+S4 (65): Eating
+S5 (65): Waiting for Spoons
+
+-----------------
+
+S1 (66): Waiting for Spoons
+S2 (65): Thinking
+S3 (67): Waiting for Spoons
+S4 (65): Eating
+S5 (65): Waiting for Spoons
+
+-----------------
+
+S1 (66): Eating
+S2 (65): Thinking
+S3 (67): Waiting for Spoons
+S4 (65): Eating
+S5 (65): Waiting for Spoons
+
+-----------------
+
+S1 (66): Eating
+S2 (66): Waiting for Spoons
+S3 (67): Waiting for Spoons
+S4 (65): Eating
+S5 (65): Waiting for Spoons
+
+-----------------
+
+S1 (66): Eating
+S2 (66): Waiting for Spoons
+S3 (67): Waiting for Spoons
+S4 (65): Thinking
+S5 (65): Waiting for Spoons
+
+-----------------
+
+S1 (66): Eating
+S2 (66): Waiting for Spoons
+S3 (67): Eating
+S4 (65): Thinking
+S5 (65): Waiting for Spoons
+
+-----------------
+
+S1 (66): Thinking
+S2 (66): Waiting for Spoons
+S3 (67): Eating
+S4 (65): Thinking
+S5 (65): Waiting for Spoons
+
+-----------------
+
+S1 (66): Thinking
+S2 (66): Waiting for Spoons
+S3 (67): Eating
+S4 (65): Thinking
+S5 (65): Eating
+
+-----------------
+
+S1 (66): Thinking
+S2 (66): Waiting for Spoons
+S3 (67): Eating
+S4 (66): Waiting for Spoons
+S5 (65): Eating
+
+-----------------
+
+S1 (67): Waiting for Spoons
+S2 (66): Waiting for Spoons
+S3 (67): Eating
+S4 (66): Waiting for Spoons
+S5 (65): Eating
+
+-----------------
+
+S1 (67): Waiting for Spoons
+S2 (66): Waiting for Spoons
+S3 (67): Thinking
+S4 (66): Waiting for Spoons
+S5 (65): Eating
+
+-----------------
+
+S1 (67): Waiting for Spoons
+S2 (66): Eating
+S3 (67): Thinking
+S4 (66): Waiting for Spoons
+S5 (65): Eating
+
+-----------------
+
+S1 (67): Waiting for Spoons
+S2 (66): Eating
+S3 (68): Waiting for Spoons
+S4 (66): Waiting for Spoons
+S5 (65): Eating
+
+-----------------
+
+S1 (67): Waiting for Spoons
+S2 (66): Eating
+S3 (68): Waiting for Spoons
+S4 (66): Waiting for Spoons
+S5 (65): Thinking
+
+-----------------
+
+S1 (67): Waiting for Spoons
+S2 (66): Eating
+S3 (68): Waiting for Spoons
+S4 (66): Eating
+S5 (65): Thinking
+
+-----------------
+
+S1 (67): Waiting for Spoons
+S2 (66): Eating
+S3 (68): Waiting for Spoons
+S4 (66): Eating
+S5 (66): Waiting for Spoons
+
+-----------------
+
+S1 (67): Waiting for Spoons
+S2 (66): Thinking
+S3 (68): Waiting for Spoons
+S4 (66): Eating
+S5 (66): Waiting for Spoons
+
+-----------------
+
+S1 (67): Eating
+S2 (66): Thinking
+S3 (68): Waiting for Spoons
+S4 (66): Eating
+S5 (66): Waiting for Spoons
+
+-----------------
+
+S1 (67): Eating
+S2 (67): Waiting for Spoons
+S3 (68): Waiting for Spoons
+S4 (66): Eating
+S5 (66): Waiting for Spoons
+
+-----------------
+
+S1 (67): Eating
+S2 (67): Waiting for Spoons
+S3 (68): Waiting for Spoons
+S4 (66): Thinking
+S5 (66): Waiting for Spoons
+
+-----------------
+
+S1 (67): Eating
+S2 (67): Waiting for Spoons
+S3 (68): Eating
+S4 (66): Thinking
+S5 (66): Waiting for Spoons
+
+-----------------
+
+S1 (67): Eating
+S2 (67): Waiting for Spoons
+S3 (68): Eating
+S4 (67): Waiting for Spoons
+S5 (66): Waiting for Spoons
+
+-----------------
+
+S1 (67): Thinking
+S2 (67): Waiting for Spoons
+S3 (68): Eating
+S4 (67): Waiting for Spoons
+S5 (66): Waiting for Spoons
+
+-----------------
+
+S1 (67): Thinking
+S2 (67): Waiting for Spoons
+S3 (68): Eating
+S4 (67): Waiting for Spoons
+S5 (66): Eating
+
+-----------------
+
+S1 (68): Waiting for Spoons
+S2 (67): Waiting for Spoons
+S3 (68): Eating
+S4 (67): Waiting for Spoons
+S5 (66): Eating
+
+-----------------
+
+S1 (68): Waiting for Spoons
+S2 (67): Waiting for Spoons
+S3 (68): Thinking
+S4 (67): Waiting for Spoons
+S5 (66): Eating
+
+-----------------
+
+S1 (68): Waiting for Spoons
+S2 (67): Eating
+S3 (68): Thinking
+S4 (67): Waiting for Spoons
+S5 (66): Eating
+
+-----------------
+
+S1 (68): Waiting for Spoons
+S2 (67): Eating
+S3 (69): Waiting for Spoons
+S4 (67): Waiting for Spoons
+S5 (66): Eating
+
+-----------------
+
+S1 (68): Waiting for Spoons
+S2 (67): Eating
+S3 (69): Waiting for Spoons
+S4 (67): Waiting for Spoons
+S5 (66): Thinking
+
+-----------------
+
+S1 (68): Waiting for Spoons
+S2 (67): Eating
+S3 (69): Waiting for Spoons
+S4 (67): Eating
+S5 (66): Thinking
+
+-----------------
+
+S1 (68): Waiting for Spoons
+S2 (67): Eating
+S3 (69): Waiting for Spoons
+S4 (67): Eating
+S5 (67): Waiting for Spoons
+
+-----------------
+
+S1 (68): Waiting for Spoons
+S2 (67): Thinking
+S3 (69): Waiting for Spoons
+S4 (67): Eating
+S5 (67): Waiting for Spoons
+
+-----------------
+
+S1 (68): Eating
+S2 (67): Thinking
+S3 (69): Waiting for Spoons
+S4 (67): Eating
+S5 (67): Waiting for Spoons
+
+-----------------
+
+S1 (68): Eating
+S2 (68): Waiting for Spoons
+S3 (69): Waiting for Spoons
+S4 (67): Eating
+S5 (67): Waiting for Spoons
+
+-----------------
+
+S1 (68): Eating
+S2 (68): Waiting for Spoons
+S3 (69): Waiting for Spoons
+S4 (67): Thinking
+S5 (67): Waiting for Spoons
+
+-----------------
+
+S1 (68): Eating
+S2 (68): Waiting for Spoons
+S3 (69): Eating
+S4 (67): Thinking
+S5 (67): Waiting for Spoons
+
+-----------------
+
+S1 (68): Eating
+S2 (68): Waiting for Spoons
+S3 (69): Eating
+S4 (68): Waiting for Spoons
+S5 (67): Waiting for Spoons
+
+-----------------
+
+S1 (68): Thinking
+S2 (68): Waiting for Spoons
+S3 (69): Eating
+S4 (68): Waiting for Spoons
+S5 (67): Waiting for Spoons
+
+-----------------
+
+S1 (68): Thinking
+S2 (68): Waiting for Spoons
+S3 (69): Eating
+S4 (68): Waiting for Spoons
+S5 (67): Eating
+
+-----------------
+
+S1 (69): Waiting for Spoons
+S2 (68): Waiting for Spoons
+S3 (69): Eating
+S4 (68): Waiting for Spoons
+S5 (67): Eating
+
+-----------------
+
+S1 (69): Waiting for Spoons
+S2 (68): Waiting for Spoons
+S3 (69): Thinking
+S4 (68): Waiting for Spoons
+S5 (67): Eating
+
+-----------------
+
+S1 (69): Waiting for Spoons
+S2 (68): Eating
+S3 (69): Thinking
+S4 (68): Waiting for Spoons
+S5 (67): Eating
+
+-----------------
+
+S1 (69): Waiting for Spoons
+S2 (68): Eating
+S3 (70): Waiting for Spoons
+S4 (68): Waiting for Spoons
+S5 (67): Eating
+
+-----------------
+
+S1 (69): Waiting for Spoons
+S2 (68): Eating
+S3 (70): Waiting for Spoons
+S4 (68): Waiting for Spoons
+S5 (67): Thinking
+
+-----------------
+
+S1 (69): Waiting for Spoons
+S2 (68): Eating
+S3 (70): Waiting for Spoons
+S4 (68): Eating
+S5 (67): Thinking
+
+-----------------
+
+S1 (69): Waiting for Spoons
+S2 (68): Eating
+S3 (70): Waiting for Spoons
+S4 (68): Eating
+S5 (68): Waiting for Spoons
+
+-----------------
+
+S1 (69): Waiting for Spoons
+S2 (68): Thinking
+S3 (70): Waiting for Spoons
+S4 (68): Eating
+S5 (68): Waiting for Spoons
+
+-----------------
+
+S1 (69): Eating
+S2 (68): Thinking
+S3 (70): Waiting for Spoons
+S4 (68): Eating
+S5 (68): Waiting for Spoons
+
+-----------------
+
+S1 (69): Eating
+S2 (69): Waiting for Spoons
+S3 (70): Waiting for Spoons
+S4 (68): Eating
+S5 (68): Waiting for Spoons
+
+-----------------
+
+S1 (69): Eating
+S2 (69): Waiting for Spoons
+S3 (70): Waiting for Spoons
+S4 (68): Thinking
+S5 (68): Waiting for Spoons
+
+-----------------
+
+S1 (69): Eating
+S2 (69): Waiting for Spoons
+S3 (70): Eating
+S4 (68): Thinking
+S5 (68): Waiting for Spoons
+
+-----------------
+
+S1 (69): Eating
+S2 (69): Waiting for Spoons
+S3 (70): Eating
+S4 (69): Waiting for Spoons
+S5 (68): Waiting for Spoons
+
+-----------------
+
+S1 (69): Thinking
+S2 (69): Waiting for Spoons
+S3 (70): Eating
+S4 (69): Waiting for Spoons
+S5 (68): Waiting for Spoons
+
+-----------------
+
+S1 (69): Thinking
+S2 (69): Waiting for Spoons
+S3 (70): Eating
+S4 (69): Waiting for Spoons
+S5 (68): Eating
+
+-----------------
+
+S1 (70): Waiting for Spoons
+S2 (69): Waiting for Spoons
+S3 (70): Eating
+S4 (69): Waiting for Spoons
+S5 (68): Eating
+
+-----------------
+
+S1 (70): Waiting for Spoons
+S2 (69): Waiting for Spoons
+S3 (70): Thinking
+S4 (69): Waiting for Spoons
+S5 (68): Eating
+
+-----------------
+
+S1 (70): Waiting for Spoons
+S2 (69): Eating
+S3 (70): Thinking
+S4 (69): Waiting for Spoons
+S5 (68): Eating
+
+-----------------
+
+S1 (70): Waiting for Spoons
+S2 (69): Eating
+S3 (71): Waiting for Spoons
+S4 (69): Waiting for Spoons
+S5 (68): Eating
+
+-----------------
+
+S1 (70): Waiting for Spoons
+S2 (69): Eating
+S3 (71): Waiting for Spoons
+S4 (69): Waiting for Spoons
+S5 (68): Thinking
+
+-----------------
+
+S1 (70): Waiting for Spoons
+S2 (69): Eating
+S3 (71): Waiting for Spoons
+S4 (69): Eating
+S5 (68): Thinking
+
+-----------------
+
+S1 (70): Waiting for Spoons
+S2 (69): Eating
+S3 (71): Waiting for Spoons
+S4 (69): Eating
+S5 (69): Waiting for Spoons
+
+-----------------
+
+S1 (70): Waiting for Spoons
+S2 (69): Thinking
+S3 (71): Waiting for Spoons
+S4 (69): Eating
+S5 (69): Waiting for Spoons
+
+-----------------
+
+S1 (70): Eating
+S2 (69): Thinking
+S3 (71): Waiting for Spoons
+S4 (69): Eating
+S5 (69): Waiting for Spoons
+
+-----------------
+
+S1 (70): Eating
+S2 (70): Waiting for Spoons
+S3 (71): Waiting for Spoons
+S4 (69): Eating
+S5 (69): Waiting for Spoons
+
+-----------------
+
+S1 (70): Eating
+S2 (70): Waiting for Spoons
+S3 (71): Waiting for Spoons
+S4 (69): Thinking
+S5 (69): Waiting for Spoons
+
+-----------------
+
+S1 (70): Eating
+S2 (70): Waiting for Spoons
+S3 (71): Eating
+S4 (69): Thinking
+S5 (69): Waiting for Spoons
+
+-----------------
+
+S1 (70): Thinking
+S2 (70): Waiting for Spoons
+S3 (71): Eating
+S4 (69): Thinking
+S5 (69): Waiting for Spoons
+
+-----------------
+
+S1 (70): Thinking
+S2 (70): Waiting for Spoons
+S3 (71): Eating
+S4 (69): Thinking
+S5 (69): Eating
+
+-----------------
+
+S1 (70): Thinking
+S2 (70): Waiting for Spoons
+S3 (71): Eating
+S4 (70): Waiting for Spoons
+S5 (69): Eating
+
+-----------------
+
+S1 (71): Waiting for Spoons
+S2 (70): Waiting for Spoons
+S3 (71): Eating
+S4 (70): Waiting for Spoons
+S5 (69): Eating
+
+-----------------
+
+S1 (71): Waiting for Spoons
+S2 (70): Waiting for Spoons
+S3 (71): Thinking
+S4 (70): Waiting for Spoons
+S5 (69): Eating
+
+-----------------
+
+S1 (71): Waiting for Spoons
+S2 (70): Eating
+S3 (71): Thinking
+S4 (70): Waiting for Spoons
+S5 (69): Eating
+
+-----------------
+
+S1 (71): Waiting for Spoons
+S2 (70): Eating
+S3 (71): Thinking
+S4 (70): Waiting for Spoons
+S5 (69): Thinking
+
+-----------------
+
+S1 (71): Waiting for Spoons
+S2 (70): Eating
+S3 (71): Thinking
+S4 (70): Eating
+S5 (69): Thinking
+
+-----------------
+
+S1 (71): Waiting for Spoons
+S2 (70): Eating
+S3 (72): Waiting for Spoons
+S4 (70): Eating
+S5 (69): Thinking
+
+-----------------
+
+S1 (71): Waiting for Spoons
+S2 (70): Eating
+S3 (72): Waiting for Spoons
+S4 (70): Eating
+S5 (70): Waiting for Spoons
+
+-----------------
+
+S1 (71): Waiting for Spoons
+S2 (70): Thinking
+S3 (72): Waiting for Spoons
+S4 (70): Eating
+S5 (70): Waiting for Spoons
+
+-----------------
+
+S1 (71): Eating
+S2 (70): Thinking
+S3 (72): Waiting for Spoons
+S4 (70): Eating
+S5 (70): Waiting for Spoons
+
+-----------------
+
+S1 (71): Eating
+S2 (71): Waiting for Spoons
+S3 (72): Waiting for Spoons
+S4 (70): Eating
+S5 (70): Waiting for Spoons
+
+-----------------
+
+S1 (71): Eating
+S2 (71): Waiting for Spoons
+S3 (72): Waiting for Spoons
+S4 (70): Thinking
+S5 (70): Waiting for Spoons
+
+-----------------
+
+S1 (71): Eating
+S2 (71): Waiting for Spoons
+S3 (72): Eating
+S4 (70): Thinking
+S5 (70): Waiting for Spoons
+
+-----------------
+
+S1 (71): Eating
+S2 (71): Waiting for Spoons
+S3 (72): Eating
+S4 (71): Waiting for Spoons
+S5 (70): Waiting for Spoons
+
+-----------------
+
+S1 (71): Thinking
+S2 (71): Waiting for Spoons
+S3 (72): Eating
+S4 (71): Waiting for Spoons
+S5 (70): Waiting for Spoons
+
+-----------------
+
+S1 (71): Thinking
+S2 (71): Waiting for Spoons
+S3 (72): Eating
+S4 (71): Waiting for Spoons
+S5 (70): Eating
+
+-----------------
+
+S1 (72): Waiting for Spoons
+S2 (71): Waiting for Spoons
+S3 (72): Eating
+S4 (71): Waiting for Spoons
+S5 (70): Eating
+
+-----------------
+
+S1 (72): Waiting for Spoons
+S2 (71): Waiting for Spoons
+S3 (72): Thinking
+S4 (71): Waiting for Spoons
+S5 (70): Eating
+
+-----------------
+
+S1 (72): Waiting for Spoons
+S2 (71): Eating
+S3 (72): Thinking
+S4 (71): Waiting for Spoons
+S5 (70): Eating
+
+-----------------
+
+S1 (72): Waiting for Spoons
+S2 (71): Eating
+S3 (73): Waiting for Spoons
+S4 (71): Waiting for Spoons
+S5 (70): Eating
+
+-----------------
+
+S1 (72): Waiting for Spoons
+S2 (71): Eating
+S3 (73): Waiting for Spoons
+S4 (71): Waiting for Spoons
+S5 (70): Thinking
+
+-----------------
+
+S1 (72): Waiting for Spoons
+S2 (71): Eating
+S3 (73): Waiting for Spoons
+S4 (71): Eating
+S5 (70): Thinking
+
+-----------------
+
+S1 (72): Waiting for Spoons
+S2 (71): Eating
+S3 (73): Waiting for Spoons
+S4 (71): Eating
+S5 (71): Waiting for Spoons
+
+-----------------
+
+S1 (72): Waiting for Spoons
+S2 (71): Thinking
+S3 (73): Waiting for Spoons
+S4 (71): Eating
+S5 (71): Waiting for Spoons
+
+-----------------
+
+S1 (72): Eating
+S2 (71): Thinking
+S3 (73): Waiting for Spoons
+S4 (71): Eating
+S5 (71): Waiting for Spoons
+
+-----------------
+
+S1 (72): Eating
+S2 (72): Waiting for Spoons
+S3 (73): Waiting for Spoons
+S4 (71): Eating
+S5 (71): Waiting for Spoons
+
+-----------------
+
+S1 (72): Eating
+S2 (72): Waiting for Spoons
+S3 (73): Waiting for Spoons
+S4 (71): Thinking
+S5 (71): Waiting for Spoons
+
+-----------------
+
+S1 (72): Eating
+S2 (72): Waiting for Spoons
+S3 (73): Eating
+S4 (71): Thinking
+S5 (71): Waiting for Spoons
+
+-----------------
+
+S1 (72): Eating
+S2 (72): Waiting for Spoons
+S3 (73): Eating
+S4 (72): Waiting for Spoons
+S5 (71): Waiting for Spoons
+
+-----------------
+
+S1 (72): Thinking
+S2 (72): Waiting for Spoons
+S3 (73): Eating
+S4 (72): Waiting for Spoons
+S5 (71): Waiting for Spoons
+
+-----------------
+
+S1 (72): Thinking
+S2 (72): Waiting for Spoons
+S3 (73): Eating
+S4 (72): Waiting for Spoons
+S5 (71): Eating
+
+-----------------
+
+S1 (73): Waiting for Spoons
+S2 (72): Waiting for Spoons
+S3 (73): Eating
+S4 (72): Waiting for Spoons
+S5 (71): Eating
+
+-----------------
+
+S1 (73): Waiting for Spoons
+S2 (72): Waiting for Spoons
+S3 (73): Thinking
+S4 (72): Waiting for Spoons
+S5 (71): Eating
+
+-----------------
+
+S1 (73): Waiting for Spoons
+S2 (72): Eating
+S3 (73): Thinking
+S4 (72): Waiting for Spoons
+S5 (71): Eating
+
+-----------------
+
+S1 (73): Waiting for Spoons
+S2 (72): Eating
+S3 (74): Waiting for Spoons
+S4 (72): Waiting for Spoons
+S5 (71): Eating
+
+-----------------
+
+S1 (73): Waiting for Spoons
+S2 (72): Eating
+S3 (74): Waiting for Spoons
+S4 (72): Waiting for Spoons
+S5 (71): Thinking
+
+-----------------
+
+S1 (73): Waiting for Spoons
+S2 (72): Eating
+S3 (74): Waiting for Spoons
+S4 (72): Eating
+S5 (71): Thinking
+
+-----------------
+
+S1 (73): Waiting for Spoons
+S2 (72): Eating
+S3 (74): Waiting for Spoons
+S4 (72): Eating
+S5 (72): Waiting for Spoons
+
+-----------------
+
+S1 (73): Waiting for Spoons
+S2 (72): Thinking
+S3 (74): Waiting for Spoons
+S4 (72): Eating
+S5 (72): Waiting for Spoons
+
+-----------------
+
+S1 (73): Eating
+S2 (72): Thinking
+S3 (74): Waiting for Spoons
+S4 (72): Eating
+S5 (72): Waiting for Spoons
+
+-----------------
+
+S1 (73): Eating
+S2 (73): Waiting for Spoons
+S3 (74): Waiting for Spoons
+S4 (72): Eating
+S5 (72): Waiting for Spoons
+
+-----------------
+
+S1 (73): Eating
+S2 (73): Waiting for Spoons
+S3 (74): Waiting for Spoons
+S4 (72): Thinking
+S5 (72): Waiting for Spoons
+
+-----------------
+
+S1 (73): Eating
+S2 (73): Waiting for Spoons
+S3 (74): Eating
+S4 (72): Thinking
+S5 (72): Waiting for Spoons
+
+-----------------
+
+S1 (73): Eating
+S2 (73): Waiting for Spoons
+S3 (74): Eating
+S4 (73): Waiting for Spoons
+S5 (72): Waiting for Spoons
+
+-----------------
+
+S1 (73): Thinking
+S2 (73): Waiting for Spoons
+S3 (74): Eating
+S4 (73): Waiting for Spoons
+S5 (72): Waiting for Spoons
+
+-----------------
+
+S1 (73): Thinking
+S2 (73): Waiting for Spoons
+S3 (74): Eating
+S4 (73): Waiting for Spoons
+S5 (72): Eating
+
+-----------------
+
+S1 (74): Waiting for Spoons
+S2 (73): Waiting for Spoons
+S3 (74): Eating
+S4 (73): Waiting for Spoons
+S5 (72): Eating
+
+-----------------
+
+S1 (74): Waiting for Spoons
+S2 (73): Waiting for Spoons
+S3 (74): Thinking
+S4 (73): Waiting for Spoons
+S5 (72): Eating
+
+-----------------
+
+S1 (74): Waiting for Spoons
+S2 (73): Eating
+S3 (74): Thinking
+S4 (73): Waiting for Spoons
+S5 (72): Eating
+
+-----------------
+
+S1 (74): Waiting for Spoons
+S2 (73): Eating
+S3 (75): Waiting for Spoons
+S4 (73): Waiting for Spoons
+S5 (72): Eating
+
+-----------------
+
+S1 (74): Waiting for Spoons
+S2 (73): Eating
+S3 (75): Waiting for Spoons
+S4 (73): Waiting for Spoons
+S5 (72): Thinking
+
+-----------------
+
+S1 (74): Waiting for Spoons
+S2 (73): Eating
+S3 (75): Waiting for Spoons
+S4 (73): Eating
+S5 (72): Thinking
+
+-----------------
+
+S1 (74): Waiting for Spoons
+S2 (73): Eating
+S3 (75): Waiting for Spoons
+S4 (73): Eating
+S5 (73): Waiting for Spoons
+
+-----------------
+
+S1 (74): Waiting for Spoons
+S2 (73): Thinking
+S3 (75): Waiting for Spoons
+S4 (73): Eating
+S5 (73): Waiting for Spoons
+
+-----------------
+
+S1 (74): Eating
+S2 (73): Thinking
+S3 (75): Waiting for Spoons
+S4 (73): Eating
+S5 (73): Waiting for Spoons
+
+-----------------
+
+S1 (74): Eating
+S2 (74): Waiting for Spoons
+S3 (75): Waiting for Spoons
+S4 (73): Eating
+S5 (73): Waiting for Spoons
+
+-----------------
+
+S1 (74): Eating
+S2 (74): Waiting for Spoons
+S3 (75): Waiting for Spoons
+S4 (73): Thinking
+S5 (73): Waiting for Spoons
+
+-----------------
+
+S1 (74): Eating
+S2 (74): Waiting for Spoons
+S3 (75): Eating
+S4 (73): Thinking
+S5 (73): Waiting for Spoons
+
+-----------------
+
+S1 (74): Eating
+S2 (74): Waiting for Spoons
+S3 (75): Eating
+S4 (74): Waiting for Spoons
+S5 (73): Waiting for Spoons
+
+-----------------
+
+S1 (74): Thinking
+S2 (74): Waiting for Spoons
+S3 (75): Eating
+S4 (74): Waiting for Spoons
+S5 (73): Waiting for Spoons
+
+-----------------
+
+S1 (74): Thinking
+S2 (74): Waiting for Spoons
+S3 (75): Eating
+S4 (74): Waiting for Spoons
+S5 (73): Eating
+
+-----------------
+
+S1 (75): Waiting for Spoons
+S2 (74): Waiting for Spoons
+S3 (75): Eating
+S4 (74): Waiting for Spoons
+S5 (73): Eating
+
+-----------------
+
+S1 (75): Waiting for Spoons
+S2 (74): Waiting for Spoons
+S3 (75): Thinking
+S4 (74): Waiting for Spoons
+S5 (73): Eating
+
+-----------------
+
+S1 (75): Waiting for Spoons
+S2 (74): Eating
+S3 (75): Thinking
+S4 (74): Waiting for Spoons
+S5 (73): Eating
+
+-----------------
+
+S1 (75): Waiting for Spoons
+S2 (74): Eating
+S3 (76): Waiting for Spoons
+S4 (74): Waiting for Spoons
+S5 (73): Eating
+
+-----------------
+
+S1 (75): Waiting for Spoons
+S2 (74): Eating
+S3 (76): Waiting for Spoons
+S4 (74): Waiting for Spoons
+S5 (73): Thinking
+
+-----------------
+
+S1 (75): Waiting for Spoons
+S2 (74): Eating
+S3 (76): Waiting for Spoons
+S4 (74): Eating
+S5 (73): Thinking
+
+-----------------
+
+S1 (75): Waiting for Spoons
+S2 (74): Eating
+S3 (76): Waiting for Spoons
+S4 (74): Eating
+S5 (74): Waiting for Spoons
+
+-----------------
+
+S1 (75): Waiting for Spoons
+S2 (74): Thinking
+S3 (76): Waiting for Spoons
+S4 (74): Eating
+S5 (74): Waiting for Spoons
+
+-----------------
+
+S1 (75): Eating
+S2 (74): Thinking
+S3 (76): Waiting for Spoons
+S4 (74): Eating
+S5 (74): Waiting for Spoons
+
+-----------------
+
+S1 (75): Eating
+S2 (75): Waiting for Spoons
+S3 (76): Waiting for Spoons
+S4 (74): Eating
+S5 (74): Waiting for Spoons
+
+-----------------
+
+S1 (75): Eating
+S2 (75): Waiting for Spoons
+S3 (76): Waiting for Spoons
+S4 (74): Thinking
+S5 (74): Waiting for Spoons
+
+-----------------
+
+S1 (75): Eating
+S2 (75): Waiting for Spoons
+S3 (76): Eating
+S4 (74): Thinking
+S5 (74): Waiting for Spoons
+
+-----------------
+
+S1 (75): Eating
+S2 (75): Waiting for Spoons
+S3 (76): Eating
+S4 (75): Waiting for Spoons
+S5 (74): Waiting for Spoons
+
+-----------------
+
+S1 (75): Thinking
+S2 (75): Waiting for Spoons
+S3 (76): Eating
+S4 (75): Waiting for Spoons
+S5 (74): Waiting for Spoons
+
+-----------------
+
+S1 (75): Thinking
+S2 (75): Waiting for Spoons
+S3 (76): Eating
+S4 (75): Waiting for Spoons
+S5 (74): Eating
+
+-----------------
+
+S1 (76): Waiting for Spoons
+S2 (75): Waiting for Spoons
+S3 (76): Eating
+S4 (75): Waiting for Spoons
+S5 (74): Eating
+
+-----------------
+
+S1 (76): Waiting for Spoons
+S2 (75): Waiting for Spoons
+S3 (76): Thinking
+S4 (75): Waiting for Spoons
+S5 (74): Eating
+
+-----------------
+
+S1 (76): Waiting for Spoons
+S2 (75): Eating
+S3 (76): Thinking
+S4 (75): Waiting for Spoons
+S5 (74): Eating
+
+-----------------
+
+S1 (76): Waiting for Spoons
+S2 (75): Eating
+S3 (77): Waiting for Spoons
+S4 (75): Waiting for Spoons
+S5 (74): Eating
+
+-----------------
+
+S1 (76): Waiting for Spoons
+S2 (75): Eating
+S3 (77): Waiting for Spoons
+S4 (75): Waiting for Spoons
+S5 (74): Thinking
+
+-----------------
+
+S1 (76): Waiting for Spoons
+S2 (75): Eating
+S3 (77): Waiting for Spoons
+S4 (75): Eating
+S5 (74): Thinking
+
+-----------------
+
+S1 (76): Waiting for Spoons
+S2 (75): Eating
+S3 (77): Waiting for Spoons
+S4 (75): Eating
+S5 (75): Waiting for Spoons
+
+-----------------
+
+S1 (76): Waiting for Spoons
+S2 (75): Thinking
+S3 (77): Waiting for Spoons
+S4 (75): Eating
+S5 (75): Waiting for Spoons
+
+-----------------
+
+S1 (76): Eating
+S2 (75): Thinking
+S3 (77): Waiting for Spoons
+S4 (75): Eating
+S5 (75): Waiting for Spoons
+
+-----------------
+
+S1 (76): Eating
+S2 (76): Waiting for Spoons
+S3 (77): Waiting for Spoons
+S4 (75): Eating
+S5 (75): Waiting for Spoons
+
+-----------------
+
+S1 (76): Eating
+S2 (76): Waiting for Spoons
+S3 (77): Waiting for Spoons
+S4 (75): Thinking
+S5 (75): Waiting for Spoons
+
+-----------------
+
+S1 (76): Eating
+S2 (76): Waiting for Spoons
+S3 (77): Eating
+S4 (75): Thinking
+S5 (75): Waiting for Spoons
+
+-----------------
+
+S1 (76): Eating
+S2 (76): Waiting for Spoons
+S3 (77): Eating
+S4 (76): Waiting for Spoons
+S5 (75): Waiting for Spoons
+
+-----------------
+
+S1 (76): Thinking
+S2 (76): Waiting for Spoons
+S3 (77): Eating
+S4 (76): Waiting for Spoons
+S5 (75): Waiting for Spoons
+
+-----------------
+
+S1 (76): Thinking
+S2 (76): Waiting for Spoons
+S3 (77): Eating
+S4 (76): Waiting for Spoons
+S5 (75): Eating
+
+-----------------
+
+S1 (77): Waiting for Spoons
+S2 (76): Waiting for Spoons
+S3 (77): Eating
+S4 (76): Waiting for Spoons
+S5 (75): Eating
+
+-----------------
+
+S1 (77): Waiting for Spoons
+S2 (76): Waiting for Spoons
+S3 (77): Thinking
+S4 (76): Waiting for Spoons
+S5 (75): Eating
+
+-----------------
+
+S1 (77): Waiting for Spoons
+S2 (76): Eating
+S3 (77): Thinking
+S4 (76): Waiting for Spoons
+S5 (75): Eating
+
+-----------------
+
+S1 (77): Waiting for Spoons
+S2 (76): Eating
+S3 (77): Thinking
+S4 (76): Waiting for Spoons
+S5 (75): Thinking
+
+-----------------
+
+S1 (77): Waiting for Spoons
+S2 (76): Eating
+S3 (77): Thinking
+S4 (76): Eating
+S5 (75): Thinking
+
+-----------------
+
+S1 (77): Waiting for Spoons
+S2 (76): Eating
+S3 (78): Waiting for Spoons
+S4 (76): Eating
+S5 (75): Thinking
+
+-----------------
+
+S1 (77): Waiting for Spoons
+S2 (76): Eating
+S3 (78): Waiting for Spoons
+S4 (76): Eating
+S5 (76): Waiting for Spoons
+
+-----------------
+
+S1 (77): Waiting for Spoons
+S2 (76): Thinking
+S3 (78): Waiting for Spoons
+S4 (76): Eating
+S5 (76): Waiting for Spoons
+
+-----------------
+
+S1 (77): Eating
+S2 (76): Thinking
+S3 (78): Waiting for Spoons
+S4 (76): Eating
+S5 (76): Waiting for Spoons
+
+-----------------
+
+S1 (77): Eating
+S2 (77): Waiting for Spoons
+S3 (78): Waiting for Spoons
+S4 (76): Eating
+S5 (76): Waiting for Spoons
+
+-----------------
+
+S1 (77): Eating
+S2 (77): Waiting for Spoons
+S3 (78): Waiting for Spoons
+S4 (76): Thinking
+S5 (76): Waiting for Spoons
+
+-----------------
+
+S1 (77): Eating
+S2 (77): Waiting for Spoons
+S3 (78): Eating
+S4 (76): Thinking
+S5 (76): Waiting for Spoons
+
+-----------------
+
+S1 (77): Eating
+S2 (77): Waiting for Spoons
+S3 (78): Eating
+S4 (77): Waiting for Spoons
+S5 (76): Waiting for Spoons
+
+-----------------
+
+S1 (77): Thinking
+S2 (77): Waiting for Spoons
+S3 (78): Eating
+S4 (77): Waiting for Spoons
+S5 (76): Waiting for Spoons
+
+-----------------
+
+S1 (77): Thinking
+S2 (77): Waiting for Spoons
+S3 (78): Eating
+S4 (77): Waiting for Spoons
+S5 (76): Eating
+
+-----------------
+
+S1 (78): Waiting for Spoons
+S2 (77): Waiting for Spoons
+S3 (78): Eating
+S4 (77): Waiting for Spoons
+S5 (76): Eating
+
+-----------------
+
+S1 (78): Waiting for Spoons
+S2 (77): Waiting for Spoons
+S3 (78): Thinking
+S4 (77): Waiting for Spoons
+S5 (76): Eating
+
+-----------------
+
+S1 (78): Waiting for Spoons
+S2 (77): Eating
+S3 (78): Thinking
+S4 (77): Waiting for Spoons
+S5 (76): Eating
+
+-----------------
+
+S1 (78): Waiting for Spoons
+S2 (77): Eating
+S3 (79): Waiting for Spoons
+S4 (77): Waiting for Spoons
+S5 (76): Eating
+
+-----------------
+
+S1 (78): Waiting for Spoons
+S2 (77): Eating
+S3 (79): Waiting for Spoons
+S4 (77): Waiting for Spoons
+S5 (76): Thinking
+
+-----------------
+
+S1 (78): Waiting for Spoons
+S2 (77): Eating
+S3 (79): Waiting for Spoons
+S4 (77): Eating
+S5 (76): Thinking
+
+-----------------
+
+S1 (78): Waiting for Spoons
+S2 (77): Eating
+S3 (79): Waiting for Spoons
+S4 (77): Eating
+S5 (77): Waiting for Spoons
+
+-----------------
+
+S1 (78): Waiting for Spoons
+S2 (77): Thinking
+S3 (79): Waiting for Spoons
+S4 (77): Eating
+S5 (77): Waiting for Spoons
+
+-----------------
+
+S1 (78): Eating
+S2 (77): Thinking
+S3 (79): Waiting for Spoons
+S4 (77): Eating
+S5 (77): Waiting for Spoons
+
+-----------------
+
+S1 (78): Eating
+S2 (78): Waiting for Spoons
+S3 (79): Waiting for Spoons
+S4 (77): Eating
+S5 (77): Waiting for Spoons
+
+-----------------
+
+S1 (78): Eating
+S2 (78): Waiting for Spoons
+S3 (79): Waiting for Spoons
+S4 (77): Thinking
+S5 (77): Waiting for Spoons
+
+-----------------
+
+S1 (78): Eating
+S2 (78): Waiting for Spoons
+S3 (79): Eating
+S4 (77): Thinking
+S5 (77): Waiting for Spoons
+
+-----------------
+
+S1 (78): Eating
+S2 (78): Waiting for Spoons
+S3 (79): Eating
+S4 (78): Waiting for Spoons
+S5 (77): Waiting for Spoons
+
+-----------------
+
+S1 (78): Thinking
+S2 (78): Waiting for Spoons
+S3 (79): Eating
+S4 (78): Waiting for Spoons
+S5 (77): Waiting for Spoons
+
+-----------------
+
+S1 (78): Thinking
+S2 (78): Waiting for Spoons
+S3 (79): Eating
+S4 (78): Waiting for Spoons
+S5 (77): Eating
+
+-----------------
+
+S1 (79): Waiting for Spoons
+S2 (78): Waiting for Spoons
+S3 (79): Eating
+S4 (78): Waiting for Spoons
+S5 (77): Eating
+
+-----------------
+
+S1 (79): Waiting for Spoons
+S2 (78): Waiting for Spoons
+S3 (79): Thinking
+S4 (78): Waiting for Spoons
+S5 (77): Eating
+
+-----------------
+
+S1 (79): Waiting for Spoons
+S2 (78): Eating
+S3 (79): Thinking
+S4 (78): Waiting for Spoons
+S5 (77): Eating
+
+-----------------
+
+S1 (79): Waiting for Spoons
+S2 (78): Eating
+S3 (80): Waiting for Spoons
+S4 (78): Waiting for Spoons
+S5 (77): Eating
+
+-----------------
+
+S1 (79): Waiting for Spoons
+S2 (78): Eating
+S3 (80): Waiting for Spoons
+S4 (78): Waiting for Spoons
+S5 (77): Thinking
+
+-----------------
+
+S1 (79): Waiting for Spoons
+S2 (78): Eating
+S3 (80): Waiting for Spoons
+S4 (78): Eating
+S5 (77): Thinking
+
+-----------------
+
+S1 (79): Waiting for Spoons
+S2 (78): Eating
+S3 (80): Waiting for Spoons
+S4 (78): Eating
+S5 (78): Waiting for Spoons
+
+-----------------
+
+S1 (79): Waiting for Spoons
+S2 (78): Thinking
+S3 (80): Waiting for Spoons
+S4 (78): Eating
+S5 (78): Waiting for Spoons
+
+-----------------
+
+S1 (79): Eating
+S2 (78): Thinking
+S3 (80): Waiting for Spoons
+S4 (78): Eating
+S5 (78): Waiting for Spoons
+
+-----------------
+
+S1 (79): Eating
+S2 (79): Waiting for Spoons
+S3 (80): Waiting for Spoons
+S4 (78): Eating
+S5 (78): Waiting for Spoons
+
+-----------------
+
+S1 (79): Eating
+S2 (79): Waiting for Spoons
+S3 (80): Waiting for Spoons
+S4 (78): Thinking
+S5 (78): Waiting for Spoons
+
+-----------------
+
+S1 (79): Eating
+S2 (79): Waiting for Spoons
+S3 (80): Eating
+S4 (78): Thinking
+S5 (78): Waiting for Spoons
+
+-----------------
+
+S1 (79): Eating
+S2 (79): Waiting for Spoons
+S3 (80): Eating
+S4 (79): Waiting for Spoons
+S5 (78): Waiting for Spoons
+
+-----------------
+
+S1 (79): Thinking
+S2 (79): Waiting for Spoons
+S3 (80): Eating
+S4 (79): Waiting for Spoons
+S5 (78): Waiting for Spoons
+
+-----------------
+
+S1 (79): Thinking
+S2 (79): Waiting for Spoons
+S3 (80): Eating
+S4 (79): Waiting for Spoons
+S5 (78): Eating
+
+-----------------
+
+S1 (80): Waiting for Spoons
+S2 (79): Waiting for Spoons
+S3 (80): Eating
+S4 (79): Waiting for Spoons
+S5 (78): Eating
+
+-----------------
+
+S1 (80): Waiting for Spoons
+S2 (79): Waiting for Spoons
+S3 (80): Thinking
+S4 (79): Waiting for Spoons
+S5 (78): Eating
+
+-----------------
+
+S1 (80): Waiting for Spoons
+S2 (79): Eating
+S3 (80): Thinking
+S4 (79): Waiting for Spoons
+S5 (78): Eating
+
+-----------------
+
+S1 (80): Waiting for Spoons
+S2 (79): Eating
+S3 (81): Waiting for Spoons
+S4 (79): Waiting for Spoons
+S5 (78): Eating
+
+-----------------
+
+S1 (80): Waiting for Spoons
+S2 (79): Eating
+S3 (81): Waiting for Spoons
+S4 (79): Waiting for Spoons
+S5 (78): Thinking
+
+-----------------
+
+S1 (80): Waiting for Spoons
+S2 (79): Eating
+S3 (81): Waiting for Spoons
+S4 (79): Eating
+S5 (78): Thinking
+
+-----------------
+
+S1 (80): Waiting for Spoons
+S2 (79): Eating
+S3 (81): Waiting for Spoons
+S4 (79): Eating
+S5 (79): Waiting for Spoons
+
+-----------------
+
+S1 (80): Waiting for Spoons
+S2 (79): Thinking
+S3 (81): Waiting for Spoons
+S4 (79): Eating
+S5 (79): Waiting for Spoons
+
+-----------------
+
+S1 (80): Eating
+S2 (79): Thinking
+S3 (81): Waiting for Spoons
+S4 (79): Eating
+S5 (79): Waiting for Spoons
+
+-----------------
+
+S1 (80): Eating
+S2 (80): Waiting for Spoons
+S3 (81): Waiting for Spoons
+S4 (79): Eating
+S5 (79): Waiting for Spoons
+
+-----------------
+
+S1 (80): Eating
+S2 (80): Waiting for Spoons
+S3 (81): Waiting for Spoons
+S4 (79): Thinking
+S5 (79): Waiting for Spoons
+
+-----------------
+
+S1 (80): Eating
+S2 (80): Waiting for Spoons
+S3 (81): Eating
+S4 (79): Thinking
+S5 (79): Waiting for Spoons
+
+-----------------
+
+S1 (80): Eating
+S2 (80): Waiting for Spoons
+S3 (81): Eating
+S4 (80): Waiting for Spoons
+S5 (79): Waiting for Spoons
+
+-----------------
+
+S1 (80): Thinking
+S2 (80): Waiting for Spoons
+S3 (81): Eating
+S4 (80): Waiting for Spoons
+S5 (79): Waiting for Spoons
+
+-----------------
+
+S1 (80): Thinking
+S2 (80): Waiting for Spoons
+S3 (81): Eating
+S4 (80): Waiting for Spoons
+S5 (79): Eating
+
+-----------------
+
+S1 (81): Waiting for Spoons
+S2 (80): Waiting for Spoons
+S3 (81): Eating
+S4 (80): Waiting for Spoons
+S5 (79): Eating
+
+-----------------
+
+S1 (81): Waiting for Spoons
+S2 (80): Waiting for Spoons
+S3 (81): Thinking
+S4 (80): Waiting for Spoons
+S5 (79): Eating
+
+-----------------
+
+S1 (81): Waiting for Spoons
+S2 (80): Eating
+S3 (81): Thinking
+S4 (80): Waiting for Spoons
+S5 (79): Eating
+
+-----------------
+
+S1 (81): Waiting for Spoons
+S2 (80): Eating
+S3 (82): Waiting for Spoons
+S4 (80): Waiting for Spoons
+S5 (79): Eating
+
+-----------------
+
+S1 (81): Waiting for Spoons
+S2 (80): Eating
+S3 (82): Waiting for Spoons
+S4 (80): Waiting for Spoons
+S5 (79): Thinking
+
+-----------------
+
+S1 (81): Waiting for Spoons
+S2 (80): Eating
+S3 (82): Waiting for Spoons
+S4 (80): Eating
+S5 (79): Thinking
+
+-----------------
+
+S1 (81): Waiting for Spoons
+S2 (80): Eating
+S3 (82): Waiting for Spoons
+S4 (80): Eating
+S5 (80): Waiting for Spoons
+
+-----------------
+
+S1 (81): Waiting for Spoons
+S2 (80): Thinking
+S3 (82): Waiting for Spoons
+S4 (80): Eating
+S5 (80): Waiting for Spoons
+
+-----------------
+
+S1 (81): Eating
+S2 (80): Thinking
+S3 (82): Waiting for Spoons
+S4 (80): Eating
+S5 (80): Waiting for Spoons
+
+-----------------
+
+S1 (81): Eating
+S2 (80): Thinking
+S3 (82): Waiting for Spoons
+S4 (80): Thinking
+S5 (80): Waiting for Spoons
+
+-----------------
+
+S1 (81): Eating
+S2 (80): Thinking
+S3 (82): Eating
+S4 (80): Thinking
+S5 (80): Waiting for Spoons
+
+-----------------
+
+S1 (81): Eating
+S2 (81): Waiting for Spoons
+S3 (82): Eating
+S4 (80): Thinking
+S5 (80): Waiting for Spoons
+
+-----------------
+
+S1 (81): Eating
+S2 (81): Waiting for Spoons
+S3 (82): Eating
+S4 (81): Waiting for Spoons
+S5 (80): Waiting for Spoons
+
+-----------------
+
+S1 (81): Thinking
+S2 (81): Waiting for Spoons
+S3 (82): Eating
+S4 (81): Waiting for Spoons
+S5 (80): Waiting for Spoons
+
+-----------------
+
+S1 (81): Thinking
+S2 (81): Waiting for Spoons
+S3 (82): Eating
+S4 (81): Waiting for Spoons
+S5 (80): Eating
+
+-----------------
+
+S1 (82): Waiting for Spoons
+S2 (81): Waiting for Spoons
+S3 (82): Eating
+S4 (81): Waiting for Spoons
+S5 (80): Eating
+
+-----------------
+
+S1 (82): Waiting for Spoons
+S2 (81): Waiting for Spoons
+S3 (82): Thinking
+S4 (81): Waiting for Spoons
+S5 (80): Eating
+
+-----------------
+
+S1 (82): Waiting for Spoons
+S2 (81): Eating
+S3 (82): Thinking
+S4 (81): Waiting for Spoons
+S5 (80): Eating
+
+-----------------
+
+S1 (82): Waiting for Spoons
+S2 (81): Eating
+S3 (83): Waiting for Spoons
+S4 (81): Waiting for Spoons
+S5 (80): Eating
+
+-----------------
+
+S1 (82): Waiting for Spoons
+S2 (81): Eating
+S3 (83): Waiting for Spoons
+S4 (81): Waiting for Spoons
+S5 (80): Thinking
+
+-----------------
+
+S1 (82): Waiting for Spoons
+S2 (81): Eating
+S3 (83): Waiting for Spoons
+S4 (81): Eating
+S5 (80): Thinking
+
+-----------------
+
+S1 (82): Waiting for Spoons
+S2 (81): Eating
+S3 (83): Waiting for Spoons
+S4 (81): Eating
+S5 (81): Waiting for Spoons
+
+-----------------
+
+S1 (82): Waiting for Spoons
+S2 (81): Thinking
+S3 (83): Waiting for Spoons
+S4 (81): Eating
+S5 (81): Waiting for Spoons
+
+-----------------
+
+S1 (82): Eating
+S2 (81): Thinking
+S3 (83): Waiting for Spoons
+S4 (81): Eating
+S5 (81): Waiting for Spoons
+
+-----------------
+
+S1 (82): Eating
+S2 (82): Waiting for Spoons
+S3 (83): Waiting for Spoons
+S4 (81): Eating
+S5 (81): Waiting for Spoons
+
+-----------------
+
+S1 (82): Eating
+S2 (82): Waiting for Spoons
+S3 (83): Waiting for Spoons
+S4 (81): Thinking
+S5 (81): Waiting for Spoons
+
+-----------------
+
+S1 (82): Eating
+S2 (82): Waiting for Spoons
+S3 (83): Eating
+S4 (81): Thinking
+S5 (81): Waiting for Spoons
+
+-----------------
+
+S1 (82): Eating
+S2 (82): Waiting for Spoons
+S3 (83): Eating
+S4 (82): Waiting for Spoons
+S5 (81): Waiting for Spoons
+
+-----------------
+
+S1 (82): Thinking
+S2 (82): Waiting for Spoons
+S3 (83): Eating
+S4 (82): Waiting for Spoons
+S5 (81): Waiting for Spoons
+
+-----------------
+
+S1 (82): Thinking
+S2 (82): Waiting for Spoons
+S3 (83): Eating
+S4 (82): Waiting for Spoons
+S5 (81): Eating
+
+-----------------
+
+S1 (83): Waiting for Spoons
+S2 (82): Waiting for Spoons
+S3 (83): Eating
+S4 (82): Waiting for Spoons
+S5 (81): Eating
+
+-----------------
+
+S1 (83): Waiting for Spoons
+S2 (82): Waiting for Spoons
+S3 (83): Thinking
+S4 (82): Waiting for Spoons
+S5 (81): Eating
+
+-----------------
+
+S1 (83): Waiting for Spoons
+S2 (82): Eating
+S3 (83): Thinking
+S4 (82): Waiting for Spoons
+S5 (81): Eating
+
+-----------------
+
+S1 (83): Waiting for Spoons
+S2 (82): Eating
+S3 (84): Waiting for Spoons
+S4 (82): Waiting for Spoons
+S5 (81): Eating
+
+-----------------
+
+S1 (83): Waiting for Spoons
+S2 (82): Eating
+S3 (84): Waiting for Spoons
+S4 (82): Waiting for Spoons
+S5 (81): Thinking
+
+-----------------
+
+S1 (83): Waiting for Spoons
+S2 (82): Eating
+S3 (84): Waiting for Spoons
+S4 (82): Eating
+S5 (81): Thinking
+
+-----------------
+
+S1 (83): Waiting for Spoons
+S2 (82): Eating
+S3 (84): Waiting for Spoons
+S4 (82): Eating
+S5 (82): Waiting for Spoons
+
+-----------------
+
+S1 (83): Waiting for Spoons
+S2 (82): Thinking
+S3 (84): Waiting for Spoons
+S4 (82): Eating
+S5 (82): Waiting for Spoons
+
+-----------------
+
+S1 (83): Eating
+S2 (82): Thinking
+S3 (84): Waiting for Spoons
+S4 (82): Eating
+S5 (82): Waiting for Spoons
+
+-----------------
+
+S1 (83): Eating
+S2 (83): Waiting for Spoons
+S3 (84): Waiting for Spoons
+S4 (82): Eating
+S5 (82): Waiting for Spoons
+
+-----------------
+
+S1 (83): Eating
+S2 (83): Waiting for Spoons
+S3 (84): Waiting for Spoons
+S4 (82): Thinking
+S5 (82): Waiting for Spoons
+
+-----------------
+
+S1 (83): Eating
+S2 (83): Waiting for Spoons
+S3 (84): Eating
+S4 (82): Thinking
+S5 (82): Waiting for Spoons
+
+-----------------
+
+S1 (83): Eating
+S2 (83): Waiting for Spoons
+S3 (84): Eating
+S4 (83): Waiting for Spoons
+S5 (82): Waiting for Spoons
+
+-----------------
+
+S1 (83): Thinking
+S2 (83): Waiting for Spoons
+S3 (84): Eating
+S4 (83): Waiting for Spoons
+S5 (82): Waiting for Spoons
+
+-----------------
+
+S1 (83): Thinking
+S2 (83): Waiting for Spoons
+S3 (84): Eating
+S4 (83): Waiting for Spoons
+S5 (82): Eating
+
+-----------------
+
+S1 (84): Waiting for Spoons
+S2 (83): Waiting for Spoons
+S3 (84): Eating
+S4 (83): Waiting for Spoons
+S5 (82): Eating
+
+-----------------
+
+S1 (84): Waiting for Spoons
+S2 (83): Waiting for Spoons
+S3 (84): Thinking
+S4 (83): Waiting for Spoons
+S5 (82): Eating
+
+-----------------
+
+S1 (84): Waiting for Spoons
+S2 (83): Eating
+S3 (84): Thinking
+S4 (83): Waiting for Spoons
+S5 (82): Eating
+
+-----------------
+
+S1 (84): Waiting for Spoons
+S2 (83): Eating
+S3 (85): Waiting for Spoons
+S4 (83): Waiting for Spoons
+S5 (82): Eating
+
+-----------------
+
+S1 (84): Waiting for Spoons
+S2 (83): Eating
+S3 (85): Waiting for Spoons
+S4 (83): Waiting for Spoons
+S5 (82): Thinking
+
+-----------------
+
+S1 (84): Waiting for Spoons
+S2 (83): Eating
+S3 (85): Waiting for Spoons
+S4 (83): Eating
+S5 (82): Thinking
+
+-----------------
+
+S1 (84): Waiting for Spoons
+S2 (83): Eating
+S3 (85): Waiting for Spoons
+S4 (83): Eating
+S5 (83): Waiting for Spoons
+
+-----------------
+
+S1 (84): Waiting for Spoons
+S2 (83): Thinking
+S3 (85): Waiting for Spoons
+S4 (83): Eating
+S5 (83): Waiting for Spoons
+
+-----------------
+
+S1 (84): Eating
+S2 (83): Thinking
+S3 (85): Waiting for Spoons
+S4 (83): Eating
+S5 (83): Waiting for Spoons
+
+-----------------
+
+S1 (84): Eating
+S2 (84): Waiting for Spoons
+S3 (85): Waiting for Spoons
+S4 (83): Eating
+S5 (83): Waiting for Spoons
+
+-----------------
+
+S1 (84): Eating
+S2 (84): Waiting for Spoons
+S3 (85): Waiting for Spoons
+S4 (83): Thinking
+S5 (83): Waiting for Spoons
+
+-----------------
+
+S1 (84): Eating
+S2 (84): Waiting for Spoons
+S3 (85): Eating
+S4 (83): Thinking
+S5 (83): Waiting for Spoons
+
+-----------------
+
+S1 (84): Eating
+S2 (84): Waiting for Spoons
+S3 (85): Eating
+S4 (84): Waiting for Spoons
+S5 (83): Waiting for Spoons
+
+-----------------
+
+S1 (84): Thinking
+S2 (84): Waiting for Spoons
+S3 (85): Eating
+S4 (84): Waiting for Spoons
+S5 (83): Waiting for Spoons
+
+-----------------
+
+S1 (84): Thinking
+S2 (84): Waiting for Spoons
+S3 (85): Eating
+S4 (84): Waiting for Spoons
+S5 (83): Eating
+
+-----------------
+
+S1 (85): Waiting for Spoons
+S2 (84): Waiting for Spoons
+S3 (85): Eating
+S4 (84): Waiting for Spoons
+S5 (83): Eating
+
+-----------------
+
+S1 (85): Waiting for Spoons
+S2 (84): Waiting for Spoons
+S3 (85): Thinking
+S4 (84): Waiting for Spoons
+S5 (83): Eating
+
+-----------------
+
+S1 (85): Waiting for Spoons
+S2 (84): Eating
+S3 (85): Thinking
+S4 (84): Waiting for Spoons
+S5 (83): Eating
+
+-----------------
+
+S1 (85): Waiting for Spoons
+S2 (84): Eating
+S3 (86): Waiting for Spoons
+S4 (84): Waiting for Spoons
+S5 (83): Eating
+
+-----------------
+
+S1 (85): Waiting for Spoons
+S2 (84): Eating
+S3 (86): Waiting for Spoons
+S4 (84): Waiting for Spoons
+S5 (83): Thinking
+
+-----------------
+
+S1 (85): Waiting for Spoons
+S2 (84): Eating
+S3 (86): Waiting for Spoons
+S4 (84): Eating
+S5 (83): Thinking
+
+-----------------
+
+S1 (85): Waiting for Spoons
+S2 (84): Eating
+S3 (86): Waiting for Spoons
+S4 (84): Eating
+S5 (84): Waiting for Spoons
+
+-----------------
+
+S1 (85): Waiting for Spoons
+S2 (84): Thinking
+S3 (86): Waiting for Spoons
+S4 (84): Eating
+S5 (84): Waiting for Spoons
+
+-----------------
+
+S1 (85): Eating
+S2 (84): Thinking
+S3 (86): Waiting for Spoons
+S4 (84): Eating
+S5 (84): Waiting for Spoons
+
+-----------------
+
+S1 (85): Eating
+S2 (85): Waiting for Spoons
+S3 (86): Waiting for Spoons
+S4 (84): Eating
+S5 (84): Waiting for Spoons
+
+-----------------
+
+S1 (85): Eating
+S2 (85): Waiting for Spoons
+S3 (86): Waiting for Spoons
+S4 (84): Thinking
+S5 (84): Waiting for Spoons
+
+-----------------
+
+S1 (85): Eating
+S2 (85): Waiting for Spoons
+S3 (86): Eating
+S4 (84): Thinking
+S5 (84): Waiting for Spoons
+
+-----------------
+
+S1 (85): Eating
+S2 (85): Waiting for Spoons
+S3 (86): Eating
+S4 (85): Waiting for Spoons
+S5 (84): Waiting for Spoons
+
+-----------------
+
+S1 (85): Thinking
+S2 (85): Waiting for Spoons
+S3 (86): Eating
+S4 (85): Waiting for Spoons
+S5 (84): Waiting for Spoons
+
+-----------------
+
+S1 (85): Thinking
+S2 (85): Waiting for Spoons
+S3 (86): Eating
+S4 (85): Waiting for Spoons
+S5 (84): Eating
+
+-----------------
+
+S1 (86): Waiting for Spoons
+S2 (85): Waiting for Spoons
+S3 (86): Eating
+S4 (85): Waiting for Spoons
+S5 (84): Eating
+
+-----------------
+
+S1 (86): Waiting for Spoons
+S2 (85): Waiting for Spoons
+S3 (86): Thinking
+S4 (85): Waiting for Spoons
+S5 (84): Eating
+
+-----------------
+
+S1 (86): Waiting for Spoons
+S2 (85): Eating
+S3 (86): Thinking
+S4 (85): Waiting for Spoons
+S5 (84): Eating
+
+-----------------
+
+S1 (86): Waiting for Spoons
+S2 (85): Eating
+S3 (87): Waiting for Spoons
+S4 (85): Waiting for Spoons
+S5 (84): Eating
+
+-----------------
+
+S1 (86): Waiting for Spoons
+S2 (85): Eating
+S3 (87): Waiting for Spoons
+S4 (85): Waiting for Spoons
+S5 (84): Thinking
+
+-----------------
+
+S1 (86): Waiting for Spoons
+S2 (85): Eating
+S3 (87): Waiting for Spoons
+S4 (85): Eating
+S5 (84): Thinking
+
+-----------------
+
+S1 (86): Waiting for Spoons
+S2 (85): Eating
+S3 (87): Waiting for Spoons
+S4 (85): Eating
+S5 (85): Waiting for Spoons
+
+-----------------
+
+S1 (86): Waiting for Spoons
+S2 (85): Thinking
+S3 (87): Waiting for Spoons
+S4 (85): Eating
+S5 (85): Waiting for Spoons
+
+-----------------
+
+S1 (86): Eating
+S2 (85): Thinking
+S3 (87): Waiting for Spoons
+S4 (85): Eating
+S5 (85): Waiting for Spoons
+
+-----------------
+
+S1 (86): Eating
+S2 (86): Waiting for Spoons
+S3 (87): Waiting for Spoons
+S4 (85): Eating
+S5 (85): Waiting for Spoons
+
+-----------------
+
+S1 (86): Eating
+S2 (86): Waiting for Spoons
+S3 (87): Waiting for Spoons
+S4 (85): Thinking
+S5 (85): Waiting for Spoons
+
+-----------------
+
+S1 (86): Eating
+S2 (86): Waiting for Spoons
+S3 (87): Eating
+S4 (85): Thinking
+S5 (85): Waiting for Spoons
+
+-----------------
+
+S1 (86): Eating
+S2 (86): Waiting for Spoons
+S3 (87): Eating
+S4 (86): Waiting for Spoons
+S5 (85): Waiting for Spoons
+
+-----------------
+
+S1 (86): Thinking
+S2 (86): Waiting for Spoons
+S3 (87): Eating
+S4 (86): Waiting for Spoons
+S5 (85): Waiting for Spoons
+
+-----------------
+
+S1 (86): Thinking
+S2 (86): Waiting for Spoons
+S3 (87): Eating
+S4 (86): Waiting for Spoons
+S5 (85): Eating
+
+-----------------
+
+S1 (87): Waiting for Spoons
+S2 (86): Waiting for Spoons
+S3 (87): Eating
+S4 (86): Waiting for Spoons
+S5 (85): Eating
+
+-----------------
+
+S1 (87): Waiting for Spoons
+S2 (86): Waiting for Spoons
+S3 (87): Thinking
+S4 (86): Waiting for Spoons
+S5 (85): Eating
+
+-----------------
+
+S1 (87): Waiting for Spoons
+S2 (86): Eating
+S3 (87): Thinking
+S4 (86): Waiting for Spoons
+S5 (85): Eating
+
+-----------------
+
+S1 (87): Waiting for Spoons
+S2 (86): Eating
+S3 (88): Waiting for Spoons
+S4 (86): Waiting for Spoons
+S5 (85): Eating
+
+-----------------
+
+S1 (87): Waiting for Spoons
+S2 (86): Eating
+S3 (88): Waiting for Spoons
+S4 (86): Waiting for Spoons
+S5 (85): Thinking
+
+-----------------
+
+S1 (87): Waiting for Spoons
+S2 (86): Eating
+S3 (88): Waiting for Spoons
+S4 (86): Eating
+S5 (85): Thinking
+
+-----------------
+
+S1 (87): Waiting for Spoons
+S2 (86): Eating
+S3 (88): Waiting for Spoons
+S4 (86): Eating
+S5 (86): Waiting for Spoons
+
+-----------------
