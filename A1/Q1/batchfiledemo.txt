@@ -1,0 +1,7 @@
+pwd
+cd ..
+pwd
+echo batch works        correctly
+            
+            echo hey
+dir .
