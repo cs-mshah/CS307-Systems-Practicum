@@ -1,5 +1,5 @@
 import subprocess
-from time import process_time_ns
+import time
 import matplotlib.pyplot as plt
 
 programs = [
@@ -10,13 +10,13 @@ programs = [
 ]
 
 nVals = ["1","5","10", "20", "100", "200", "300", "500", "1000", "2000"]
-# nVals = ["1","5","10"]
+# nVals = ["1", "100", "200", "300", "400","500", "600", "700", "800", "900", "1000"]
 
 for program in programs:
     for val in nVals:
-        tStart = process_time_ns()
+        tStart = time.perf_counter_ns()
         subprocess.run([program["fileName"],val])
-        program["timeTakenList"].append(process_time_ns()-tStart) 
+        program["timeTakenList"].append(time.perf_counter_ns()-tStart) 
     
     plt.plot([int(val) for val in nVals], program["timeTakenList"], "-o", label=program["name"])
 
@@ -28,4 +28,3 @@ for program in programs:
 
 plt.legend()
 plt.show()
-
