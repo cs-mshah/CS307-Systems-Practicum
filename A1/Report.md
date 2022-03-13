@@ -32,13 +32,13 @@ We have created a shell and have implemented the following commands:
 * Function: Display the list of previously executed commands, even on shell restart
 * Implementation: To facilitate persistent history, the program stores the command history in a file present in the directory of the executable. The history file path is stored as a local environment variable. 
 
-6. cd <directory>
-* Function: Change the current default directory to <directory>. If the <directory> argument is
+6. cd DIRECTORY
+* Function: Change the current default directory to DIRECTORY. If the DIRECTORY argument is
 not present, report the current directory. If the directory doesn’t exist, “Invalid Directory” error is reported. This command changes the PWD environment variable for the current shell. 
 * Implementation: If there are no arguments, displayPWD function is used where the pwd environment variable is taken and the current directory is displayed. Error is reported in case of non existent directory or more arguments than required. In the general case, the environment variable, PWD, is set to the given directory(which is given as the argument).
 
-7. dir <directory>
-* Function: List all the contents of the directory <directory>
+7. dir DIRECTORY
+* Function: List all the contents of the directory DIRECTORY
 * Implementation: The absolute path of the specified directory is derived using realpath function.
 Dirent.h is used to iterate over the directory contents and print the file/folder names. In case of invalid user input, the error is caught and reported accordingly.
 
@@ -47,7 +47,7 @@ Dirent.h is used to iterate over the directory contents and print the file/folde
 * Implementation: The local environment variables are stored in a map in the program’s memory. The map is simply iterated to list the variables. 
 The environment strings of the bash shell are accessed 
 
-9. echo <comment>
+9. echo COMMENT
 * Function: Displays comment on the display followed by a new line. Multiple spaces/tabs
 are reduced to a single space.
 * Implementation: The given arguments are displayed using cout and finally followed by a new line.
