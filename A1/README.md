@@ -10,6 +10,11 @@ and then
 
 - Use `help` to display all the valid commands and their user manuals.
 
+### Problem 2 - Dining Students
+- Compilation command: `g++ -o DiningStudents DiningStudents.cpp -pthread`
+- Run the program: `./DiningStudents`
+- The console outputs show progress of the program, the state change log gets saved in StateChangeLog.txt file in the same directory.
+
 ### Problem 3 – Matrix Multiplication
 - compile all programs with the command - 
 	`g++ -o <name> <name.cpp> -lpthread`
