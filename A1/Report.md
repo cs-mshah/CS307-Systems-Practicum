@@ -10,6 +10,8 @@ and then execute
 
 Use `help` to display all the valid commands and their user manuals.
 
+#### Commands
+
 We have created a shell and have implemented the following commands:
 
 1. clr
@@ -51,6 +53,8 @@ The environment strings of the bash shell are accessed
 * Function: Displays comment on the display followed by a new line. Multiple spaces/tabs
 are reduced to a single space.
 * Implementation: The given arguments are displayed using cout and finally followed by a new line.
+
+
 
 ### Problem 2 - Dining Students
 - For 5 students and 5 spoons case, each person has a left and right spoon and when simulating, we had to make sure that only person could use a given spoon at a time. To do this, we have used locks and condition variables and as per the results, 2 students can eat parallelly.
