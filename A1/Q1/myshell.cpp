@@ -49,7 +49,11 @@ void resumeAllSignals(void){
 
 // 1. clr
 void clearScreen(){
-    cout << "\033[2J\033[1;1H";
+    // cout << "\033[2J\033[1;1H";
+    // cout << "\e[1;1H\e[2J";
+    // cout << "\e[1;1H\e[2J\n";
+    // cout << "\x1B[2J\x1B[H";
+    cout << system("clear");
 }
 
 // 2. pause
@@ -208,6 +212,7 @@ void executeProg(const char* filename){
 
         if(execvp(args[0], (char **)args) < 0){
             cout << "invalid executable\n";
+            exit(0);
         }
         return;
     }
@@ -268,9 +273,9 @@ void initInternalCommands(){
 }
 
 void initEnvironVariables(string shellPath){
-    localEnvironmentVariables["history_dump"] = "/home/harnaman24/workarea/courses/cs307_sysprac/assgn1/shell_history.txt";
     localEnvironmentVariables["shell_prompt"] = "myshell>> ";
     localEnvironmentVariables["shell"] = shellPath;    
+    localEnvironmentVariables["history_dump"] = shellPath + "history.txt";
 }
 
 void displayPrompt(){
