@@ -38,12 +38,24 @@ We have created a shell and have implemented the following commands:
 8. environ
 	* Function: List all the environment strings of the current shell and the bash shell
 	* Implementation: The local environment variables are stored in a map in the program’s memory. The map is simply iterated to list the variables. 
-	The environment strings of the bash shell are accessed 
+	The environment strings of the bash shell are accessed using `extern char** environ`.
 
 9. echo COMMENT
 	* Function: Displays comment on the display followed by a new line. Multiple spaces/tabs
 	are reduced to a single space.
 	* Implementation: The given arguments are displayed using cout and finally followed by a new line.
+
+10. Executable path
+    * Function: The shell environment should contain shell=<pathname>=myshell where <pathname>=myshell is full path for the shell executable
+    * Implementation: Each C++ program execution supplies filename as argv[0] parameter. As it might be absolute or relative path, the absolute path is obtained using realpath function. It is then stored as an environment variable.
+
+11. Batchfile execution
+    * Function: The shell must be able to take its command line input from a file. That is, if the command line is invoked with a command line argument: myshell <batchfile> then <batchfile> is assumed to contain a set of command lines for the shell to process
+    * Implementation: If the shell is invoked with a commandline parameter, it is assumed to be batchfile. The batchfile is read line by line and executed either as a pre defined shell command or a program execution.
+
+12. Bonus - Executable execution
+    * Function: Assume that the full path to the executable is provided as an input, run the program
+    * Implementation: If the command line input does not match with any of the pre-defined commands, it is assumed to be the path to an executable followed by arguments. Fork system call is used to create a child process to isolate executable execution. The program is run using the execvp system call, any errors are displayed in the console. In case the executable supplied does not exits, the prompt prints "invalid executable".
 
 ### Problem 2 - Dining Students
 - For 5 students and 5 spoons case, each person has a left and right spoon and when simulating, we had to make sure that only person could use a given spoon at a time. To do this, we have used locks and condition variables and as per the results, 2 students can eat parallelly.
