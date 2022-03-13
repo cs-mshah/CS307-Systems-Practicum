@@ -1,0 +1,9 @@
+myshell
+myshell batchfiledemo.txt
+pwd
+cd ..
+pwd
+echo batch works        correctly
+            echo hey
+dir .
+pause
