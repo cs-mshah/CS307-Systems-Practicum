@@ -3,6 +3,9 @@
 
 ## Problem 2
 
+Child Processes were forked from the parent using fork() system call and communication between them were done using pipe() which has two file descriptors fd[0] for reading and fd[1] for writing. This is because of the conceptual nature of a pipe. It has a input and an output, and you read the bytes from the output in the exact same order as they were written into the input. Pipes are not common files or pointers, you're not suppose to read and write anywhere in it. You're forced to read the first bytes that entered the pipe and that never be read yet.
+The four child processes are made according to the requirements and the results are sent to the parent via the pipe and eventually displayed.
+
 ## Problem 3 - Multithreaded MergeSort
 
 According to the question, we first generated a 2GB file of space-separated, random ASCII characters to act as our input file, which was then sorted using the program (q3.cpp) on the basis of the ASCII values. The output was then written into the file outputFile.txt.
