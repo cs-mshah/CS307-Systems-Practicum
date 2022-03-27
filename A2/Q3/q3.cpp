@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
-#include <math.h>
-#include <pthread.h>
-#include <fstream>
 #include "include/mythreads.h"
+
+typedef unsigned char BYTE;
 
 using namespace std;
 
@@ -12,7 +11,7 @@ int h; // depth of recursions
 int threadCount = 0; // number of threads made
 pthread_mutex_t numThreadsLock = PTHREAD_MUTEX_INITIALIZER; // lock for counting number of threads
 vector<pthread_t> th; // vector of threads
-vector<int> arr;
+vector<BYTE> arr;
 
 // UTILITY FUNCTIONS
 
@@ -24,9 +23,33 @@ void printArray(int size)
     cout << "\n\n";
 }
 
+void readFile(string filename, vector<BYTE> &vec)
+{
+    // open the file:
+    ifstream file(filename, ios::binary);
+
+    // Stop eating new lines in binary mode!!!
+    file.unsetf(ios::skipws);
+
+    // get its size:
+    streampos fileSize;
+
+    file.seekg(0, ios::end);
+    fileSize = file.tellg();
+    file.seekg(0, ios::beg);
+
+    // reserve capacity
+    vec.reserve(fileSize);
+
+    // read the data:
+    vec.insert(vec.begin(),
+               istream_iterator<BYTE>(file),
+               istream_iterator<BYTE>());
+}
+
 // To round of number of threads into nearest (least) power of 2
 int roundNumberOfThreads(int m){
-    return pow(2,m)-1;
+    return (1<<m)-1;
 }
 
 // Calculating depth of recursions
@@ -90,7 +113,6 @@ void merge(int const left, int const mid, int const right)
     }
 }
 
-
 void mergeSort(int const begin, int const end)
 {
     if (begin >= end)
@@ -102,7 +124,6 @@ void mergeSort(int const begin, int const end)
     merge(begin, mid, end);
 }
 
-
 // Mergsort function (threads)
 void* func(void* arg)
 {
@@ -111,7 +132,7 @@ void* func(void* arg)
     int begin = arrArg->begin;
     int end = arrArg->end;
     int height = arrArg->height;
-    cout << "ThreadID: " << arrArg->threadID << " Begin: "<< arrArg->begin << " End: " << arrArg->end << " height: " << arrArg->height << endl; 
+    //cout << "ThreadID: " << arrArg->threadID << " Begin: "<< arrArg->begin << " End: " << arrArg->end << " height: " << arrArg->height << endl; 
 
     if (height < h){
         
@@ -142,64 +163,33 @@ void* func(void* arg)
         Pthread_join(th[newArg2->threadID], NULL);
         
         merge(begin, mid, end);
-        cout << arrArg->threadID << " doing merging here of threads "  << newArg->threadID << " and " << newArg2->threadID << endl;
+        //cout << arrArg->threadID << " doing merging here of threads "  << newArg->threadID << " and " << newArg2->threadID << endl;
 
 
         return NULL;
     }
     else{
         mergeSort(begin, end);
-        cout << "Doing normal mergesort here with ThreadID: " << arrArg->threadID << "\n";
+        //cout << "Doing normal mergesort here with ThreadID: " << arrArg->threadID << "\n";
         return NULL;
     }
 }
 
-
-
-
 int main(int argc, char *argv[])
 {
-    assert(argc==3); // check for exactly 3 arguments
+    assert(argc==4); // check for exactly 4 arguments
 
     // Assigning n and t
     t = stoi(argv[1]);
-	n = stoi(argv[2]);
-    // string inputFile(stoi(argv[2]));
-    // string outputFile(stoi(argv[3]));
-
-    // ifstream input_file(inputFile);
-    // if (!input_file.is_open()) {
-    //     cerr << "Could not open the file - '"
-    //          << inputFile << "'" << endl;
-    //     return EXIT_FAILURE;
-    // }
-
-    // while (input_file >> number) {
-    //     arr.push_back(number);
-    // }
-    // input_file.close();
-
-
+    string in_path = argv[2], out_file = argv[3];
     
-
+    // read file into memory
+    readFile(in_path, arr);
+    n = arr.size();
+    cout<<n<<"\n";
     h = heightOfFunc(t); // Calculating depth of recursion of threads
     t = roundNumberOfThreads(h+1); // Number of threads made (2^m -1)
-
-
-    cout << "No. of threads we'll use: " << t << endl;
-    cout << "Size of array: " << n << endl;
-    cout << "Depth of recursive function: " << h+1 << endl;
-    
-    arr.resize(n); // resizing array into number of characters
     th.resize(t); // Creating t threads
-
-    // int arr[n];
-    for(int i=0; i<n; i++)
-        arr[i] = rand() % 100;  // Generate random number between 0 to 99
-    
-
-    cout << "\nElements of the array::"<< endl;
-    printArray(n);
 
     threadCount += 1;
     struct args *start = (struct args *)malloc(sizeof(struct args));
@@ -209,13 +199,15 @@ int main(int argc, char *argv[])
     start->begin = 0;
     start->end = n-1;
 
+    auto start_time = chrono::steady_clock::now();
     pthread_t parent; // Creating parent thread
     Pthread_create(&parent, NULL, func, start);
     Pthread_join(parent, NULL);
+    auto end_time = chrono::steady_clock::now();
 
-    cout << "\nTotal Threads Made: " << threadCount << endl;
-    cout<<"\nSorted Elements of the array::"<< endl;
-    printArray(n);
+    cout << "Elapsed time in milliseconds: "
+         << chrono::duration_cast<chrono::milliseconds>(end_time - start_time).count()
+         << " sec";
 
-	return 0;
+    return 0;
 }
