@@ -4,6 +4,7 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 #include<functional>
+#include <stdlib.h>
 
 using namespace std;
 
@@ -63,6 +64,52 @@ void child_three(void){
         cout << "invalid file\n";
     }
 }
+void child_four(void){
+    static unsigned long long lastTotalUser, lastTotalUserLow, lastTotalSys, lastTotalIdle;
+    unsigned long long totalUser, totalUserLow, totalSys, totalIdle, total;
+    double percent;
+    FILE* file = fopen("/proc/stat", "r");
+    fscanf(file, "cpu %llu %llu %llu %llu", &lastTotalUser, &lastTotalUserLow,
+        &lastTotalSys, &lastTotalIdle);
+    fclose(file);
+    sleep(1);
+    while(wait(NULL)<0){
+        file = fopen("/proc/stat", "r");
+        fscanf(file, "cpu %llu %llu %llu %llu", &totalUser, &totalUserLow,
+        &totalSys, &totalIdle);
+        fclose(file);
+        if (totalUser < lastTotalUser || totalUserLow < lastTotalUserLow ||
+        totalSys < lastTotalSys || totalIdle < lastTotalIdle){
+        //Overflow detection. 
+        percent = -1.0;
+    }
+    else{
+        total = (totalUser - lastTotalUser) + (totalUserLow - lastTotalUserLow) +
+            (totalSys - lastTotalSys);
+        percent = total;
+        total += (totalIdle - lastTotalIdle);
+        percent /= total;
+        percent *= 100;
+    }
+
+    lastTotalUser = totalUser;
+    lastTotalUserLow = totalUserLow;
+    lastTotalSys = totalSys;
+    lastTotalIdle = totalIdle;
+
+    cout << "Child Four:" << percent << endl;
+    string txt =  to_string(percent);
+    write(child_fds[0][1], txt.c_str(), txt.length());
+    close(child_fds[0][1]); // Close writing end of pipe
+    sleep(2);
+    }
+    
+
+
+    cout << "Child 4 done :)"<<endl;
+
+
+}
 
 void init_child( function<void()> func){
     pid_t pid = fork();
@@ -94,6 +141,7 @@ void init(){
     for(int i = 0; i < n_children; i++){
         pipe(child_fds[i]);
     }
+     init_child(child_four);
     init_child(child_three);
     init_child(child_two);
     init_child(child_one);
