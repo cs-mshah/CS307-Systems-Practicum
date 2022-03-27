@@ -13,14 +13,24 @@ map<char, char> charMap = { {'A', 'Z'}, {'B', 'W'}};
 int n_children = 4;
 vector<int[2]> child_fds; // each fd as fd_read, fd_write
 
+string encrypt(string txt){
+    string result = txt;
+    for(int i = 0; i < txt.length(); i++){
+        if(charMap.find(txt[i]) != charMap.end()){
+            result[i] = charMap[txt[i]];
+        }
+    }
+    return result;
+}
+
 void child_one(void){
     close(child_fds[0][0]); // Close reading end of pipe
 
     string txt;
     while(!cin.eof()){
         getline(cin, txt);
-        write(child_fds[0][1], txt.c_str(), txt.length());
-        cout << "child: " << txt << "\n";
+        write(child_fds[0][1], encrypt(txt).c_str(), txt.length());
+        cout << "child: " << encrypt(txt) << "\n";
         close(child_fds[0][1]); // Close writing end of pipe
     }
 
@@ -29,7 +39,6 @@ void child_one(void){
 }
 
 void child_two(void){
-
     const char* filepath = realpath("random.txt", NULL);
     if(filepath){
         ifstream fileStream(filepath);
@@ -50,14 +59,17 @@ void child_two(void){
 }
 
 void child_three(void){
-    const char* filepath = realpath("copythis.txt", NULL);
+    string copyFile = "copythis.txt", newFile = "new_" + copyFile;
+    const char* filepath = realpath(copyFile.c_str(), NULL);
     if(filepath){
         ifstream fileStream(filepath);
+        ofstream fileCopyStream(newFile);
         string line;
         while(getline(fileStream, line)){
-            write(child_fds[2][1], line.c_str(), line.length());
-            cout << "child3: " << line << "\n";
-            close(child_fds[2][1]); // Close writing end of pipe
+            // cout << "child3: " << line << "\n";
+            fileCopyStream << line << "\n";
+            // write(child_fds[2][1], line.c_str(), line.length());
+            // close(child_fds[2][1]); // Close writing end of pipe
         }
         cout << "child 3: all done\n";
     }
@@ -66,6 +78,7 @@ void child_three(void){
     }
     exit(0);
 }
+
 void child_four(void){
     static unsigned long long lastTotalUser, lastTotalUserLow, lastTotalSys, lastTotalIdle;
     unsigned long long totalUser, totalUserLow, totalSys, totalIdle, total;
@@ -99,17 +112,13 @@ void child_four(void){
     lastTotalSys = totalSys;
     lastTotalIdle = totalIdle;
 
-    cout << "Child Four:" << percent << endl;
+    // cout << "Child Four:" << percent << endl;
     string txt =  to_string(percent);
     write(child_fds[0][1], txt.c_str(), txt.length());
     close(child_fds[0][1]); // Close writing end of pipe
     sleep(2);
     }
-    
-
-
     cout << "Child 4 done :)"<<endl;
-
 
 }
 
@@ -127,6 +136,22 @@ int init_child( function<void()> func){
 }
 
 void init(){
+
+    // read mapping conf
+    const char* filepath = realpath("mapping.txt", NULL);
+    if(filepath){
+        ifstream fileStream(filepath);
+        char ch, ch_map;
+        while(fileStream >> ch){
+            fileStream >> ch_map;
+            charMap[ch] = ch_map;
+        }        
+    }
+    else{
+        cout << "invalid file\n";
+    }
+
+    // children
     child_fds = vector<int[2]>(n_children);  
     for(int i = 0; i < n_children; i++){
         pipe(child_fds[i]);
@@ -154,28 +179,28 @@ void init(){
         
         select(max_fd + 1, &fdset, NULL, NULL, NULL);
 
-        if(FD_ISSET(child_fds[0][0], &fdset))
+        // if(FD_ISSET(child_fds[0][0], &fdset))
         {
             read(child_fds[0][0], buffer, 1024);
             close(child_fds[0][0]);
             cout << "c1: " <<  buffer << "\n";
         }
 
-        if(FD_ISSET(child_fds[1][0], &fdset))
+        // if(FD_ISSET(child_fds[1][0], &fdset))
         {
             read(child_fds[1][0], buffer, 1024);
             close(child_fds[1][0]);
             cout << "c2: " <<  buffer << "\n";
         }
 
-        if(FD_ISSET(child_fds[2][0], &fdset))
+        // if(FD_ISSET(child_fds[2][0], &fdset))
         {
             read(child_fds[2][0], buffer, 1024);
             close(child_fds[2][0]);
             cout << "c3: " <<  buffer << "\n";
         }
 
-        if(FD_ISSET(child_fds[3][0], &fdset))
+        // if(FD_ISSET(child_fds[3][0], &fdset))
         {
             read(child_fds[3][0], buffer, 1024);
             close(child_fds[3][0]);
