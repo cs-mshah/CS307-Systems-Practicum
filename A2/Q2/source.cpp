@@ -30,8 +30,9 @@ void child_one(void){
     string txt;
     while(!cin.eof()){
         getline(cin, txt);
+        txt += "\n";
         write(child_fds[0][1], encrypt(txt).c_str(), txt.length());
-        cout << "child: " << encrypt(txt) << "\n";
+        // cout << "child: " << encrypt(txt) << "\n";
         //close(child_fds[0][1]); // Close writing end of pipe
     }
 
@@ -81,6 +82,8 @@ void child_three(void){
 }
 
 void child_four(void){
+    close(child_fds[3][0]); // Close reading end of pipe
+
     static unsigned long long lastTotalUser, lastTotalUserLow, lastTotalSys, lastTotalIdle;
     unsigned long long totalUser, totalUserLow, totalSys, totalIdle, total;
     double percent;
@@ -114,9 +117,8 @@ void child_four(void){
     lastTotalIdle = totalIdle;
 
     // cout << "Child Four:" << percent << endl;
-    string txt =  to_string(percent);
-    write(child_fds[0][1], txt.c_str(), txt.length());
-    close(child_fds[0][1]); // Close writing end of pipe
+    string txt =  "cpu percent: " + to_string(percent) + "\n";
+    write(child_fds[3][1], txt.c_str(), txt.length());
     sleep(2);
     }
     cout << "Child 4 done :)"<<endl;
@@ -166,40 +168,33 @@ void init(){
     // parent
     pid_t wpid;
     int status = 0;
-    fd_set fdset;
-    int max_fd;
+    fd_set fdset, prev_set;
+    int max_fd = 0, nfd;
     char buffer[1024];
 
-    while (true){
-        cout << "---\n";
-        FD_ZERO(&fdset);
+    FD_ZERO(&fdset);
+    for(int i = 0; i < n_children; i++){
+        FD_SET(child_fds[i][READ_END], &fdset);
+        max_fd = max(max_fd, child_fds[i][READ_END]);
+    }
 
-        //select(max_fd + 1, &fdset, NULL, NULL, NULL);
-
-        // if(FD_ISSET(child_fds[0][0], &fdset))
-        {
-            int status = read(child_fds[0][READ_END], buffer, 1024);
-            if(status > 0)
-                cout << "c1: " <<  buffer << "\n";
+    prev_set = fdset;
+    while(select(max_fd + 1, &prev_set, NULL, NULL, NULL) > 0){
+        cout << "\n-----------\n";
+        for(int i = 0; i < n_children; i++){
+            if(FD_ISSET(child_fds[i][READ_END], &prev_set)){
+                memset(&(buffer[0]), 0, sizeof(buffer));
+                if(read(child_fds[i][READ_END], buffer, sizeof(buffer)) > 0)
+                    cout << "c" << i + 1 << " : " << buffer << "\n";
+            }
         }
-
-        // status = read(child_fds[1][READ_END], buffer, 1024);
-        // if(status > 0)
-        //     cout << "c2: " <<  buffer << "\n";
-
-        // status = read(child_fds[2][READ_END], buffer, 1024);
-        // if(status > 0)
-        //     cout << "c3: " <<  buffer << "\n";
-
-        // status = read(child_fds[3][READ_END], buffer, 1024);
-        // if(status > 0)
-        //     cout << "c4: " <<  buffer << "\n";
-
+        cout << "-----------\n";
+        prev_set = fdset;
         sleep(5);
     }
 
-    cout << "all parent\n";
     wait(NULL);
+    cout << "all children exited\n";
 }
 
 int main(){
