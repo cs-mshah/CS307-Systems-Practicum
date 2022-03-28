@@ -1,5 +1,8 @@
 
 ## Problem 1
+We had downloaded linux kernel v5.10.108 and followed the given instructions. When trying to reduce the size of the kernel we disabled a few features that were not essential like graphics drivers, USB drivers, bluetooth, other architecture specific drivers. Since our machine had x86 64 bit architecture we had compiled the source for this architecture specifically. 
+
+Further we were able to crash the system by introducing division by zero errors.
 
 ## Problem 2
 
