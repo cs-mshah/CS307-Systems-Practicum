@@ -8,7 +8,8 @@
 
 using namespace std;
 
-map<char, char> charMap = { {'A', 'Z'}, {'B', 'W'}};
+int READ_END = 0, WRITE_END = 1;
+map<char, char> charMap;
 
 int n_children = 4;
 vector<int[2]> child_fds; // each fd as fd_read, fd_write
@@ -31,7 +32,7 @@ void child_one(void){
         getline(cin, txt);
         write(child_fds[0][1], encrypt(txt).c_str(), txt.length());
         cout << "child: " << encrypt(txt) << "\n";
-        close(child_fds[0][1]); // Close writing end of pipe
+        //close(child_fds[0][1]); // Close writing end of pipe
     }
 
     cout << "exit child 1\n";
@@ -122,7 +123,7 @@ void child_four(void){
 
 }
 
-int init_child( function<void()> func){
+int init_child(function<void()> func, int index){
     pid_t pid = fork();
     if(pid == 0){
         // child
@@ -131,6 +132,7 @@ int init_child( function<void()> func){
         exit(0);
     }
     else{
+        close(child_fds[index][WRITE_END]);
         return pid;
     }
 }
@@ -156,10 +158,10 @@ void init(){
     for(int i = 0; i < n_children; i++){
         pipe(child_fds[i]);
     }
-    int pid4 = init_child(child_four);
-    int pid3 = init_child(child_three);
-    int pid2 = init_child(child_two);
-    int pid1 = init_child(child_one);
+    int pid4 = init_child(child_four, 3);
+    int pid3 = init_child(child_three, 2);
+    int pid2 = init_child(child_two, 1);
+    int pid1 = init_child(child_one, 0);
 
     // parent
     pid_t wpid;
@@ -169,45 +171,31 @@ void init(){
     char buffer[1024];
 
     while (true){
+        cout << "---\n";
         FD_ZERO(&fdset);
 
-        // add fds to fd set for select
-        for(int i = 0; i < n_children; i++){
-            FD_SET(child_fds[i][0], &fdset);
-            max_fd = max(max_fd, child_fds[i][0]);
-        }
-        
-        select(max_fd + 1, &fdset, NULL, NULL, NULL);
+        //select(max_fd + 1, &fdset, NULL, NULL, NULL);
 
         // if(FD_ISSET(child_fds[0][0], &fdset))
         {
-            read(child_fds[0][0], buffer, 1024);
-            close(child_fds[0][0]);
-            cout << "c1: " <<  buffer << "\n";
+            int status = read(child_fds[0][READ_END], buffer, 1024);
+            if(status > 0)
+                cout << "c1: " <<  buffer << "\n";
         }
 
-        // if(FD_ISSET(child_fds[1][0], &fdset))
-        {
-            read(child_fds[1][0], buffer, 1024);
-            close(child_fds[1][0]);
-            cout << "c2: " <<  buffer << "\n";
-        }
+        // status = read(child_fds[1][READ_END], buffer, 1024);
+        // if(status > 0)
+        //     cout << "c2: " <<  buffer << "\n";
 
-        // if(FD_ISSET(child_fds[2][0], &fdset))
-        {
-            read(child_fds[2][0], buffer, 1024);
-            close(child_fds[2][0]);
-            cout << "c3: " <<  buffer << "\n";
-        }
+        // status = read(child_fds[2][READ_END], buffer, 1024);
+        // if(status > 0)
+        //     cout << "c3: " <<  buffer << "\n";
 
-        // if(FD_ISSET(child_fds[3][0], &fdset))
-        {
-            read(child_fds[3][0], buffer, 1024);
-            close(child_fds[3][0]);
-            cout << "c4: " <<  buffer << "\n";
-        }
+        // status = read(child_fds[3][READ_END], buffer, 1024);
+        // if(status > 0)
+        //     cout << "c4: " <<  buffer << "\n";
 
-        sleep(2);
+        sleep(5);
     }
 
     cout << "all parent\n";
