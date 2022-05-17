@@ -60,5 +60,16 @@ After that, on the "local" or different laptop, we looked at port:4321 and start
 
 ## Problem 2
 
+Compile in `/question1` using: `make`
+
+Run using `./server` and `./client`
+
+`details` : User id, total size transmitted, and list of files transferred are all included.
+
+`<filename>`: Checks if the file is on the system and then transmits it to the client.
+
+Objective : Multi-user file transfer programme that can handle very huge files.
+
+Result : With the exception of slight loss in pdf and binary files, we developed a multi-user programme that permitted near-lossless transfer of text and picture data. We were unable to support files larger than 65 KB in size. Active users' information was also kept track of by the programme.
 
 ## Problem 3 
