@@ -4,7 +4,10 @@
 #include <string.h>
 #include <sys/socket.h>
 #include <unistd.h>
+
 #define PORT 8080
+#define POLYNOMIAL 11011
+#define MAXLEN 20000
 
 int connect_socket(int port, struct sockaddr_in *address)
 {
@@ -41,17 +44,90 @@ int connect_client(int server_fd, struct sockaddr_in *server_addr)
     return client_fd;
 }
 
+void decode_crc(char *msg, int N, char *result)
+{
+	char polynomial[5];
+	char zeropoly[5] = "00000";
+	int reshead = 0;
+	int errorflag[N], has_error = 0;
+
+	sprintf(polynomial, "%d", POLYNOMIAL);
+	for (int i = 0; i < 12 * N; i += 12)
+	{
+		char msgblock[12] = {0};
+		strncpy(msgblock, msg + i, 12);
+		for (int j = 0; j < 7; j++)
+		{
+			int flag;
+			if (msgblock[j] == '1')
+				flag = 1;
+			else
+				flag = 0;
+			msgblock[j] = '0';
+			for (int k = j + 1; k < j + 5; k++)
+			{
+				if (flag == 1)
+				{
+					if (msgblock[k] == polynomial[k - j])
+						msgblock[k] = '0';
+					else
+						msgblock[k] = '1';
+				}
+				else
+				{
+					if (msgblock[k] == zeropoly[k - j])
+						msgblock[k] = '0';
+					else
+						msgblock[k] = '1';
+				}
+			}
+		}
+		if (strcmp(msgblock + 8, "0000") == 0)
+			errorflag[i / 12] = 0;
+		else
+			errorflag[i / 12] = 1;
+		strncpy(result + reshead, msg + i, 8);
+		reshead += 8;
+	}
+
+	for (int i = 0; i < N; i++)
+	{
+		if (errorflag[i] == 1)
+		{
+            has_error = 1;
+			printf("Error in block %d", i);
+		}
+	}
+
+    if(has_error == 0)
+    {
+        printf("no errors\n");
+    }
+}
+
+
 void crc(int server_fd, int client_fd)
 {
-    int divisor_n, read_length;
-    char divisor[9] = {0};
+    while(1)
+    {
+        int n, read_length;
+        char n_str[MAXLEN] = {0};
 
-    // receive n from server
-    read_length = read(server_fd, divisor, 6);
-    divisor_n = atoi(divisor);
+        // receive n from server
+        read_length = read(server_fd, n_str, MAXLEN - 1);
+        n = atoi(n_str);
 
-    printf("n received: %d\n", divisor_n);
-    
+        printf("n received: %d\n", n);
+
+        // receive msg
+        char recvd_msg[MAXLEN] = {0}, res[MAXLEN] = {0};
+        read_length = read(server_fd, recvd_msg, MAXLEN - 1);
+        printf("recvd: %s\n", recvd_msg);
+
+        // decode crc
+        decode_crc(recvd_msg, n, res);
+        printf("decoded: %s\n", res);
+    }
 }
 
 int main(int argc, char const *argv[])

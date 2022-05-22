@@ -6,6 +6,8 @@
 #include <unistd.h>
 
 #define PORT 8080
+#define POLYNOMIAL 11011
+#define MAXLEN 20000
 
 int connect_socket(int port, struct sockaddr_in* address)
 {
@@ -73,20 +75,82 @@ void generate_msg(char *msg, int N)
 	{
 		msg[i] = (rand() % 2) + '0';
 	}
-	printf("Generated: %s\n", msg);
 }
+
+void encode_crc(char *msg, int N, char *result)
+{
+	char polynomial[5];
+	char zeropoly[5] = "00000";
+	int reshead = 0;
+	sprintf(polynomial, "%d", POLYNOMIAL);
+	// blocks of 8
+	for (int i = 0; i < 8 * N; i += 8)
+	{
+		// 8 + 4 will be resultant block
+		char msgblock[12] = "000000000000";
+		strncpy(msgblock, msg + i, 8);
+		printf("%s\n", msgblock);
+		for (int j = 0; j < 7; j++)
+		{
+			int flag;
+			if (msgblock[j] == '1')
+				flag = 1;
+			else
+				flag = 0;
+			msgblock[j] = '0';
+			for (int k = j + 1; k < j + 5; k++)
+			{
+				if (flag == 1)
+				{
+					if (msgblock[k] == polynomial[k - j])
+						msgblock[k] = '0';
+					else
+						msgblock[k] = '1';
+				}
+				else
+				{
+					if (msgblock[k] == zeropoly[k - j])
+						msgblock[k] = '0';
+					else
+						msgblock[k] = '1';
+				}
+			}
+		}
+        // copy 8-block initial string
+		strncpy(result + reshead, msg + i, 8);
+        // add 4 blocks crc
+		strncpy(result + reshead + 8, msgblock + 8, 4);
+		reshead += 12;
+	}
+}
+
 
 void crc_client(int server_fd, int client_fd)
 {
-    int divisor;
-    char divisor_string[9];
+    while(1)
+    {
+        int n;
+        char n_string[9];
 
-    printf("\nEnter CRC divisor(n): ");
-    scanf("%d", &divisor);
-    sprintf(divisor_string, "%d", divisor);
+        printf("\nEnter N: ");
+        scanf("%d", &n);
+        sprintf(n_string, "%d", n);
 
-    // send n to client
-    send(client_fd, divisor_string, strlen(divisor_string), 0);
+        // send n to client
+        send(client_fd, n_string, strlen(n_string), 0);
+
+        // generate msg
+        char msg[MAXLEN] = {0}, encoded_msg[MAXLEN] = {0};
+        generate_msg(msg, n);
+        printf("generated: %s\n", msg);
+
+        // encode msg
+        encode_crc(msg, n, encoded_msg);
+        printf("encoded msg: %s\n", encoded_msg);
+
+        // send encoded message to client
+        send(client_fd, encoded_msg, strlen(encoded_msg), 0);
+    }
 }
 
 int main(int argc, char const *argv[])
