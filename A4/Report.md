@@ -14,7 +14,7 @@ Pratiksha:
 ![](ip2l_prati.png)
 
 Solai Adithya:
-![](ifconfig_adhi.png) 
+![](ifocnfig_adhi.jpeg) 
 ![](ip2l_adhi.png)
 
 Ayuj:
@@ -30,7 +30,7 @@ Niveditha:
 ![](ip2l_niv.png)
 
 Harnanman:
-![](ifconfig_harnanman.png) 
+![](ifconfig_harnaman.png) 
 ![](ip2l_harnanman.png)
 
 ### 1B
@@ -73,3 +73,12 @@ Objective : Multi-user file transfer programme that can handle very huge files.
 Result : With the exception of slight loss in pdf and binary files, we developed a multi-user programme that permitted near-lossless transfer of text and picture data. We were unable to support files larger than 65 KB in size. Active users' information was also kept track of by the programme.
 
 ## Problem 3 
+Compile `Makefile` in `/question3` using `make`
+ 
+ Run using `./server` and `./client`
+
+ A divisor of length 5 is predecided and the length of message to be transferred, i.e. N in 8*N is exchanged after connection is established between server and client. A random string of length 8*N is generated and it is divided into blocks of 8. For each block, crc is generated and appended next to it to generate the encoded string. The server sends the encoded string to the client.
+
+ The client receives the string, processes it in blocks of 8 to verify the crc and separate the data block from crc. The decoded string is displayed as output.
+
+ No errors were detected on the client, as expected, because communications on the same host are effectlively lossless.
