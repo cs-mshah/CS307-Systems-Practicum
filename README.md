@@ -1,4 +1,4 @@
-# CS307_systems-practicuum
+# CS307 Systems-Practicum
 
 ### Team Members
 
